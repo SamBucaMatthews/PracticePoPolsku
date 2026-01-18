@@ -71,6 +71,30 @@
     },
     "translations": [{ "language": "english", "translation": "bed" }]
   },
+  "półka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "półka",
+        "genitive": "półki",
+        "dative": "półce",
+        "accusative": "półkę",
+        "instrumental": "półką",
+        "locative": "półce",
+        "vocative": "półko"
+      },
+      "plural": {
+        "nominative": "półki",
+        "genitive": "półek",
+        "dative": "półkom",
+        "accusative": "półki",
+        "instrumental": "półkami",
+        "locative": "półkach",
+        "vocative": "półki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "shelf" }]
+  },
   "szafa": {
     "gender": "feminine",
     "cases": {
