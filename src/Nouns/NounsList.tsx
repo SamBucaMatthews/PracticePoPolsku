@@ -38,7 +38,7 @@ export default function NounsList() {
                 {lemmas.map(lemma => (
                     <li key={lemma}
                         style={{ padding: "8px 0", borderBottom: "1px solid #ddd", cursor: "pointer" }}
-                        onClick={() => alert(`Details for: ${lemma} (coming soon)`)}>
+                        onClick={() => navigate(`/nouns/${encodeURIComponent(lemma)}`)}>
                         <strong>{lemma}</strong>
                     </li>
                 ))}
