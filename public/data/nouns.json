@@ -1,4 +1,22 @@
 {
+  "krzesło": {
+    "gender": "neuter",
+    "cases": {
+      "nominative": "krzesło",
+      "genitive": "krzesła",
+      "dative": "krzesłu",
+      "accusative": "krzesło",
+      "instrumental": "krzesłem",
+      "locative": "krześle",
+      "vocative": "krzesło"
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "chair"
+      }
+    ]
+  },
   "łóżko": {
     "gender": "neuter",
     "cases": {
