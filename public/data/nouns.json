@@ -1,0 +1,20 @@
+{
+  "łóżko": {
+    "gender": "neuter",
+    "cases": {
+      "nominative": "łóżko",
+      "genitive": "łóżka",
+      "dative": "łóżku",
+      "accusative": "łóżko",
+      "instrumental": "łóżkiem",
+      "locative": "łóżku",
+      "vocative": "łóżko"
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "bed"
+      }
+    ]
+  }
+}

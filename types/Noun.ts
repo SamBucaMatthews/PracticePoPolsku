@@ -1,17 +1,14 @@
-export type Cases = {
-    nominative: string;   // Mianownik
-    genitive: string;     // Dopełniacz
-    dative: string;       // Celownik
-    accusative: string;   // Biernik
-    instrumental: string; // Narzędnik
-    locative: string;     // Miejscownik
-    vocative: string;     // Wołacz
-};
+import type { Cases } from "./Cases";
+import type { Gender } from "./Gender";
+import type { Translation } from "./Translation";
 
-export type Noun = {
-    word: string;
+export interface NounEntry {
+    gender: Gender;
     cases: Cases;
-};
+    translations?: Translation[]
+}
+
+export type NounsDictionary = Record<string, NounEntry>;
 
 export const PREPOSITION_CASE_MAP: Record<string, keyof Cases> = {
     w: "locative",
