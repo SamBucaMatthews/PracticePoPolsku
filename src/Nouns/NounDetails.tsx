@@ -3,6 +3,8 @@ import { useEffect, useState } from "react";
 import type { NounEntry } from "../../types/Noun";
 import { loadNouns } from "../DataAccess/DataAccess";
 import { PrepositionTable } from "./PrepositionTable";
+import { CasesTable } from "./CasesTable";
+import { TranslationsTable } from "./TranslationsTable";
 
 export default function NounDetails() {
     const { lemma } = useParams<{ lemma: string }>();
@@ -38,46 +40,8 @@ export default function NounDetails() {
             <h2>{lemma}</h2>
             <p>Gender: {noun.gender}</p>
 
-            {noun.translations && (
-                <div style={{ marginTop: 16 }}>
-                    <h3>Translations</h3>
-                    <table style={{ width: "100%", borderCollapse: "collapse" }}>
-                        <thead>
-                            <tr>
-                                <th style={{ textAlign: "left", borderBottom: "1px solid #ccc", padding: "4px 8px" }}>Language</th>
-                                <th style={{ textAlign: "left", borderBottom: "1px solid #ccc", padding: "4px 8px" }}>Translation</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {noun.translations.map(t => (
-                                <tr key={t.language}>
-                                    <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{t.language}</td>
-                                    <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{t.translation}</td>
-                                </tr>
-                            ))}
-                        </tbody>
-                    </table>
-                </div>
-            )}
-
-            <h3>Cases</h3>
-            <table style={{ width: "100%", borderCollapse: "collapse" }}>
-                <thead>
-                    <tr>
-                        <th style={{ textAlign: "left", borderBottom: "1px solid #ccc", padding: "4px 8px" }}>Case</th>
-                        <th style={{ textAlign: "left", borderBottom: "1px solid #ccc", padding: "4px 8px" }}>Form</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {Object.entries(noun.cases).map(([caseName, word]) => (
-                        <tr key={caseName}>
-                            <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{caseName}</td>
-                            <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{word}</td>
-                        </tr>
-                    ))}
-                </tbody>
-            </table>
-
+            {noun.translations && <TranslationsTable translations={noun.translations} />}
+            <CasesTable noun={noun} />
             <PrepositionTable noun={noun} />
         </div>
     );
