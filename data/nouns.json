@@ -1,0 +1,602 @@
+{
+  "biuro": {
+    "gender": "neuter",
+    "cases": {
+      "singular": {
+        "nominative": "biuro",
+        "genitive": "biura",
+        "dative": "biuru",
+        "accusative": "biuro",
+        "instrumental": "biurem",
+        "locative": "biurze",
+        "vocative": "biuro"
+      },
+      "plural": {
+        "nominative": "biura",
+        "genitive": "biur",
+        "dative": "biurom",
+        "accusative": "biura",
+        "instrumental": "biurami",
+        "locative": "biurach",
+        "vocative": "biura"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "office" }]
+  },
+  "dom": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "dom",
+        "genitive": "domu",
+        "dative": "domowi",
+        "accusative": "dom",
+        "instrumental": "domem",
+        "locative": "domu",
+        "vocative": "domu"
+      },
+      "plural": {
+        "nominative": "domy",
+        "genitive": "domów",
+        "dative": "domom",
+        "accusative": "domy",
+        "instrumental": "domami",
+        "locative": "domach",
+        "vocative": "domy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "house" }]
+  },
+  "ekran": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "ekran",
+        "genitive": "ekranu",
+        "dative": "ekranowi",
+        "accusative": "ekran",
+        "instrumental": "ekranem",
+        "locative": "ekranie",
+        "vocative": "ekranie"
+      },
+      "plural": {
+        "nominative": "ekrany",
+        "genitive": "ekranów",
+        "dative": "ekranom",
+        "accusative": "ekrany",
+        "instrumental": "ekranami",
+        "locative": "ekranach",
+        "vocative": "ekrany"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "screen" }]
+  },
+  "gitara": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "gitara",
+        "genitive": "gitary",
+        "dative": "gitarze",
+        "accusative": "gitarę",
+        "instrumental": "gitarą",
+        "locative": "gitarze",
+        "vocative": "gitaro"
+      },
+      "plural": {
+        "nominative": "gitary",
+        "genitive": "gitar",
+        "dative": "gitarom",
+        "accusative": "gitary",
+        "instrumental": "gitarami",
+        "locative": "gitarach",
+        "vocative": "gitary"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "guitar" }]
+  },
+  "komputer": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "komputer",
+        "genitive": "komputera",
+        "dative": "komputerowi",
+        "accusative": "komputer",
+        "instrumental": "komputerem",
+        "locative": "komputerze",
+        "vocative": "komputerze"
+      },
+      "plural": {
+        "nominative": "komputery",
+        "genitive": "komputerów",
+        "dative": "komputerom",
+        "accusative": "komputery",
+        "instrumental": "komputerami",
+        "locative": "komputerach",
+        "vocative": "komputery"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "computer" }]
+  },
+  "kot": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "kot",
+        "genitive": "kota",
+        "dative": "kotu",
+        "accusative": "kota",
+        "instrumental": "kotem",
+        "locative": "kocie",
+        "vocative": "kocie"
+      },
+      "plural": {
+        "nominative": "koty",
+        "genitive": "kotów",
+        "dative": "kotom",
+        "accusative": "koty",
+        "instrumental": "kotami",
+        "locative": "kotach",
+        "vocative": "koty"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "cat" }]
+  },
+  "kubek": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "kubek",
+        "genitive": "kubeka",
+        "dative": "kubekowi",
+        "accusative": "kubek",
+        "instrumental": "kubekiem",
+        "locative": "kubku",
+        "vocative": "kubku"
+      },
+      "plural": {
+        "nominative": "kubki",
+        "genitive": "kubków",
+        "dative": "kubkom",
+        "accusative": "kubki",
+        "instrumental": "kubkami",
+        "locative": "kubkach",
+        "vocative": "kubki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "mug" }]
+  },
+  "kuchnia": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "kuchnia",
+        "genitive": "kuchni",
+        "dative": "kuchni",
+        "accusative": "kuchnię",
+        "instrumental": "kuchnią",
+        "locative": "kuchni",
+        "vocative": "kuchnio"
+      },
+      "plural": {
+        "nominative": "kuchnie",
+        "genitive": "kuchni",
+        "dative": "kuchniom",
+        "accusative": "kuchnie",
+        "instrumental": "kuchniami",
+        "locative": "kuchniach",
+        "vocative": "kuchnie"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "kitchen" }]
+  },
+  "krzesło": {
+    "gender": "neuter",
+    "cases": {
+      "singular": {
+        "nominative": "krzesło",
+        "genitive": "krzesła",
+        "dative": "krzesłu",
+        "accusative": "krzesło",
+        "instrumental": "krzesłem",
+        "locative": "krześle",
+        "vocative": "krzesło"
+      },
+      "plural": {
+        "nominative": "krzesła",
+        "genitive": "krzeseł",
+        "dative": "krzesłom",
+        "accusative": "krzesła",
+        "instrumental": "krzesłami",
+        "locative": "krzesłach",
+        "vocative": "krzesła"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "chair" }]
+  },
+  "książka": {
+    "gender": "neuter",
+    "cases": {
+      "singular": {
+        "nominative": "książka",
+        "genitive": "książki",
+        "dative": "książce",
+        "accusative": "książkę",
+        "instrumental": "książką",
+        "locative": "książce",
+        "vocative": "książko"
+      },
+      "plural": {
+        "nominative": "książki",
+        "genitive": "książek",
+        "dative": "książkom",
+        "accusative": "książki",
+        "instrumental": "książkami",
+        "locative": "książkach",
+        "vocative": "książki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "book" }]
+  },
+  "łazienka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "łazienka",
+        "genitive": "łazienki",
+        "dative": "łazience",
+        "accusative": "łazienkę",
+        "instrumental": "łazienką",
+        "locative": "łazience",
+        "vocative": "łazienko"
+      },
+      "plural": {
+        "nominative": "łazienki",
+        "genitive": "łazienek",
+        "dative": "łazienkom",
+        "accusative": "łazienki",
+        "instrumental": "łazienkami",
+        "locative": "łazienkach",
+        "vocative": "łazienki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "bathroom" }]
+  },
+  "lodówka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "lodówka",
+        "genitive": "lodówki",
+        "dative": "lodówce",
+        "accusative": "lodówkę",
+        "instrumental": "lodówką",
+        "locative": "lodówce",
+        "vocative": "lodówko"
+      },
+      "plural": {
+        "nominative": "lodówki",
+        "genitive": "lodówek",
+        "dative": "lodówkom",
+        "accusative": "lodówki",
+        "instrumental": "lodówkami",
+        "locative": "lodówkach",
+        "vocative": "lodówki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "fridge" }]
+  },
+  "łóżko": {
+    "gender": "neuter",
+    "cases": {
+      "singular": {
+        "nominative": "łóżko",
+        "genitive": "łóżka",
+        "dative": "łóżku",
+        "accusative": "łóżko",
+        "instrumental": "łóżkiem",
+        "locative": "łóżku",
+        "vocative": "łóżko"
+      },
+      "plural": {
+        "nominative": "łóżka",
+        "genitive": "łóżek",
+        "dative": "łóżkom",
+        "accusative": "łóżka",
+        "instrumental": "łóżkami",
+        "locative": "łóżkach",
+        "vocative": "łóżka"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "bed" }]
+  },
+  "obraz": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "obraz",
+        "genitive": "obrazu",
+        "dative": "obrazowi",
+        "accusative": "obraz",
+        "instrumental": "obrazem",
+        "locative": "obrazie",
+        "vocative": "obrazie"
+      },
+      "plural": {
+        "nominative": "obrazy",
+        "genitive": "obrazów",
+        "dative": "obrazom",
+        "accusative": "obrazy",
+        "instrumental": "obrazami",
+        "locative": "obrazach",
+        "vocative": "obrazy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "picture" }]
+  },
+  "podłoga": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "podłoga",
+        "genitive": "podłogi",
+        "dative": "podłodze",
+        "accusative": "podłogę",
+        "instrumental": "podłogą",
+        "locative": "podłodze",
+        "vocative": "podłogo"
+      },
+      "plural": {
+        "nominative": "podłogi",
+        "genitive": "podłóg",
+        "dative": "podłogom",
+        "accusative": "podłogi",
+        "instrumental": "podłogami",
+        "locative": "podłogach",
+        "vocative": "podłogi"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "floor" }]
+  },
+  "półka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "półka",
+        "genitive": "półki",
+        "dative": "półce",
+        "accusative": "półkę",
+        "instrumental": "półką",
+        "locative": "półce",
+        "vocative": "półko"
+      },
+      "plural": {
+        "nominative": "półki",
+        "genitive": "półek",
+        "dative": "półkom",
+        "accusative": "półki",
+        "instrumental": "półkami",
+        "locative": "półkach",
+        "vocative": "półki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "shelf" }]
+  },
+  "pudełko": {
+    "gender": "neuter",
+    "cases": {
+      "singular": {
+        "nominative": "pudełko",
+        "genitive": "pudełka",
+        "dative": "pudełku",
+        "accusative": "pudełko",
+        "instrumental": "pudełkiem",
+        "locative": "pudełku",
+        "vocative": "pudełko"
+      },
+      "plural": {
+        "nominative": "pudełka",
+        "genitive": "pudełek",
+        "dative": "pudełkom",
+        "accusative": "pudełka",
+        "instrumental": "pudełkami",
+        "locative": "pudełkach",
+        "vocative": "pudełka"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "box" }]
+  },
+  "ściana": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "ściana",
+        "genitive": "ściany",
+        "dative": "ścianie",
+        "accusative": "ścianę",
+        "instrumental": "ścianą",
+        "locative": "ścianie",
+        "vocative": "ściano"
+      },
+      "plural": {
+        "nominative": "ściany",
+        "genitive": "ścian",
+        "dative": "ścianom",
+        "accusative": "ściany",
+        "instrumental": "ścianami",
+        "locative": "ścianach",
+        "vocative": "ściany"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "wall" }]
+  },
+  "siłownia": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "siłownia",
+        "genitive": "siłowni",
+        "dative": "siłowni",
+        "accusative": "siłownię",
+        "instrumental": "siłownią",
+        "locative": "siłowni",
+        "vocative": "siłownio"
+      },
+      "plural": {
+        "nominative": "siłownie",
+        "genitive": "siłowni",
+        "dative": "siłowniom",
+        "accusative": "siłownie",
+        "instrumental": "siłowniami",
+        "locative": "siłowniach",
+        "vocative": "siłownie"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "gym" }]
+  },
+  "sklep": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "sklep",
+        "genitive": "sklepu",
+        "dative": "sklepowi",
+        "accusative": "sklep",
+        "instrumental": "sklepem",
+        "locative": "sklepie",
+        "vocative": "sklepie"
+      },
+      "plural": {
+        "nominative": "sklepy",
+        "genitive": "sklepów",
+        "dative": "sklepop",
+        "accusative": "sklepy",
+        "instrumental": "sklepami",
+        "locative": "sklepach",
+        "vocative": "sklepy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "shop" }]
+  },
+  "stół": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "stół",
+        "genitive": "stołu",
+        "dative": "stołowi",
+        "accusative": "stół",
+        "instrumental": "stołem",
+        "locative": "stole",
+        "vocative": "stole"
+      },
+      "plural": {
+        "nominative": "stoły",
+        "genitive": "stołów",
+        "dative": "stołom",
+        "accusative": "stoły",
+        "instrumental": "stołami",
+        "locative": "stołach",
+        "vocative": "stoły"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "table" }]
+  },
+  "sufit": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "sufit",
+        "genitive": "sufitu",
+        "dative": "sufitowi",
+        "accusative": "sufit",
+        "instrumental": "sufitem",
+        "locative": "suficie",
+        "vocative": "suficie"
+      },
+      "plural": {
+        "nominative": "sufity",
+        "genitive": "sufitów",
+        "dative": "sufitom",
+        "accusative": "sufity",
+        "instrumental": "sufitami",
+        "locative": "sufitach",
+        "vocative": "sufity"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "ceiling" }]
+  },
+  "szafa": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "szafa",
+        "genitive": "szafy",
+        "dative": "szafie",
+        "accusative": "szafę",
+        "instrumental": "szafą",
+        "locative": "szafie",
+        "vocative": "szafo"
+      },
+      "plural": {
+        "nominative": "szafy",
+        "genitive": "szaf",
+        "dative": "szafom",
+        "accusative": "szafy",
+        "instrumental": "szafami",
+        "locative": "szafach",
+        "vocative": "szafy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "wardrobe" }]
+  },
+  "szklanka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "szklanka",
+        "genitive": "szklanki",
+        "dative": "szklance",
+        "accusative": "szklankę",
+        "instrumental": "szklanką",
+        "locative": "szklance",
+        "vocative": "szklanko"
+      },
+      "plural": {
+        "nominative": "szklanki",
+        "genitive": "szklanek",
+        "dative": "szklankom",
+        "accusative": "szklanki",
+        "instrumental": "szklankami",
+        "locative": "szklankach",
+        "vocative": "szklanki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "glass" }]
+  },
+  "woda": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "woda",
+        "genitive": "wody",
+        "dative": "wodzie",
+        "accusative": "wodę",
+        "instrumental": "wodą",
+        "locative": "wodce",
+        "vocative": "wodo"
+      },
+      "plural": {
+        "nominative": "wody",
+        "genitive": "wód",
+        "dative": "wodom",
+        "accusative": "wody",
+        "instrumental": "wodami",
+        "locative": "wodach",
+        "vocative": "wody"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "water" }]
+  }
+}
