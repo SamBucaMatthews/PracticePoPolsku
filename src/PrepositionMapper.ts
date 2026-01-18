@@ -2,7 +2,7 @@ import type { Cases } from "../types/Cases";
 import type { NounEntry } from "../types/Noun";
 
 export type PrepositionCaseRule = {
-  static: keyof Cases;
+  static?: keyof Cases;
   motion?: keyof Cases;
 };
 
@@ -10,23 +10,23 @@ export const PrepositionCaseMap: Record<string, PrepositionCaseRule> = {
   w: { static: "locative", motion: "accusative" },
   na: { static: "locative", motion: "accusative" },
   pod: { static: "instrumental", motion: "accusative" },
-  do: { static: "genitive" },
-  z: { static: "instrumental" },
+  nad: { static: "instrumental", motion: "accusative" },
+  przed: { static: "instrumental", motion: "accusative" },
+  za: { static: "instrumental", motion: "accusative" },
+  między: { static: "instrumental", motion: "accusative" },
+  do: { motion: "genitive" },
+  od: { motion: "genitive" },
+  z: { motion: "genitive", static: "instrumental" },
   o: { static: "locative" },
   przy: { static: "locative" },
-  dla: { static: "genitive" },
-  od: { static: "genitive" },
-  przed: { static: "instrumental" },
-  za: { static: "instrumental" },
-  między: { static: "instrumental" },
   po: { static: "locative" },
-  nad: { static: "instrumental", motion: "accusative" },
+  dla: { motion: "genitive" },
 };
 
 export type PrepositionForm = {
   preposition: string;
-  singular: { static: string; motion?: string };
-  plural: { static: string; motion?: string };
+  singular: { static?: string; motion?: string };
+  plural: { static?: string; motion?: string };
 };
 
 export function getPrepositionsForNoun(noun: NounEntry): PrepositionForm[] {
@@ -35,11 +35,11 @@ export function getPrepositionsForNoun(noun: NounEntry): PrepositionForm[] {
     .map(([prep, rule]) => ({
       preposition: prep,
       singular: {
-        static: noun.cases.singular[rule.static],
+        static: rule.static ? noun.cases.singular[rule.static] : undefined,
         motion: rule.motion ? noun.cases.singular[rule.motion] : undefined,
       },
       plural: {
-        static: noun.cases.plural[rule.static],
+        static: rule.static ? noun.cases.plural[rule.static] : undefined,
         motion: rule.motion ? noun.cases.plural[rule.motion] : undefined,
       },
     }));
