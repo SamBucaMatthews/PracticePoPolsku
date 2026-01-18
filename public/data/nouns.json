@@ -16,5 +16,23 @@
         "translation": "bed"
       }
     ]
+  },
+  "stół": {
+    "gender": "masculine",
+    "cases": {
+      "nominative": "stół",
+      "genitive": "stołu",
+      "dative": "stołowi",
+      "accusative": "stół",
+      "instrumental": "stółem",
+      "locative": "stole",
+      "vocative": "stole"
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "table"
+      }
+    ]
   }
 }
