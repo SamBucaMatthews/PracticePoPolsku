@@ -27,5 +27,4 @@ export const PREPOSITION_CASE_MAP: Record<string, keyof Cases> = {
     za: "instrumental",
     między: "instrumental",
     po: "locative",
-    względem: "genitive",
 };
