@@ -85,7 +85,6 @@ export default function NounsPrepositionsPractice() {
                     borderRadius: 6,
                     border: "1px solid #ccc",
                     cursor: "pointer",
-                    backgroundColor: "#f5f5f5"
                 }}
             >
                 ← Back
@@ -108,7 +107,6 @@ export default function NounsPrepositionsPractice() {
                             borderRadius: 6,
                             border: "1px solid #ccc",
                             cursor: "pointer",
-                            backgroundColor: "#fff",
                             fontSize: 16,
                             textAlign: "left",
                         }}

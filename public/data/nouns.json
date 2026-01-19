@@ -71,6 +71,30 @@
     },
     "translations": [{ "language": "english", "translation": "screen" }]
   },
+  "fotel": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "fotel",
+        "genitive": "fotela",
+        "dative": "fotelowi",
+        "accusative": "fotel",
+        "instrumental": "fotelem",
+        "locative": "fotelu",
+        "vocative": "fotelu"
+      },
+      "plural": {
+        "nominative": "fotele",
+        "genitive": "fotelów",
+        "dative": "fotelom",
+        "accusative": "fotele",
+        "instrumental": "fotelami",
+        "locative": "fotelach",
+        "vocative": "fotele"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "armchair" }]
+  },
   "gitara": {
     "gender": "feminine",
     "cases": {
@@ -94,6 +118,56 @@
       }
     },
     "translations": [{ "language": "english", "translation": "guitar" }]
+  },
+  "kobieta": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "kobieta",
+        "genitive": "kobiety",
+        "dative": "kobiecie",
+        "accusative": "kobietę",
+        "instrumental": "kobietą",
+        "locative": "kobiecie",
+        "vocative": "kobieto"
+      },
+      "plural": {
+        "nominative": "kobiety",
+        "genitive": "kobiet",
+        "dative": "kobietom",
+        "accusative": "kobiety",
+        "instrumental": "kobietami",
+        "locative": "kobietach",
+        "vocative": "kobiety"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "woman" }]
+  },
+  "komórka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "komórka",
+        "genitive": "komórki",
+        "dative": "komórce",
+        "accusative": "komórkę",
+        "instrumental": "komórką",
+        "locative": "komórce",
+        "vocative": "komórko"
+      },
+      "plural": {
+        "nominative": "komórki",
+        "genitive": "komórek",
+        "dative": "komórkom",
+        "accusative": "komórki",
+        "instrumental": "komórkami",
+        "locative": "komórkach",
+        "vocative": "komórki"
+      }
+    },
+    "translations": [
+      { "language": "english", "translation": "cell, mobile phone" }
+    ]
   },
   "komputer": {
     "gender": "masculine",
@@ -311,6 +385,30 @@
     },
     "translations": [{ "language": "english", "translation": "bed" }]
   },
+  "miska": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "miska",
+        "genitive": "miski",
+        "dative": "misce",
+        "accusative": "miskę",
+        "instrumental": "miską",
+        "locative": "misce",
+        "vocative": "misko"
+      },
+      "plural": {
+        "nominative": "miski",
+        "genitive": "misek",
+        "dative": "miskom",
+        "accusative": "miski",
+        "instrumental": "miskami",
+        "locative": "miskach",
+        "vocative": "miski"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "bowl" }]
+  },
   "obraz": {
     "gender": "masculine",
     "cases": {
@@ -335,6 +433,30 @@
     },
     "translations": [{ "language": "english", "translation": "picture" }]
   },
+  "plezak": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "plezak",
+        "genitive": "plezaka",
+        "dative": "plezakowi",
+        "accusative": "plezak",
+        "instrumental": "plezakiem",
+        "locative": "plezaku",
+        "vocative": "plezaku"
+      },
+      "plural": {
+        "nominative": "plezaki",
+        "genitive": "plezaków",
+        "dative": "plezakom",
+        "accusative": "plezaki",
+        "instrumental": "plezakami",
+        "locative": "plezakach",
+        "vocative": "plezaki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "backpack" }]
+  },
   "podłoga": {
     "gender": "feminine",
     "cases": {
@@ -358,6 +480,30 @@
       }
     },
     "translations": [{ "language": "english", "translation": "floor" }]
+  },
+  "piłka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "piłka",
+        "genitive": "piłki",
+        "dative": "piłce",
+        "accusative": "piłkę",
+        "instrumental": "piłką",
+        "locative": "piłce",
+        "vocative": "piłko"
+      },
+      "plural": {
+        "nominative": "piłki",
+        "genitive": "piłek",
+        "dative": "piłkom",
+        "accusative": "piłki",
+        "instrumental": "piłkami",
+        "locative": "piłkach",
+        "vocative": "piłki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "ball" }]
   },
   "półka": {
     "gender": "feminine",
@@ -406,6 +552,30 @@
       }
     },
     "translations": [{ "language": "english", "translation": "box" }]
+  },
+  "poduszka": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "poduszka",
+        "genitive": "poduszki",
+        "dative": "poduszce",
+        "accusative": "poduszkę",
+        "instrumental": "poduszką",
+        "locative": "poduszce",
+        "vocative": "poduszko"
+      },
+      "plural": {
+        "nominative": "poduszki",
+        "genitive": "poduszek",
+        "dative": "poduszkom",
+        "accusative": "poduszki",
+        "instrumental": "poduszkami",
+        "locative": "poduszkach",
+        "vocative": "poduszki"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "pillow/cushion" }]
   },
   "ściana": {
     "gender": "feminine",
@@ -478,6 +648,30 @@
       }
     },
     "translations": [{ "language": "english", "translation": "shop" }]
+  },
+  "sofa": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "sofa",
+        "genitive": "sofy",
+        "dative": "sofie",
+        "accusative": "sofę",
+        "instrumental": "sofą",
+        "locative": "sofie",
+        "vocative": "sofo"
+      },
+      "plural": {
+        "nominative": "sofy",
+        "genitive": "sof",
+        "dative": "sofom",
+        "accusative": "sofy",
+        "instrumental": "sofami",
+        "locative": "sofach",
+        "vocative": "sofy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "sofa" }]
   },
   "stół": {
     "gender": "masculine",
