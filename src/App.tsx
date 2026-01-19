@@ -5,6 +5,7 @@ import NounsCasePractice from "./Nouns/NounsCasePractice";
 import Home from './Home';
 import NounsList from './Nouns/NounsList';
 import NounDetails from './Nouns/NounDetails';
+import NounsPrepositionsPractice from './Nouns/NounsPrepositionsPractice';
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
         <Route path="/nouns/" element={<NounsList />} />
         <Route path="/nouns/:lemma" element={<NounDetails />} />
         <Route path="/nouns/case-practice" element={<NounsCasePractice />} />
+        <Route path="/nouns/prepositions-practice" element={<NounsPrepositionsPractice />} />
       </Routes>
     </HashRouter>
   );

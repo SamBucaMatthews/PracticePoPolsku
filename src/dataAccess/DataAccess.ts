@@ -19,3 +19,15 @@ export async function loadNouns(): Promise<NounsDictionary> {
 
   return data;
 }
+
+export async function loadNoun(lemma: string) {
+  return (await loadNouns())[lemma];
+}
+
+export async function loadRandomNoun() {
+  const nouns = await loadNouns();
+  const keys = Object.keys(nouns);
+  const randomIndex = Math.floor(Math.random() * keys.length);
+
+  return nouns[keys[randomIndex]];
+}

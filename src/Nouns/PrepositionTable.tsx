@@ -30,9 +30,9 @@ export const PrepositionTable: React.FC<PrepositionTableProps> = ({ noun }) => {
                     {prepositions.map(p => (
                         <tr key={p.preposition}>
                             <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.preposition}</td>
-                            <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.singular.static}</td>
+                            <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.singular.static ?? "-"}</td>
                             <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.singular.motion ?? "-"}</td>
-                            <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.plural.static}</td>
+                            <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.plural.static ?? "-"}</td>
                             <td style={{ padding: "4px 8px", borderBottom: "1px solid #eee" }}>{p.plural.motion ?? "-"}</td>
                         </tr>
                     ))}

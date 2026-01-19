@@ -10,7 +10,6 @@ export default function NounsCasePractice() {
             </button>
 
             <h2>Nouns Case Practice</h2>
-            <p>Practice Polish noun cases with prepositions.</p>
         </div>
     );
 }
