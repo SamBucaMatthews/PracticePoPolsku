@@ -23,6 +23,54 @@
     },
     "translations": [{ "language": "english", "translation": "office" }]
   },
+  "chleb": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "chleb",
+        "genitive": "chleba",
+        "dative": "chlebowi",
+        "accusative": "chleb",
+        "instrumental": "chlebem",
+        "locative": "chlebie",
+        "vocative": "chlebie"
+      },
+      "plural": {
+        "nominative": "chleby",
+        "genitive": "chlebów",
+        "dative": "chlebom",
+        "accusative": "chleby",
+        "instrumental": "chlebami",
+        "locative": "chlebach",
+        "vocative": "chleby"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "bread" }]
+  },
+  "dach": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "dach",
+        "genitive": "dachu",
+        "dative": "dachowi",
+        "accusative": "dach",
+        "instrumental": "dachem",
+        "locative": "dachu",
+        "vocative": "dachu"
+      },
+      "plural": {
+        "nominative": "dachy",
+        "genitive": "dachów",
+        "dative": "dachom",
+        "accusative": "dachy",
+        "instrumental": "dachami",
+        "locative": "dachach",
+        "vocative": "dachy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "roof" }]
+  },
   "dom": {
     "gender": "masculine",
     "cases": {
@@ -118,6 +166,30 @@
       }
     },
     "translations": [{ "language": "english", "translation": "guitar" }]
+  },
+  "klucz": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "klucz",
+        "genitive": "klucza",
+        "dative": "kluczowi",
+        "accusative": "klucz",
+        "instrumental": "kluczem",
+        "locative": "kluczu",
+        "vocative": "kluczu"
+      },
+      "plural": {
+        "nominative": "klucze",
+        "genitive": "kluczów",
+        "dative": "kluczom",
+        "accusative": "klucze",
+        "instrumental": "kluczami",
+        "locative": "kluczach",
+        "vocative": "klucze"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "key" }]
   },
   "kobieta": {
     "gender": "feminine",
@@ -433,6 +505,30 @@
     },
     "translations": [{ "language": "english", "translation": "picture" }]
   },
+  "okno": {
+    "gender": "neuter",
+    "cases": {
+      "singular": {
+        "nominative": "okno",
+        "genitive": "okna",
+        "dative": "oknu",
+        "accusative": "okno",
+        "instrumental": "oknem",
+        "locative": "oknie",
+        "vocative": "okno"
+      },
+      "plural": {
+        "nominative": "okna",
+        "genitive": "okien",
+        "dative": "oknom",
+        "accusative": "okna",
+        "instrumental": "oknami",
+        "locative": "oknach",
+        "vocative": "okna"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "window" }]
+  },
   "plezak": {
     "gender": "masculine",
     "cases": {
@@ -480,6 +576,30 @@
       }
     },
     "translations": [{ "language": "english", "translation": "floor" }]
+  },
+  "pokój": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "pokój",
+        "genitive": "pokoju",
+        "dative": "pokojowi",
+        "accusative": "pokoj",
+        "instrumental": "pokojem",
+        "locative": "pokoju",
+        "vocative": "pokoju"
+      },
+      "plural": {
+        "nominative": "pokoje",
+        "genitive": "pokojów",
+        "dative": "pokojom",
+        "accusative": "pokoje",
+        "instrumental": "pokojami",
+        "locative": "pokojach",
+        "vocative": "pokoje"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "room" }]
   },
   "piłka": {
     "gender": "feminine",
@@ -768,6 +888,30 @@
       }
     },
     "translations": [{ "language": "english", "translation": "glass" }]
+  },
+  "winda": {
+    "gender": "feminine",
+    "cases": {
+      "singular": {
+        "nominative": "winda",
+        "genitive": "windy",
+        "dative": "windzie",
+        "accusative": "windę",
+        "instrumental": "windą",
+        "locative": "windzie",
+        "vocative": "windo"
+      },
+      "plural": {
+        "nominative": "windy",
+        "genitive": "wind",
+        "dative": "windom",
+        "accusative": "windy",
+        "instrumental": "windami",
+        "locative": "windach",
+        "vocative": "windy"
+      }
+    },
+    "translations": [{ "language": "english", "translation": "elevator/lift" }]
   },
   "woda": {
     "gender": "feminine",
