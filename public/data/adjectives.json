@@ -1,0 +1,57 @@
+{
+  "szybki": {
+    "adverb": "szybko",
+    "cases": {
+      "singular": {
+        "masculine": {
+          "nominative": "szybki",
+          "genitive": "szybkiego",
+          "dative": "szybkiemu",
+          "accusative": {
+            "animate": "szybkiego",
+            "inanimate": "szybki"
+          },
+          "instrumental": "szybkim",
+          "locative": "szybkim",
+          "vocative": "szybki"
+        },
+        "feminine": {
+          "nominative": "szybka",
+          "genitive": "szybkiej",
+          "dative": "szybkiej",
+          "accusative": "szybką",
+          "instrumental": "szybką",
+          "locative": "szybkiej",
+          "vocative": "szybka"
+        },
+        "neuter": {
+          "nominative": "szybkie",
+          "genitive": "szybkiego",
+          "dative": "szybkiemu",
+          "accusative": "szybkie",
+          "instrumental": "szybkim",
+          "locative": "szybkim",
+          "vocative": "szybkie"
+        }
+      },
+      "plural": {
+        "nominative": {
+          "masculinePersonal": "szybcy",
+          "nonMasculinePersonal": "szybkie"
+        },
+        "genitive": "szybkich",
+        "dative": "szybkim",
+        "accusative": {
+          "masculinePersonal": "szybkich",
+          "nonMasculinePersonal": "szybkie"
+        },
+        "instrumental": "szybkimi",
+        "locative": "szybkich",
+        "vocative": {
+          "masculinePersonal": "szybcy",
+          "nonMasculinePersonal": "szybkie"
+        }
+      }
+    }
+  }
+}
