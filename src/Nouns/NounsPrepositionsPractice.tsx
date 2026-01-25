@@ -1,17 +1,17 @@
 import { useNavigate } from "react-router-dom";
 import { loadRandomNoun } from "../DataAccess/DataAccess";
 import { useCallback, useState } from "react";
-import type { Cases } from "../../types/Cases";
+import type { NounCases } from "../../types/Cases";
 import { PrepositionCaseMap } from "../PrepositionMapper";
 
 interface CaseValue {
-    key: keyof Cases;
+    key: keyof NounCases;
     value: string;
 }
 
 interface PracticeItem {
     lemma: string;
-    cases: Cases;
+    cases: NounCases;
     staticOrMotion: "static" | "motion";
     singularOrPlural: "singular" | "plural";
     preposition: string;
@@ -69,7 +69,7 @@ export default function NounsPrepositionsPractice() {
         return <p style={{ padding: 24, fontSize: 18 }}>Loading...</p>;
     }
 
-    function checkAnswer(chosenKey: keyof Cases) {
+    function checkAnswer(chosenKey: keyof NounCases) {
         const correctKey = practiceItem?.correctCase.key;
         const isCorrect = chosenKey === correctKey;
         alert(isCorrect ? "✔ Correct!" : `✘ Wrong. Correct: ${correctKey}`);
@@ -101,7 +101,7 @@ export default function NounsPrepositionsPractice() {
                 {Object.entries(practiceItem.cases).map(([key, value]) => (
                     <button
                         key={key}
-                        onClick={() => checkAnswer(key as keyof Cases)}
+                        onClick={() => checkAnswer(key as keyof NounCases)}
                         style={{
                             padding: "10px 14px",
                             borderRadius: 6,

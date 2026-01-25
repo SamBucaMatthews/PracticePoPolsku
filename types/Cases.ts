@@ -1,9 +1,21 @@
-export type SingularAndPluralCases = {
-  singular: Cases; // liczba pojedyncza
-  plural: Cases; // liczba mnoga
+import type { NounEntry } from "./Noun";
+
+export type SingularAndPluralCases<T> = {
+  singular: T extends NounEntry ? NounCases : AdjectiveSingularCases; // liczba pojedyncza
+  plural: T extends NounEntry ? NounCases : AdjectivePluralCases; // liczba mnoga
 };
 
-export type Cases = {
+export type MasculinePersonalSplit = {
+  masculinePersonal: string;
+  nonMasculinePersonal: string;
+};
+
+export type MasculineAnimateInanimateSplit = {
+  animate: string;
+  inanimate: string;
+};
+
+export type NounCases = {
   nominative: string; // Mianownik
   genitive: string; // Dopełniacz
   dative: string; // Celownik
@@ -11,4 +23,24 @@ export type Cases = {
   instrumental: string; // Narzędnik
   locative: string; // Miejscownik
   vocative: string; // Wołacz
+};
+
+export type AdjectiveSingularCases = {
+  nominative: string; // Mianownik
+  genitive: string; // Dopełniacz
+  dative: string; // Celownik
+  accusative: MasculineAnimateInanimateSplit; // Biernik
+  instrumental: string; // Narzędnik
+  locative: string; // Miejscownik
+  vocative: string; // Wołacz
+};
+
+export type AdjectivePluralCases = {
+  nominative: MasculinePersonalSplit; // Mianownik
+  genitive: string; // Dopełniacz
+  dative: string; // Celownik
+  accusative: MasculinePersonalSplit; // Biernik
+  instrumental: string; // Narzędnik
+  locative: string; // Miejscownik
+  vocative: MasculinePersonalSplit; // Wołacz
 };

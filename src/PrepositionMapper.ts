@@ -1,9 +1,9 @@
-import type { Cases } from "../types/Cases";
+import type { NounCases } from "../types/Cases";
 import type { NounEntry } from "../types/Noun";
 
 export type PrepositionCaseRule = {
-  static?: keyof Cases;
-  motion?: keyof Cases;
+  static?: keyof NounCases;
+  motion?: keyof NounCases;
 };
 
 export const PrepositionCaseMap: Record<string, PrepositionCaseRule> = {

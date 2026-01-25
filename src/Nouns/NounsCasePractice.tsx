@@ -1,11 +1,11 @@
 import { useCallback, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { loadRandomNoun } from "../DataAccess/DataAccess";
-import type { Cases } from "../../types/Cases";
+import type { NounCases } from "../../types/Cases";
 
 interface PracticeItem {
     lemma: string;
-    targetCase: keyof Cases;
+    targetCase: keyof NounCases;
     correctAnswer: string;
     singularOrPlural: "singular" | "plural";
 }
@@ -25,7 +25,7 @@ export default function NounsCasePractice() {
             ? noun.cases.singular
             : noun.cases.plural;
 
-        const caseKeys = Object.keys(cases).filter(c => c !== "nominative") as (keyof Cases)[];
+        const caseKeys = Object.keys(cases).filter(c => c !== "nominative") as (keyof NounCases)[];
         const targetCase = caseKeys[Math.floor(Math.random() * caseKeys.length)];
 
         setPracticeItem({

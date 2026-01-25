@@ -4,7 +4,7 @@ import type { Translation } from "./Translation";
 
 export interface NounEntry {
   gender: Gender;
-  cases: SingularAndPluralCases;
+  cases: SingularAndPluralCases<NounEntry>;
   translations?: Translation[];
 }
 
