@@ -2,10 +2,10 @@ import type { SingularAndPluralCases } from "./Cases";
 import type { Gender } from "./Gender";
 import type { Translation } from "./Translation";
 
-export interface NounEntry {
+export interface Noun {
   gender: Gender;
-  cases: SingularAndPluralCases<NounEntry>;
+  cases: SingularAndPluralCases<Noun>;
   translations?: Translation[];
 }
 
-export type NounsDictionary = Record<string, NounEntry>;
+export type NounsDictionary = Record<string, Noun>;

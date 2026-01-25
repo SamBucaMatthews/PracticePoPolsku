@@ -1,5 +1,5 @@
 import type { NounCases } from "../types/Cases";
-import type { NounEntry } from "../types/Noun";
+import type { Noun } from "../types/Noun";
 
 export type PrepositionCaseRule = {
   static?: keyof NounCases;
@@ -29,7 +29,7 @@ export type PrepositionForm = {
   plural: { static?: string; motion?: string };
 };
 
-export function getPrepositionsForNoun(noun: NounEntry): PrepositionForm[] {
+export function getPrepositionsForNoun(noun: Noun): PrepositionForm[] {
   return Object.entries(PrepositionCaseMap)
     .sort((a, b) => a[0].localeCompare(b[0], "pl"))
     .map(([prep, rule]) => ({

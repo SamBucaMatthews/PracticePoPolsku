@@ -1,8 +1,8 @@
-import type { NounEntry } from "./Noun";
+import type { Noun } from "./Noun";
 
 export type SingularAndPluralCases<T> = {
-  singular: T extends NounEntry ? NounCases : AdjectiveSingularCases; // liczba pojedyncza
-  plural: T extends NounEntry ? NounCases : AdjectivePluralCases; // liczba mnoga
+  singular: T extends Noun ? NounCases : AdjectiveSingularCases; // liczba pojedyncza
+  plural: T extends Noun ? NounCases : AdjectivePluralCases; // liczba mnoga
 };
 
 export type MasculinePersonalSplit = {

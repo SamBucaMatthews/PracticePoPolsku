@@ -1,8 +1,8 @@
 import type React from "react";
-import type { NounEntry } from "../../types/Noun";
+import type { Noun } from "../../types/Noun";
 
 export type CasesTableProps = {
-    noun: NounEntry;
+    noun: Noun;
 };
 
 export const CasesTable: React.FC<CasesTableProps> = ({ noun }) => {

@@ -1,9 +1,9 @@
 import type React from "react";
 import { getPrepositionsForNoun } from "../PrepositionMapper";
-import type { NounEntry } from "../../types/Noun";
+import type { Noun } from "../../types/Noun";
 
 export type PrepositionTableProps = {
-    noun: NounEntry;
+    noun: Noun;
 };
 
 export const PrepositionTable: React.FC<PrepositionTableProps> = ({ noun }) => {

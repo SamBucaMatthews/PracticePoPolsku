@@ -1,6 +1,6 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import type { NounEntry } from "../../types/Noun";
+import type { Noun } from "../../types/Noun";
 import { loadNouns } from "../DataAccess/DataAccess";
 import { PrepositionTable } from "./PrepositionTable";
 import { CasesTable } from "./CasesTable";
@@ -8,7 +8,7 @@ import { TranslationsTable } from "./TranslationsTable";
 
 export default function NounDetails() {
     const { lemma } = useParams<{ lemma: string }>();
-    const [noun, setNoun] = useState<NounEntry | null>(null);
+    const [noun, setNoun] = useState<Noun | null>(null);
     const [loading, setLoading] = useState(true);
     const navigate = useNavigate();
 

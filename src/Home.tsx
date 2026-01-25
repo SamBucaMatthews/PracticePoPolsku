@@ -20,6 +20,9 @@ export default function Home() {
             <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
                 <button onClick={() => navigate("/nouns/prepositions-practice")}>Nouns Prepositions Practice</button>
             </div>
+            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+                <button onClick={() => navigate("/adjectives")}>Przymiotniki</button>
+            </div>
         </div>
     );
 }
