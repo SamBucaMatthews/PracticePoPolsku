@@ -21,7 +21,12 @@
         "vocative": "biura"
       }
     },
-    "translations": [{ "language": "english", "translation": "office" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "office"
+      }
+    ]
   },
   "chleb": {
     "gender": "masculine",
@@ -45,7 +50,12 @@
         "vocative": "chleby"
       }
     },
-    "translations": [{ "language": "english", "translation": "bread" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "bread"
+      }
+    ]
   },
   "dach": {
     "gender": "masculine",
@@ -69,7 +79,12 @@
         "vocative": "dachy"
       }
     },
-    "translations": [{ "language": "english", "translation": "roof" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "roof"
+      }
+    ]
   },
   "dom": {
     "gender": "masculine",
@@ -93,7 +108,12 @@
         "vocative": "domy"
       }
     },
-    "translations": [{ "language": "english", "translation": "house" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "house"
+      }
+    ]
   },
   "ekran": {
     "gender": "masculine",
@@ -117,7 +137,12 @@
         "vocative": "ekrany"
       }
     },
-    "translations": [{ "language": "english", "translation": "screen" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "screen"
+      }
+    ]
   },
   "fotel": {
     "gender": "masculine",
@@ -141,7 +166,12 @@
         "vocative": "fotele"
       }
     },
-    "translations": [{ "language": "english", "translation": "armchair" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "armchair"
+      }
+    ]
   },
   "gitara": {
     "gender": "feminine",
@@ -165,7 +195,12 @@
         "vocative": "gitary"
       }
     },
-    "translations": [{ "language": "english", "translation": "guitar" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "guitar"
+      }
+    ]
   },
   "klucz": {
     "gender": "masculine",
@@ -189,7 +224,12 @@
         "vocative": "klucze"
       }
     },
-    "translations": [{ "language": "english", "translation": "key" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "key"
+      }
+    ]
   },
   "kobieta": {
     "gender": "feminine",
@@ -213,7 +253,12 @@
         "vocative": "kobiety"
       }
     },
-    "translations": [{ "language": "english", "translation": "woman" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "woman"
+      }
+    ]
   },
   "komórka": {
     "gender": "feminine",
@@ -238,7 +283,10 @@
       }
     },
     "translations": [
-      { "language": "english", "translation": "cell, mobile phone" }
+      {
+        "language": "english",
+        "translation": "cell, mobile phone"
+      }
     ]
   },
   "komputer": {
@@ -263,7 +311,12 @@
         "vocative": "komputery"
       }
     },
-    "translations": [{ "language": "english", "translation": "computer" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "computer"
+      }
+    ]
   },
   "kot": {
     "gender": "masculine",
@@ -287,7 +340,12 @@
         "vocative": "koty"
       }
     },
-    "translations": [{ "language": "english", "translation": "cat" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "cat"
+      }
+    ]
   },
   "kubek": {
     "gender": "masculine",
@@ -311,7 +369,12 @@
         "vocative": "kubki"
       }
     },
-    "translations": [{ "language": "english", "translation": "mug" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "mug"
+      }
+    ]
   },
   "kuchnia": {
     "gender": "feminine",
@@ -335,7 +398,12 @@
         "vocative": "kuchnie"
       }
     },
-    "translations": [{ "language": "english", "translation": "kitchen" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "kitchen"
+      }
+    ]
   },
   "krzesło": {
     "gender": "neuter",
@@ -359,7 +427,12 @@
         "vocative": "krzesła"
       }
     },
-    "translations": [{ "language": "english", "translation": "chair" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "chair"
+      }
+    ]
   },
   "książka": {
     "gender": "neuter",
@@ -383,7 +456,12 @@
         "vocative": "książki"
       }
     },
-    "translations": [{ "language": "english", "translation": "book" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "book"
+      }
+    ]
   },
   "łazienka": {
     "gender": "feminine",
@@ -407,7 +485,12 @@
         "vocative": "łazienki"
       }
     },
-    "translations": [{ "language": "english", "translation": "bathroom" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "bathroom"
+      }
+    ]
   },
   "lodówka": {
     "gender": "feminine",
@@ -431,7 +514,12 @@
         "vocative": "lodówki"
       }
     },
-    "translations": [{ "language": "english", "translation": "fridge" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "fridge"
+      }
+    ]
   },
   "łóżko": {
     "gender": "neuter",
@@ -455,7 +543,12 @@
         "vocative": "łóżka"
       }
     },
-    "translations": [{ "language": "english", "translation": "bed" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "bed"
+      }
+    ]
   },
   "miska": {
     "gender": "feminine",
@@ -479,7 +572,12 @@
         "vocative": "miski"
       }
     },
-    "translations": [{ "language": "english", "translation": "bowl" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "bowl"
+      }
+    ]
   },
   "obraz": {
     "gender": "masculine",
@@ -503,7 +601,12 @@
         "vocative": "obrazy"
       }
     },
-    "translations": [{ "language": "english", "translation": "picture" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "picture"
+      }
+    ]
   },
   "okno": {
     "gender": "neuter",
@@ -527,7 +630,12 @@
         "vocative": "okna"
       }
     },
-    "translations": [{ "language": "english", "translation": "window" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "window"
+      }
+    ]
   },
   "plezak": {
     "gender": "masculine",
@@ -551,7 +659,12 @@
         "vocative": "plezaki"
       }
     },
-    "translations": [{ "language": "english", "translation": "backpack" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "backpack"
+      }
+    ]
   },
   "podłoga": {
     "gender": "feminine",
@@ -575,7 +688,12 @@
         "vocative": "podłogi"
       }
     },
-    "translations": [{ "language": "english", "translation": "floor" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "floor"
+      }
+    ]
   },
   "pokój": {
     "gender": "masculine",
@@ -599,7 +717,12 @@
         "vocative": "pokoje"
       }
     },
-    "translations": [{ "language": "english", "translation": "room" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "room"
+      }
+    ]
   },
   "piłka": {
     "gender": "feminine",
@@ -623,7 +746,12 @@
         "vocative": "piłki"
       }
     },
-    "translations": [{ "language": "english", "translation": "ball" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "ball"
+      }
+    ]
   },
   "półka": {
     "gender": "feminine",
@@ -647,7 +775,12 @@
         "vocative": "półki"
       }
     },
-    "translations": [{ "language": "english", "translation": "shelf" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "shelf"
+      }
+    ]
   },
   "pudełko": {
     "gender": "neuter",
@@ -671,7 +804,12 @@
         "vocative": "pudełka"
       }
     },
-    "translations": [{ "language": "english", "translation": "box" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "box"
+      }
+    ]
   },
   "poduszka": {
     "gender": "feminine",
@@ -695,7 +833,12 @@
         "vocative": "poduszki"
       }
     },
-    "translations": [{ "language": "english", "translation": "pillow/cushion" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "pillow/cushion"
+      }
+    ]
   },
   "ściana": {
     "gender": "feminine",
@@ -719,7 +862,12 @@
         "vocative": "ściany"
       }
     },
-    "translations": [{ "language": "english", "translation": "wall" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "wall"
+      }
+    ]
   },
   "siłownia": {
     "gender": "feminine",
@@ -743,7 +891,12 @@
         "vocative": "siłownie"
       }
     },
-    "translations": [{ "language": "english", "translation": "gym" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "gym"
+      }
+    ]
   },
   "sklep": {
     "gender": "masculine",
@@ -767,7 +920,12 @@
         "vocative": "sklepy"
       }
     },
-    "translations": [{ "language": "english", "translation": "shop" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "shop"
+      }
+    ]
   },
   "sofa": {
     "gender": "feminine",
@@ -791,7 +949,12 @@
         "vocative": "sofy"
       }
     },
-    "translations": [{ "language": "english", "translation": "sofa" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "sofa"
+      }
+    ]
   },
   "stół": {
     "gender": "masculine",
@@ -815,7 +978,12 @@
         "vocative": "stoły"
       }
     },
-    "translations": [{ "language": "english", "translation": "table" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "table"
+      }
+    ]
   },
   "sufit": {
     "gender": "masculine",
@@ -839,7 +1007,12 @@
         "vocative": "sufity"
       }
     },
-    "translations": [{ "language": "english", "translation": "ceiling" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "ceiling"
+      }
+    ]
   },
   "szafa": {
     "gender": "feminine",
@@ -863,7 +1036,12 @@
         "vocative": "szafy"
       }
     },
-    "translations": [{ "language": "english", "translation": "wardrobe" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "wardrobe"
+      }
+    ]
   },
   "szklanka": {
     "gender": "feminine",
@@ -887,7 +1065,12 @@
         "vocative": "szklanki"
       }
     },
-    "translations": [{ "language": "english", "translation": "glass" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "glass"
+      }
+    ]
   },
   "winda": {
     "gender": "feminine",
@@ -911,7 +1094,12 @@
         "vocative": "windy"
       }
     },
-    "translations": [{ "language": "english", "translation": "elevator/lift" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "elevator/lift"
+      }
+    ]
   },
   "woda": {
     "gender": "feminine",
@@ -935,6 +1123,395 @@
         "vocative": "wody"
       }
     },
-    "translations": [{ "language": "english", "translation": "water" }]
+    "translations": [
+      {
+        "language": "english",
+        "translation": "water"
+      }
+    ]
+  },
+  "styczeń": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "styczeń",
+        "genitive": "stycznia",
+        "dative": "styczniowi",
+        "accusative": "styczeń",
+        "instrumental": "styczniem",
+        "locative": "styczniu",
+        "vocative": "styczniu"
+      },
+      "plural": {
+        "nominative": "stycznie",
+        "genitive": "styczniów / styczni",
+        "dative": "styczniom",
+        "accusative": "stycznie",
+        "instrumental": "styczniami",
+        "locative": "styczniach",
+        "vocative": "stycznie"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "January"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "luty": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "luty",
+        "genitive": "lutego",
+        "dative": "lutemu",
+        "accusative": "luty",
+        "instrumental": "lutym",
+        "locative": "lutym",
+        "vocative": "luty"
+      },
+      "plural": {
+        "nominative": "lute",
+        "genitive": "lutych",
+        "dative": "lutym",
+        "accusative": "lute",
+        "instrumental": "lutymi",
+        "locative": "lutych",
+        "vocative": "lute"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "February"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "marzec": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "marzec",
+        "genitive": "marca",
+        "dative": "marcowi",
+        "accusative": "marzec",
+        "instrumental": "marcem",
+        "locative": "marcu",
+        "vocative": "marcu"
+      },
+      "plural": {
+        "nominative": "marce",
+        "genitive": "marców",
+        "dative": "marcom",
+        "accusative": "marce",
+        "instrumental": "marcami",
+        "locative": "marcach",
+        "vocative": "marce"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "March"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "kwiecień": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "kwiecień",
+        "genitive": "kwietnia",
+        "dative": "kwietniowi",
+        "accusative": "kwiecień",
+        "instrumental": "kwietniem",
+        "locative": "kwietniu",
+        "vocative": "kwietniu"
+      },
+      "plural": {
+        "nominative": "kwietnie",
+        "genitive": "kwietni / kwietniów",
+        "dative": "kwietniom",
+        "accusative": "kwietnie",
+        "instrumental": "kwietniami",
+        "locative": "kwietniach",
+        "vocative": "kwietnie"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "April"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "maj": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "maj",
+        "genitive": "maja",
+        "dative": "majowi",
+        "accusative": "maj",
+        "instrumental": "majem",
+        "locative": "maju",
+        "vocative": "maju"
+      },
+      "plural": {
+        "nominative": "maje",
+        "genitive": "majów",
+        "dative": "majom",
+        "accusative": "maje",
+        "instrumental": "majami",
+        "locative": "majach",
+        "vocative": "maje"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "May"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "czerwiec": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "czerwiec",
+        "genitive": "czerwca",
+        "dative": "czerwcowi",
+        "accusative": "czerwiec",
+        "instrumental": "czerwcem",
+        "locative": "czerwcu",
+        "vocative": "czerwcu"
+      },
+      "plural": {
+        "nominative": "czerwce",
+        "genitive": "czerwców",
+        "dative": "czerwcom",
+        "accusative": "czerwce",
+        "instrumental": "czerwcami",
+        "locative": "czerwcach",
+        "vocative": "czerwce"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "June"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "lipiec": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "lipiec",
+        "genitive": "lipca",
+        "dative": "lipcowi",
+        "accusative": "lipiec",
+        "instrumental": "lipcem",
+        "locative": "lipcu",
+        "vocative": "lipcu"
+      },
+      "plural": {
+        "nominative": "lipce",
+        "genitive": "lipców",
+        "dative": "lipcom",
+        "accusative": "lipce",
+        "instrumental": "lipcami",
+        "locative": "lipcach",
+        "vocative": "lipce"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "July"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "sierpień": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "sierpień",
+        "genitive": "sierpnia",
+        "dative": "sierpniowi",
+        "accusative": "sierpień",
+        "instrumental": "sierpniem",
+        "locative": "sierpniu",
+        "vocative": "sierpniu"
+      },
+      "plural": {
+        "nominative": "sierpnie",
+        "genitive": "sierpni / sierpniów",
+        "dative": "sierpniom",
+        "accusative": "sierpnie",
+        "instrumental": "sierpniami",
+        "locative": "sierpniach",
+        "vocative": "sierpnie"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "August"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "wrzesień": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "wrzesień",
+        "genitive": "wrzesnia",
+        "dative": "wrzesniowi",
+        "accusative": "wrzesień",
+        "instrumental": "wrzesniem",
+        "locative": "wrzesniu",
+        "vocative": "wrzesniu"
+      },
+      "plural": {
+        "nominative": "wrzneśnie",
+        "genitive": "wrzneśni / wrzneśniów",
+        "dative": "wrzneśniom",
+        "accusative": "wrzneśnie",
+        "instrumental": "wrzneśniami",
+        "locative": "wrzneśniach",
+        "vocative": "wrzneśnie"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "September"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "październik": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "październik",
+        "genitive": "października",
+        "dative": "październikowi",
+        "accusative": "październik",
+        "instrumental": "październikem",
+        "locative": "październiku",
+        "vocative": "październiku"
+      },
+      "plural": {
+        "nominative": "październiki",
+        "genitive": "październików",
+        "dative": "październikom",
+        "accusative": "październiki",
+        "instrumental": "październikami",
+        "locative": "październikach",
+        "vocative": "październiki"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "October"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "listopad": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "listopad",
+        "genitive": "listopada",
+        "dative": "listopadowi",
+        "accusative": "listopad",
+        "instrumental": "listopadem",
+        "locative": "listopadzie",
+        "vocative": "listopadzie"
+      },
+      "plural": {
+        "nominative": "listopady",
+        "genitive": "listopadów",
+        "dative": "listopadom",
+        "accusative": "listopady",
+        "instrumental": "listopadami",
+        "locative": "listopadach",
+        "vocative": "listopady"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "November"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
+  },
+  "grudzień": {
+    "gender": "masculine",
+    "cases": {
+      "singular": {
+        "nominative": "grudzień",
+        "genitive": "grudnia",
+        "dative": "grudniowi",
+        "accusative": "grudzień",
+        "instrumental": "grudniem",
+        "locative": "grudniu",
+        "vocative": "grudniu"
+      },
+      "plural": {
+        "nominative": "grudnie",
+        "genitive": "grudni / grudniów",
+        "dative": "grudniom",
+        "accusative": "grudnie",
+        "instrumental": "grudniami",
+        "locative": "grudniach",
+        "vocative": "grudnie"
+      }
+    },
+    "translations": [
+      {
+        "language": "english",
+        "translation": "December"
+      }
+    ],
+    "categories": [
+      "month"
+    ]
   }
 }
