@@ -239,8 +239,7 @@
     },
     "translations": [
       {
-        "language": "english",
-        "translation": "cell, mobile phone"
+        "english": ["cell", "mobile phone"]
       }
     ]
   },
@@ -532,26 +531,26 @@
     },
     "translations": { "english": ["window"] }
   },
-  "plezak": {
+  "plecak": {
     "gender": "masculine",
     "declension": {
       "singular": {
-        "mianownik": "plezak",
-        "dopełniacz": "plezaka",
-        "celownik": "plezakowi",
-        "biernik": "plezak",
-        "narzędnik": "plezakiem",
-        "miejscownik": "plezaku",
-        "wołacz": "plezaku"
+        "mianownik": "plecak",
+        "dopełniacz": "plecaka",
+        "celownik": "plecakowi",
+        "biernik": "plecak",
+        "narzędnik": "plecakiem",
+        "miejscownik": "plecaku",
+        "wołacz": "plecaku"
       },
       "plural": {
-        "mianownik": "plezaki",
-        "dopełniacz": "plezaków",
-        "celownik": "plezakom",
-        "biernik": "plezaki",
-        "narzędnik": "plezakami",
-        "miejscownik": "plezakach",
-        "wołacz": "plezaki"
+        "mianownik": "plecaki",
+        "dopełniacz": "plecaków",
+        "celownik": "plecakom",
+        "biernik": "plecaki",
+        "narzędnik": "plecakami",
+        "miejscownik": "plecakach",
+        "wołacz": "plecaki"
       }
     },
     "translations": { "english": ["backpack"] }
