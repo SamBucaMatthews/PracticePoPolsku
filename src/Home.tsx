@@ -12,21 +12,7 @@ export default function Home() {
             </div>
 
             <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                <button onClick={() => navigate("/nouns")}>Rzeczowniki</button>
-            </div>
-            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                <button onClick={() => navigate("/nouns/case-practice")}>Nouns Case Practice</button>
-            </div>
-            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                <button onClick={() => navigate("/nouns/prepositions-practice")}>Nouns Prepositions Practice</button>
-            </div>
-            <hr />
-            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                <button onClick={() => navigate("/adjectives")}>Przymiotniki</button>
-            </div>
-            <hr />
-            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                <button onClick={() => navigate("/verbs")}>Czasowniki</button>
+                <button onClick={() => navigate("/flashcards")}>Fiszki</button>
             </div>
         </div>
     );
