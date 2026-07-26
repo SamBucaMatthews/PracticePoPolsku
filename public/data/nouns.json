@@ -3,22 +3,22 @@
     "gender": "neuter",
     "declension": {
       "singular": {
-        "nominative": "biuro",
-        "genitive": "biura",
-        "dative": "biuru",
-        "accusative": "biuro",
-        "instrumental": "biurem",
-        "locative": "biurze",
-        "vocative": "biuro"
+        "mianownik": "biuro",
+        "dopełniacz": "biura",
+        "celownik": "biuru",
+        "biernik": "biuro",
+        "narzędnik": "biurem",
+        "miejscownik": "biurze",
+        "wołacz": "biuro"
       },
       "plural": {
-        "nominative": "biura",
-        "genitive": "biur",
-        "dative": "biurom",
-        "accusative": "biura",
-        "instrumental": "biurami",
-        "locative": "biurach",
-        "vocative": "biura"
+        "mianownik": "biura",
+        "dopełniacz": "biur",
+        "celownik": "biurom",
+        "biernik": "biura",
+        "narzędnik": "biurami",
+        "miejscownik": "biurach",
+        "wołacz": "biura"
       }
     },
     "translations": { "english": ["office"] }
@@ -27,22 +27,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "chleb",
-        "genitive": "chleba",
-        "dative": "chlebowi",
-        "accusative": "chleb",
-        "instrumental": "chlebem",
-        "locative": "chlebie",
-        "vocative": "chlebie"
+        "mianownik": "chleb",
+        "dopełniacz": "chleba",
+        "celownik": "chlebowi",
+        "biernik": "chleb",
+        "narzędnik": "chlebem",
+        "miejscownik": "chlebie",
+        "wołacz": "chlebie"
       },
       "plural": {
-        "nominative": "chleby",
-        "genitive": "chlebów",
-        "dative": "chlebom",
-        "accusative": "chleby",
-        "instrumental": "chlebami",
-        "locative": "chlebach",
-        "vocative": "chleby"
+        "mianownik": "chleby",
+        "dopełniacz": "chlebów",
+        "celownik": "chlebom",
+        "biernik": "chleby",
+        "narzędnik": "chlebami",
+        "miejscownik": "chlebach",
+        "wołacz": "chleby"
       }
     },
     "translations": { "english": ["bread"] }
@@ -51,22 +51,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "dach",
-        "genitive": "dachu",
-        "dative": "dachowi",
-        "accusative": "dach",
-        "instrumental": "dachem",
-        "locative": "dachu",
-        "vocative": "dachu"
+        "mianownik": "dach",
+        "dopełniacz": "dachu",
+        "celownik": "dachowi",
+        "biernik": "dach",
+        "narzędnik": "dachem",
+        "miejscownik": "dachu",
+        "wołacz": "dachu"
       },
       "plural": {
-        "nominative": "dachy",
-        "genitive": "dachów",
-        "dative": "dachom",
-        "accusative": "dachy",
-        "instrumental": "dachami",
-        "locative": "dachach",
-        "vocative": "dachy"
+        "mianownik": "dachy",
+        "dopełniacz": "dachów",
+        "celownik": "dachom",
+        "biernik": "dachy",
+        "narzędnik": "dachami",
+        "miejscownik": "dachach",
+        "wołacz": "dachy"
       }
     },
     "translations": { "english": ["roof"] }
@@ -75,22 +75,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "dom",
-        "genitive": "domu",
-        "dative": "domowi",
-        "accusative": "dom",
-        "instrumental": "domem",
-        "locative": "domu",
-        "vocative": "domu"
+        "mianownik": "dom",
+        "dopełniacz": "domu",
+        "celownik": "domowi",
+        "biernik": "dom",
+        "narzędnik": "domem",
+        "miejscownik": "domu",
+        "wołacz": "domu"
       },
       "plural": {
-        "nominative": "domy",
-        "genitive": "domów",
-        "dative": "domom",
-        "accusative": "domy",
-        "instrumental": "domami",
-        "locative": "domach",
-        "vocative": "domy"
+        "mianownik": "domy",
+        "dopełniacz": "domów",
+        "celownik": "domom",
+        "biernik": "domy",
+        "narzędnik": "domami",
+        "miejscownik": "domach",
+        "wołacz": "domy"
       }
     },
     "translations": { "english": ["house"] }
@@ -99,22 +99,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "ekran",
-        "genitive": "ekranu",
-        "dative": "ekranowi",
-        "accusative": "ekran",
-        "instrumental": "ekranem",
-        "locative": "ekranie",
-        "vocative": "ekranie"
+        "mianownik": "ekran",
+        "dopełniacz": "ekranu",
+        "celownik": "ekranowi",
+        "biernik": "ekran",
+        "narzędnik": "ekranem",
+        "miejscownik": "ekranie",
+        "wołacz": "ekranie"
       },
       "plural": {
-        "nominative": "ekrany",
-        "genitive": "ekranów",
-        "dative": "ekranom",
-        "accusative": "ekrany",
-        "instrumental": "ekranami",
-        "locative": "ekranach",
-        "vocative": "ekrany"
+        "mianownik": "ekrany",
+        "dopełniacz": "ekranów",
+        "celownik": "ekranom",
+        "biernik": "ekrany",
+        "narzędnik": "ekranami",
+        "miejscownik": "ekranach",
+        "wołacz": "ekrany"
       }
     },
     "translations": { "english": ["screen"] }
@@ -123,22 +123,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "fotel",
-        "genitive": "fotela",
-        "dative": "fotelowi",
-        "accusative": "fotel",
-        "instrumental": "fotelem",
-        "locative": "fotelu",
-        "vocative": "fotelu"
+        "mianownik": "fotel",
+        "dopełniacz": "fotela",
+        "celownik": "fotelowi",
+        "biernik": "fotel",
+        "narzędnik": "fotelem",
+        "miejscownik": "fotelu",
+        "wołacz": "fotelu"
       },
       "plural": {
-        "nominative": "fotele",
-        "genitive": "fotelów",
-        "dative": "fotelom",
-        "accusative": "fotele",
-        "instrumental": "fotelami",
-        "locative": "fotelach",
-        "vocative": "fotele"
+        "mianownik": "fotele",
+        "dopełniacz": "fotelów",
+        "celownik": "fotelom",
+        "biernik": "fotele",
+        "narzędnik": "fotelami",
+        "miejscownik": "fotelach",
+        "wołacz": "fotele"
       }
     },
     "translations": { "english": ["armchair"] }
@@ -147,22 +147,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "gitara",
-        "genitive": "gitary",
-        "dative": "gitarze",
-        "accusative": "gitarę",
-        "instrumental": "gitarą",
-        "locative": "gitarze",
-        "vocative": "gitaro"
+        "mianownik": "gitara",
+        "dopełniacz": "gitary",
+        "celownik": "gitarze",
+        "biernik": "gitarę",
+        "narzędnik": "gitarą",
+        "miejscownik": "gitarze",
+        "wołacz": "gitaro"
       },
       "plural": {
-        "nominative": "gitary",
-        "genitive": "gitar",
-        "dative": "gitarom",
-        "accusative": "gitary",
-        "instrumental": "gitarami",
-        "locative": "gitarach",
-        "vocative": "gitary"
+        "mianownik": "gitary",
+        "dopełniacz": "gitar",
+        "celownik": "gitarom",
+        "biernik": "gitary",
+        "narzędnik": "gitarami",
+        "miejscownik": "gitarach",
+        "wołacz": "gitary"
       }
     },
     "translations": { "english": ["guitar"] }
@@ -171,22 +171,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "klucz",
-        "genitive": "klucza",
-        "dative": "kluczowi",
-        "accusative": "klucz",
-        "instrumental": "kluczem",
-        "locative": "kluczu",
-        "vocative": "kluczu"
+        "mianownik": "klucz",
+        "dopełniacz": "klucza",
+        "celownik": "kluczowi",
+        "biernik": "klucz",
+        "narzędnik": "kluczem",
+        "miejscownik": "kluczu",
+        "wołacz": "kluczu"
       },
       "plural": {
-        "nominative": "klucze",
-        "genitive": "kluczów",
-        "dative": "kluczom",
-        "accusative": "klucze",
-        "instrumental": "kluczami",
-        "locative": "kluczach",
-        "vocative": "klucze"
+        "mianownik": "klucze",
+        "dopełniacz": "kluczów",
+        "celownik": "kluczom",
+        "biernik": "klucze",
+        "narzędnik": "kluczami",
+        "miejscownik": "kluczach",
+        "wołacz": "klucze"
       }
     },
     "translations": { "english": ["key"] }
@@ -195,22 +195,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "kobieta",
-        "genitive": "kobiety",
-        "dative": "kobiecie",
-        "accusative": "kobietę",
-        "instrumental": "kobietą",
-        "locative": "kobiecie",
-        "vocative": "kobieto"
+        "mianownik": "kobieta",
+        "dopełniacz": "kobiety",
+        "celownik": "kobiecie",
+        "biernik": "kobietę",
+        "narzędnik": "kobietą",
+        "miejscownik": "kobiecie",
+        "wołacz": "kobieto"
       },
       "plural": {
-        "nominative": "kobiety",
-        "genitive": "kobiet",
-        "dative": "kobietom",
-        "accusative": "kobiety",
-        "instrumental": "kobietami",
-        "locative": "kobietach",
-        "vocative": "kobiety"
+        "mianownik": "kobiety",
+        "dopełniacz": "kobiet",
+        "celownik": "kobietom",
+        "biernik": "kobiety",
+        "narzędnik": "kobietami",
+        "miejscownik": "kobietach",
+        "wołacz": "kobiety"
       }
     },
     "translations": { "english": ["woman"] }
@@ -219,22 +219,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "komórka",
-        "genitive": "komórki",
-        "dative": "komórce",
-        "accusative": "komórkę",
-        "instrumental": "komórką",
-        "locative": "komórce",
-        "vocative": "komórko"
+        "mianownik": "komórka",
+        "dopełniacz": "komórki",
+        "celownik": "komórce",
+        "biernik": "komórkę",
+        "narzędnik": "komórką",
+        "miejscownik": "komórce",
+        "wołacz": "komórko"
       },
       "plural": {
-        "nominative": "komórki",
-        "genitive": "komórek",
-        "dative": "komórkom",
-        "accusative": "komórki",
-        "instrumental": "komórkami",
-        "locative": "komórkach",
-        "vocative": "komórki"
+        "mianownik": "komórki",
+        "dopełniacz": "komórek",
+        "celownik": "komórkom",
+        "biernik": "komórki",
+        "narzędnik": "komórkami",
+        "miejscownik": "komórkach",
+        "wołacz": "komórki"
       }
     },
     "translations": [
@@ -248,22 +248,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "komputer",
-        "genitive": "komputera",
-        "dative": "komputerowi",
-        "accusative": "komputer",
-        "instrumental": "komputerem",
-        "locative": "komputerze",
-        "vocative": "komputerze"
+        "mianownik": "komputer",
+        "dopełniacz": "komputera",
+        "celownik": "komputerowi",
+        "biernik": "komputer",
+        "narzędnik": "komputerem",
+        "miejscownik": "komputerze",
+        "wołacz": "komputerze"
       },
       "plural": {
-        "nominative": "komputery",
-        "genitive": "komputerów",
-        "dative": "komputerom",
-        "accusative": "komputery",
-        "instrumental": "komputerami",
-        "locative": "komputerach",
-        "vocative": "komputery"
+        "mianownik": "komputery",
+        "dopełniacz": "komputerów",
+        "celownik": "komputerom",
+        "biernik": "komputery",
+        "narzędnik": "komputerami",
+        "miejscownik": "komputerach",
+        "wołacz": "komputery"
       }
     },
     "translations": { "english": ["computer"] }
@@ -272,22 +272,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "kot",
-        "genitive": "kota",
-        "dative": "kotu",
-        "accusative": "kota",
-        "instrumental": "kotem",
-        "locative": "kocie",
-        "vocative": "kocie"
+        "mianownik": "kot",
+        "dopełniacz": "kota",
+        "celownik": "kotu",
+        "biernik": "kota",
+        "narzędnik": "kotem",
+        "miejscownik": "kocie",
+        "wołacz": "kocie"
       },
       "plural": {
-        "nominative": "koty",
-        "genitive": "kotów",
-        "dative": "kotom",
-        "accusative": "koty",
-        "instrumental": "kotami",
-        "locative": "kotach",
-        "vocative": "koty"
+        "mianownik": "koty",
+        "dopełniacz": "kotów",
+        "celownik": "kotom",
+        "biernik": "koty",
+        "narzędnik": "kotami",
+        "miejscownik": "kotach",
+        "wołacz": "koty"
       }
     },
     "translations": { "english": ["cat"] }
@@ -296,22 +296,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "kubek",
-        "genitive": "kubeka",
-        "dative": "kubekowi",
-        "accusative": "kubek",
-        "instrumental": "kubekiem",
-        "locative": "kubku",
-        "vocative": "kubku"
+        "mianownik": "kubek",
+        "dopełniacz": "kubeka",
+        "celownik": "kubekowi",
+        "biernik": "kubek",
+        "narzędnik": "kubekiem",
+        "miejscownik": "kubku",
+        "wołacz": "kubku"
       },
       "plural": {
-        "nominative": "kubki",
-        "genitive": "kubków",
-        "dative": "kubkom",
-        "accusative": "kubki",
-        "instrumental": "kubkami",
-        "locative": "kubkach",
-        "vocative": "kubki"
+        "mianownik": "kubki",
+        "dopełniacz": "kubków",
+        "celownik": "kubkom",
+        "biernik": "kubki",
+        "narzędnik": "kubkami",
+        "miejscownik": "kubkach",
+        "wołacz": "kubki"
       }
     },
     "translations": { "english": ["mug"] }
@@ -320,22 +320,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "kuchnia",
-        "genitive": "kuchni",
-        "dative": "kuchni",
-        "accusative": "kuchnię",
-        "instrumental": "kuchnią",
-        "locative": "kuchni",
-        "vocative": "kuchnio"
+        "mianownik": "kuchnia",
+        "dopełniacz": "kuchni",
+        "celownik": "kuchni",
+        "biernik": "kuchnię",
+        "narzędnik": "kuchnią",
+        "miejscownik": "kuchni",
+        "wołacz": "kuchnio"
       },
       "plural": {
-        "nominative": "kuchnie",
-        "genitive": "kuchni",
-        "dative": "kuchniom",
-        "accusative": "kuchnie",
-        "instrumental": "kuchniami",
-        "locative": "kuchniach",
-        "vocative": "kuchnie"
+        "mianownik": "kuchnie",
+        "dopełniacz": "kuchni",
+        "celownik": "kuchniom",
+        "biernik": "kuchnie",
+        "narzędnik": "kuchniami",
+        "miejscownik": "kuchniach",
+        "wołacz": "kuchnie"
       }
     },
     "translations": { "english": ["kitchen"] }
@@ -344,22 +344,22 @@
     "gender": "neuter",
     "declension": {
       "singular": {
-        "nominative": "krzesło",
-        "genitive": "krzesła",
-        "dative": "krzesłu",
-        "accusative": "krzesło",
-        "instrumental": "krzesłem",
-        "locative": "krześle",
-        "vocative": "krzesło"
+        "mianownik": "krzesło",
+        "dopełniacz": "krzesła",
+        "celownik": "krzesłu",
+        "biernik": "krzesło",
+        "narzędnik": "krzesłem",
+        "miejscownik": "krześle",
+        "wołacz": "krzesło"
       },
       "plural": {
-        "nominative": "krzesła",
-        "genitive": "krzeseł",
-        "dative": "krzesłom",
-        "accusative": "krzesła",
-        "instrumental": "krzesłami",
-        "locative": "krzesłach",
-        "vocative": "krzesła"
+        "mianownik": "krzesła",
+        "dopełniacz": "krzeseł",
+        "celownik": "krzesłom",
+        "biernik": "krzesła",
+        "narzędnik": "krzesłami",
+        "miejscownik": "krzesłach",
+        "wołacz": "krzesła"
       }
     },
     "translations": { "english": ["chair"] }
@@ -368,22 +368,22 @@
     "gender": "neuter",
     "declension": {
       "singular": {
-        "nominative": "książka",
-        "genitive": "książki",
-        "dative": "książce",
-        "accusative": "książkę",
-        "instrumental": "książką",
-        "locative": "książce",
-        "vocative": "książko"
+        "mianownik": "książka",
+        "dopełniacz": "książki",
+        "celownik": "książce",
+        "biernik": "książkę",
+        "narzędnik": "książką",
+        "miejscownik": "książce",
+        "wołacz": "książko"
       },
       "plural": {
-        "nominative": "książki",
-        "genitive": "książek",
-        "dative": "książkom",
-        "accusative": "książki",
-        "instrumental": "książkami",
-        "locative": "książkach",
-        "vocative": "książki"
+        "mianownik": "książki",
+        "dopełniacz": "książek",
+        "celownik": "książkom",
+        "biernik": "książki",
+        "narzędnik": "książkami",
+        "miejscownik": "książkach",
+        "wołacz": "książki"
       }
     },
     "translations": { "english": ["book"] }
@@ -392,22 +392,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "łazienka",
-        "genitive": "łazienki",
-        "dative": "łazience",
-        "accusative": "łazienkę",
-        "instrumental": "łazienką",
-        "locative": "łazience",
-        "vocative": "łazienko"
+        "mianownik": "łazienka",
+        "dopełniacz": "łazienki",
+        "celownik": "łazience",
+        "biernik": "łazienkę",
+        "narzędnik": "łazienką",
+        "miejscownik": "łazience",
+        "wołacz": "łazienko"
       },
       "plural": {
-        "nominative": "łazienki",
-        "genitive": "łazienek",
-        "dative": "łazienkom",
-        "accusative": "łazienki",
-        "instrumental": "łazienkami",
-        "locative": "łazienkach",
-        "vocative": "łazienki"
+        "mianownik": "łazienki",
+        "dopełniacz": "łazienek",
+        "celownik": "łazienkom",
+        "biernik": "łazienki",
+        "narzędnik": "łazienkami",
+        "miejscownik": "łazienkach",
+        "wołacz": "łazienki"
       }
     },
     "translations": { "english": ["bathroom"] }
@@ -416,22 +416,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "lodówka",
-        "genitive": "lodówki",
-        "dative": "lodówce",
-        "accusative": "lodówkę",
-        "instrumental": "lodówką",
-        "locative": "lodówce",
-        "vocative": "lodówko"
+        "mianownik": "lodówka",
+        "dopełniacz": "lodówki",
+        "celownik": "lodówce",
+        "biernik": "lodówkę",
+        "narzędnik": "lodówką",
+        "miejscownik": "lodówce",
+        "wołacz": "lodówko"
       },
       "plural": {
-        "nominative": "lodówki",
-        "genitive": "lodówek",
-        "dative": "lodówkom",
-        "accusative": "lodówki",
-        "instrumental": "lodówkami",
-        "locative": "lodówkach",
-        "vocative": "lodówki"
+        "mianownik": "lodówki",
+        "dopełniacz": "lodówek",
+        "celownik": "lodówkom",
+        "biernik": "lodówki",
+        "narzędnik": "lodówkami",
+        "miejscownik": "lodówkach",
+        "wołacz": "lodówki"
       }
     },
     "translations": { "english": ["fridge"] }
@@ -440,22 +440,22 @@
     "gender": "neuter",
     "declension": {
       "singular": {
-        "nominative": "łóżko",
-        "genitive": "łóżka",
-        "dative": "łóżku",
-        "accusative": "łóżko",
-        "instrumental": "łóżkiem",
-        "locative": "łóżku",
-        "vocative": "łóżko"
+        "mianownik": "łóżko",
+        "dopełniacz": "łóżka",
+        "celownik": "łóżku",
+        "biernik": "łóżko",
+        "narzędnik": "łóżkiem",
+        "miejscownik": "łóżku",
+        "wołacz": "łóżko"
       },
       "plural": {
-        "nominative": "łóżka",
-        "genitive": "łóżek",
-        "dative": "łóżkom",
-        "accusative": "łóżka",
-        "instrumental": "łóżkami",
-        "locative": "łóżkach",
-        "vocative": "łóżka"
+        "mianownik": "łóżka",
+        "dopełniacz": "łóżek",
+        "celownik": "łóżkom",
+        "biernik": "łóżka",
+        "narzędnik": "łóżkami",
+        "miejscownik": "łóżkach",
+        "wołacz": "łóżka"
       }
     },
     "translations": { "english": ["bed"] }
@@ -464,22 +464,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "miska",
-        "genitive": "miski",
-        "dative": "misce",
-        "accusative": "miskę",
-        "instrumental": "miską",
-        "locative": "misce",
-        "vocative": "misko"
+        "mianownik": "miska",
+        "dopełniacz": "miski",
+        "celownik": "misce",
+        "biernik": "miskę",
+        "narzędnik": "miską",
+        "miejscownik": "misce",
+        "wołacz": "misko"
       },
       "plural": {
-        "nominative": "miski",
-        "genitive": "misek",
-        "dative": "miskom",
-        "accusative": "miski",
-        "instrumental": "miskami",
-        "locative": "miskach",
-        "vocative": "miski"
+        "mianownik": "miski",
+        "dopełniacz": "misek",
+        "celownik": "miskom",
+        "biernik": "miski",
+        "narzędnik": "miskami",
+        "miejscownik": "miskach",
+        "wołacz": "miski"
       }
     },
     "translations": { "english": ["bowl"] }
@@ -488,22 +488,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "obraz",
-        "genitive": "obrazu",
-        "dative": "obrazowi",
-        "accusative": "obraz",
-        "instrumental": "obrazem",
-        "locative": "obrazie",
-        "vocative": "obrazie"
+        "mianownik": "obraz",
+        "dopełniacz": "obrazu",
+        "celownik": "obrazowi",
+        "biernik": "obraz",
+        "narzędnik": "obrazem",
+        "miejscownik": "obrazie",
+        "wołacz": "obrazie"
       },
       "plural": {
-        "nominative": "obrazy",
-        "genitive": "obrazów",
-        "dative": "obrazom",
-        "accusative": "obrazy",
-        "instrumental": "obrazami",
-        "locative": "obrazach",
-        "vocative": "obrazy"
+        "mianownik": "obrazy",
+        "dopełniacz": "obrazów",
+        "celownik": "obrazom",
+        "biernik": "obrazy",
+        "narzędnik": "obrazami",
+        "miejscownik": "obrazach",
+        "wołacz": "obrazy"
       }
     },
     "translations": { "english": ["picture"] }
@@ -512,22 +512,22 @@
     "gender": "neuter",
     "declension": {
       "singular": {
-        "nominative": "okno",
-        "genitive": "okna",
-        "dative": "oknu",
-        "accusative": "okno",
-        "instrumental": "oknem",
-        "locative": "oknie",
-        "vocative": "okno"
+        "mianownik": "okno",
+        "dopełniacz": "okna",
+        "celownik": "oknu",
+        "biernik": "okno",
+        "narzędnik": "oknem",
+        "miejscownik": "oknie",
+        "wołacz": "okno"
       },
       "plural": {
-        "nominative": "okna",
-        "genitive": "okien",
-        "dative": "oknom",
-        "accusative": "okna",
-        "instrumental": "oknami",
-        "locative": "oknach",
-        "vocative": "okna"
+        "mianownik": "okna",
+        "dopełniacz": "okien",
+        "celownik": "oknom",
+        "biernik": "okna",
+        "narzędnik": "oknami",
+        "miejscownik": "oknach",
+        "wołacz": "okna"
       }
     },
     "translations": { "english": ["window"] }
@@ -536,22 +536,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "plezak",
-        "genitive": "plezaka",
-        "dative": "plezakowi",
-        "accusative": "plezak",
-        "instrumental": "plezakiem",
-        "locative": "plezaku",
-        "vocative": "plezaku"
+        "mianownik": "plezak",
+        "dopełniacz": "plezaka",
+        "celownik": "plezakowi",
+        "biernik": "plezak",
+        "narzędnik": "plezakiem",
+        "miejscownik": "plezaku",
+        "wołacz": "plezaku"
       },
       "plural": {
-        "nominative": "plezaki",
-        "genitive": "plezaków",
-        "dative": "plezakom",
-        "accusative": "plezaki",
-        "instrumental": "plezakami",
-        "locative": "plezakach",
-        "vocative": "plezaki"
+        "mianownik": "plezaki",
+        "dopełniacz": "plezaków",
+        "celownik": "plezakom",
+        "biernik": "plezaki",
+        "narzędnik": "plezakami",
+        "miejscownik": "plezakach",
+        "wołacz": "plezaki"
       }
     },
     "translations": { "english": ["backpack"] }
@@ -560,22 +560,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "podłoga",
-        "genitive": "podłogi",
-        "dative": "podłodze",
-        "accusative": "podłogę",
-        "instrumental": "podłogą",
-        "locative": "podłodze",
-        "vocative": "podłogo"
+        "mianownik": "podłoga",
+        "dopełniacz": "podłogi",
+        "celownik": "podłodze",
+        "biernik": "podłogę",
+        "narzędnik": "podłogą",
+        "miejscownik": "podłodze",
+        "wołacz": "podłogo"
       },
       "plural": {
-        "nominative": "podłogi",
-        "genitive": "podłóg",
-        "dative": "podłogom",
-        "accusative": "podłogi",
-        "instrumental": "podłogami",
-        "locative": "podłogach",
-        "vocative": "podłogi"
+        "mianownik": "podłogi",
+        "dopełniacz": "podłóg",
+        "celownik": "podłogom",
+        "biernik": "podłogi",
+        "narzędnik": "podłogami",
+        "miejscownik": "podłogach",
+        "wołacz": "podłogi"
       }
     },
     "translations": { "english": ["floor"] }
@@ -584,22 +584,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "pokój",
-        "genitive": "pokoju",
-        "dative": "pokojowi",
-        "accusative": "pokoj",
-        "instrumental": "pokojem",
-        "locative": "pokoju",
-        "vocative": "pokoju"
+        "mianownik": "pokój",
+        "dopełniacz": "pokoju",
+        "celownik": "pokojowi",
+        "biernik": "pokoj",
+        "narzędnik": "pokojem",
+        "miejscownik": "pokoju",
+        "wołacz": "pokoju"
       },
       "plural": {
-        "nominative": "pokoje",
-        "genitive": "pokojów",
-        "dative": "pokojom",
-        "accusative": "pokoje",
-        "instrumental": "pokojami",
-        "locative": "pokojach",
-        "vocative": "pokoje"
+        "mianownik": "pokoje",
+        "dopełniacz": "pokojów",
+        "celownik": "pokojom",
+        "biernik": "pokoje",
+        "narzędnik": "pokojami",
+        "miejscownik": "pokojach",
+        "wołacz": "pokoje"
       }
     },
     "translations": { "english": ["room"] }
@@ -608,22 +608,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "piłka",
-        "genitive": "piłki",
-        "dative": "piłce",
-        "accusative": "piłkę",
-        "instrumental": "piłką",
-        "locative": "piłce",
-        "vocative": "piłko"
+        "mianownik": "piłka",
+        "dopełniacz": "piłki",
+        "celownik": "piłce",
+        "biernik": "piłkę",
+        "narzędnik": "piłką",
+        "miejscownik": "piłce",
+        "wołacz": "piłko"
       },
       "plural": {
-        "nominative": "piłki",
-        "genitive": "piłek",
-        "dative": "piłkom",
-        "accusative": "piłki",
-        "instrumental": "piłkami",
-        "locative": "piłkach",
-        "vocative": "piłki"
+        "mianownik": "piłki",
+        "dopełniacz": "piłek",
+        "celownik": "piłkom",
+        "biernik": "piłki",
+        "narzędnik": "piłkami",
+        "miejscownik": "piłkach",
+        "wołacz": "piłki"
       }
     },
     "translations": { "english": ["ball"] }
@@ -632,22 +632,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "półka",
-        "genitive": "półki",
-        "dative": "półce",
-        "accusative": "półkę",
-        "instrumental": "półką",
-        "locative": "półce",
-        "vocative": "półko"
+        "mianownik": "półka",
+        "dopełniacz": "półki",
+        "celownik": "półce",
+        "biernik": "półkę",
+        "narzędnik": "półką",
+        "miejscownik": "półce",
+        "wołacz": "półko"
       },
       "plural": {
-        "nominative": "półki",
-        "genitive": "półek",
-        "dative": "półkom",
-        "accusative": "półki",
-        "instrumental": "półkami",
-        "locative": "półkach",
-        "vocative": "półki"
+        "mianownik": "półki",
+        "dopełniacz": "półek",
+        "celownik": "półkom",
+        "biernik": "półki",
+        "narzędnik": "półkami",
+        "miejscownik": "półkach",
+        "wołacz": "półki"
       }
     },
     "translations": { "english": ["shelf"] }
@@ -656,22 +656,22 @@
     "gender": "neuter",
     "declension": {
       "singular": {
-        "nominative": "pudełko",
-        "genitive": "pudełka",
-        "dative": "pudełku",
-        "accusative": "pudełko",
-        "instrumental": "pudełkiem",
-        "locative": "pudełku",
-        "vocative": "pudełko"
+        "mianownik": "pudełko",
+        "dopełniacz": "pudełka",
+        "celownik": "pudełku",
+        "biernik": "pudełko",
+        "narzędnik": "pudełkiem",
+        "miejscownik": "pudełku",
+        "wołacz": "pudełko"
       },
       "plural": {
-        "nominative": "pudełka",
-        "genitive": "pudełek",
-        "dative": "pudełkom",
-        "accusative": "pudełka",
-        "instrumental": "pudełkami",
-        "locative": "pudełkach",
-        "vocative": "pudełka"
+        "mianownik": "pudełka",
+        "dopełniacz": "pudełek",
+        "celownik": "pudełkom",
+        "biernik": "pudełka",
+        "narzędnik": "pudełkami",
+        "miejscownik": "pudełkach",
+        "wołacz": "pudełka"
       }
     },
     "translations": { "english": ["box"] }
@@ -680,22 +680,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "poduszka",
-        "genitive": "poduszki",
-        "dative": "poduszce",
-        "accusative": "poduszkę",
-        "instrumental": "poduszką",
-        "locative": "poduszce",
-        "vocative": "poduszko"
+        "mianownik": "poduszka",
+        "dopełniacz": "poduszki",
+        "celownik": "poduszce",
+        "biernik": "poduszkę",
+        "narzędnik": "poduszką",
+        "miejscownik": "poduszce",
+        "wołacz": "poduszko"
       },
       "plural": {
-        "nominative": "poduszki",
-        "genitive": "poduszek",
-        "dative": "poduszkom",
-        "accusative": "poduszki",
-        "instrumental": "poduszkami",
-        "locative": "poduszkach",
-        "vocative": "poduszki"
+        "mianownik": "poduszki",
+        "dopełniacz": "poduszek",
+        "celownik": "poduszkom",
+        "biernik": "poduszki",
+        "narzędnik": "poduszkami",
+        "miejscownik": "poduszkach",
+        "wołacz": "poduszki"
       }
     },
     "translations": { "english": ["pillow", "cushion"] }
@@ -704,22 +704,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "ściana",
-        "genitive": "ściany",
-        "dative": "ścianie",
-        "accusative": "ścianę",
-        "instrumental": "ścianą",
-        "locative": "ścianie",
-        "vocative": "ściano"
+        "mianownik": "ściana",
+        "dopełniacz": "ściany",
+        "celownik": "ścianie",
+        "biernik": "ścianę",
+        "narzędnik": "ścianą",
+        "miejscownik": "ścianie",
+        "wołacz": "ściano"
       },
       "plural": {
-        "nominative": "ściany",
-        "genitive": "ścian",
-        "dative": "ścianom",
-        "accusative": "ściany",
-        "instrumental": "ścianami",
-        "locative": "ścianach",
-        "vocative": "ściany"
+        "mianownik": "ściany",
+        "dopełniacz": "ścian",
+        "celownik": "ścianom",
+        "biernik": "ściany",
+        "narzędnik": "ścianami",
+        "miejscownik": "ścianach",
+        "wołacz": "ściany"
       }
     },
     "translations": { "english": ["wall"] }
@@ -728,22 +728,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "siłownia",
-        "genitive": "siłowni",
-        "dative": "siłowni",
-        "accusative": "siłownię",
-        "instrumental": "siłownią",
-        "locative": "siłowni",
-        "vocative": "siłownio"
+        "mianownik": "siłownia",
+        "dopełniacz": "siłowni",
+        "celownik": "siłowni",
+        "biernik": "siłownię",
+        "narzędnik": "siłownią",
+        "miejscownik": "siłowni",
+        "wołacz": "siłownio"
       },
       "plural": {
-        "nominative": "siłownie",
-        "genitive": "siłowni",
-        "dative": "siłowniom",
-        "accusative": "siłownie",
-        "instrumental": "siłowniami",
-        "locative": "siłowniach",
-        "vocative": "siłownie"
+        "mianownik": "siłownie",
+        "dopełniacz": "siłowni",
+        "celownik": "siłowniom",
+        "biernik": "siłownie",
+        "narzędnik": "siłowniami",
+        "miejscownik": "siłowniach",
+        "wołacz": "siłownie"
       }
     },
     "translations": { "english": ["gym"] }
@@ -752,22 +752,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "sklep",
-        "genitive": "sklepu",
-        "dative": "sklepowi",
-        "accusative": "sklep",
-        "instrumental": "sklepem",
-        "locative": "sklepie",
-        "vocative": "sklepie"
+        "mianownik": "sklep",
+        "dopełniacz": "sklepu",
+        "celownik": "sklepowi",
+        "biernik": "sklep",
+        "narzędnik": "sklepem",
+        "miejscownik": "sklepie",
+        "wołacz": "sklepie"
       },
       "plural": {
-        "nominative": "sklepy",
-        "genitive": "sklepów",
-        "dative": "sklepop",
-        "accusative": "sklepy",
-        "instrumental": "sklepami",
-        "locative": "sklepach",
-        "vocative": "sklepy"
+        "mianownik": "sklepy",
+        "dopełniacz": "sklepów",
+        "celownik": "sklepop",
+        "biernik": "sklepy",
+        "narzędnik": "sklepami",
+        "miejscownik": "sklepach",
+        "wołacz": "sklepy"
       }
     },
     "translations": { "english": ["shop"] }
@@ -776,22 +776,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "sofa",
-        "genitive": "sofy",
-        "dative": "sofie",
-        "accusative": "sofę",
-        "instrumental": "sofą",
-        "locative": "sofie",
-        "vocative": "sofo"
+        "mianownik": "sofa",
+        "dopełniacz": "sofy",
+        "celownik": "sofie",
+        "biernik": "sofę",
+        "narzędnik": "sofą",
+        "miejscownik": "sofie",
+        "wołacz": "sofo"
       },
       "plural": {
-        "nominative": "sofy",
-        "genitive": "sof",
-        "dative": "sofom",
-        "accusative": "sofy",
-        "instrumental": "sofami",
-        "locative": "sofach",
-        "vocative": "sofy"
+        "mianownik": "sofy",
+        "dopełniacz": "sof",
+        "celownik": "sofom",
+        "biernik": "sofy",
+        "narzędnik": "sofami",
+        "miejscownik": "sofach",
+        "wołacz": "sofy"
       }
     },
     "translations": { "english": ["sofa"] }
@@ -800,22 +800,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "stół",
-        "genitive": "stołu",
-        "dative": "stołowi",
-        "accusative": "stół",
-        "instrumental": "stołem",
-        "locative": "stole",
-        "vocative": "stole"
+        "mianownik": "stół",
+        "dopełniacz": "stołu",
+        "celownik": "stołowi",
+        "biernik": "stół",
+        "narzędnik": "stołem",
+        "miejscownik": "stole",
+        "wołacz": "stole"
       },
       "plural": {
-        "nominative": "stoły",
-        "genitive": "stołów",
-        "dative": "stołom",
-        "accusative": "stoły",
-        "instrumental": "stołami",
-        "locative": "stołach",
-        "vocative": "stoły"
+        "mianownik": "stoły",
+        "dopełniacz": "stołów",
+        "celownik": "stołom",
+        "biernik": "stoły",
+        "narzędnik": "stołami",
+        "miejscownik": "stołach",
+        "wołacz": "stoły"
       }
     },
     "translations": { "english": ["table"] }
@@ -824,22 +824,22 @@
     "gender": "masculine",
     "declension": {
       "singular": {
-        "nominative": "sufit",
-        "genitive": "sufitu",
-        "dative": "sufitowi",
-        "accusative": "sufit",
-        "instrumental": "sufitem",
-        "locative": "suficie",
-        "vocative": "suficie"
+        "mianownik": "sufit",
+        "dopełniacz": "sufitu",
+        "celownik": "sufitowi",
+        "biernik": "sufit",
+        "narzędnik": "sufitem",
+        "miejscownik": "suficie",
+        "wołacz": "suficie"
       },
       "plural": {
-        "nominative": "sufity",
-        "genitive": "sufitów",
-        "dative": "sufitom",
-        "accusative": "sufity",
-        "instrumental": "sufitami",
-        "locative": "sufitach",
-        "vocative": "sufity"
+        "mianownik": "sufity",
+        "dopełniacz": "sufitów",
+        "celownik": "sufitom",
+        "biernik": "sufity",
+        "narzędnik": "sufitami",
+        "miejscownik": "sufitach",
+        "wołacz": "sufity"
       }
     },
     "translations": { "english": ["ceiling"] }
@@ -848,22 +848,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "szafa",
-        "genitive": "szafy",
-        "dative": "szafie",
-        "accusative": "szafę",
-        "instrumental": "szafą",
-        "locative": "szafie",
-        "vocative": "szafo"
+        "mianownik": "szafa",
+        "dopełniacz": "szafy",
+        "celownik": "szafie",
+        "biernik": "szafę",
+        "narzędnik": "szafą",
+        "miejscownik": "szafie",
+        "wołacz": "szafo"
       },
       "plural": {
-        "nominative": "szafy",
-        "genitive": "szaf",
-        "dative": "szafom",
-        "accusative": "szafy",
-        "instrumental": "szafami",
-        "locative": "szafach",
-        "vocative": "szafy"
+        "mianownik": "szafy",
+        "dopełniacz": "szaf",
+        "celownik": "szafom",
+        "biernik": "szafy",
+        "narzędnik": "szafami",
+        "miejscownik": "szafach",
+        "wołacz": "szafy"
       }
     },
     "translations": { "english": ["wardrobe"] }
@@ -872,22 +872,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "szklanka",
-        "genitive": "szklanki",
-        "dative": "szklance",
-        "accusative": "szklankę",
-        "instrumental": "szklanką",
-        "locative": "szklance",
-        "vocative": "szklanko"
+        "mianownik": "szklanka",
+        "dopełniacz": "szklanki",
+        "celownik": "szklance",
+        "biernik": "szklankę",
+        "narzędnik": "szklanką",
+        "miejscownik": "szklance",
+        "wołacz": "szklanko"
       },
       "plural": {
-        "nominative": "szklanki",
-        "genitive": "szklanek",
-        "dative": "szklankom",
-        "accusative": "szklanki",
-        "instrumental": "szklankami",
-        "locative": "szklankach",
-        "vocative": "szklanki"
+        "mianownik": "szklanki",
+        "dopełniacz": "szklanek",
+        "celownik": "szklankom",
+        "biernik": "szklanki",
+        "narzędnik": "szklankami",
+        "miejscownik": "szklankach",
+        "wołacz": "szklanki"
       }
     },
     "translations": { "english": ["glass"] }
@@ -896,22 +896,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "winda",
-        "genitive": "windy",
-        "dative": "windzie",
-        "accusative": "windę",
-        "instrumental": "windą",
-        "locative": "windzie",
-        "vocative": "windo"
+        "mianownik": "winda",
+        "dopełniacz": "windy",
+        "celownik": "windzie",
+        "biernik": "windę",
+        "narzędnik": "windą",
+        "miejscownik": "windzie",
+        "wołacz": "windo"
       },
       "plural": {
-        "nominative": "windy",
-        "genitive": "wind",
-        "dative": "windom",
-        "accusative": "windy",
-        "instrumental": "windami",
-        "locative": "windach",
-        "vocative": "windy"
+        "mianownik": "windy",
+        "dopełniacz": "wind",
+        "celownik": "windom",
+        "biernik": "windy",
+        "narzędnik": "windami",
+        "miejscownik": "windach",
+        "wołacz": "windy"
       }
     },
     "translations": { "english": ["elevator", "lit"] }
@@ -920,22 +920,22 @@
     "gender": "feminine",
     "declension": {
       "singular": {
-        "nominative": "woda",
-        "genitive": "wody",
-        "dative": "wodzie",
-        "accusative": "wodę",
-        "instrumental": "wodą",
-        "locative": "wodce",
-        "vocative": "wodo"
+        "mianownik": "woda",
+        "dopełniacz": "wody",
+        "celownik": "wodzie",
+        "biernik": "wodę",
+        "narzędnik": "wodą",
+        "miejscownik": "wodce",
+        "wołacz": "wodo"
       },
       "plural": {
-        "nominative": "wody",
-        "genitive": "wód",
-        "dative": "wodom",
-        "accusative": "wody",
-        "instrumental": "wodami",
-        "locative": "wodach",
-        "vocative": "wody"
+        "mianownik": "wody",
+        "dopełniacz": "wód",
+        "celownik": "wodom",
+        "biernik": "wody",
+        "narzędnik": "wodami",
+        "miejscownik": "wodach",
+        "wołacz": "wody"
       }
     },
     "translations": { "english": ["water"] }

@@ -4,50 +4,50 @@
     "cases": {
       "singular": {
         "masculine": {
-          "nominative": "szybki",
-          "genitive": "szybkiego",
-          "dative": "szybkiemu",
-          "accusative": {
+          "mianownik": "szybki",
+          "dopełniacz": "szybkiego",
+          "celownik": "szybkiemu",
+          "biernik": {
             "animate": "szybkiego",
             "inanimate": "szybki"
           },
-          "instrumental": "szybkim",
-          "locative": "szybkim",
-          "vocative": "szybki"
+          "narzędnik": "szybkim",
+          "miejscownik": "szybkim",
+          "wołacz": "szybki"
         },
         "feminine": {
-          "nominative": "szybka",
-          "genitive": "szybkiej",
-          "dative": "szybkiej",
-          "accusative": "szybką",
-          "instrumental": "szybką",
-          "locative": "szybkiej",
-          "vocative": "szybka"
+          "mianownik": "szybka",
+          "dopełniacz": "szybkiej",
+          "celownik": "szybkiej",
+          "biernik": "szybką",
+          "narzędnik": "szybką",
+          "miejscownik": "szybkiej",
+          "wołacz": "szybka"
         },
         "neuter": {
-          "nominative": "szybkie",
-          "genitive": "szybkiego",
-          "dative": "szybkiemu",
-          "accusative": "szybkie",
-          "instrumental": "szybkim",
-          "locative": "szybkim",
-          "vocative": "szybkie"
+          "mianownik": "szybkie",
+          "dopełniacz": "szybkiego",
+          "celownik": "szybkiemu",
+          "biernik": "szybkie",
+          "narzędnik": "szybkim",
+          "miejscownik": "szybkim",
+          "wołacz": "szybkie"
         }
       },
       "plural": {
-        "nominative": {
+        "mianownik": {
           "masculinePersonal": "szybcy",
           "nonMasculinePersonal": "szybkie"
         },
-        "genitive": "szybkich",
-        "dative": "szybkim",
-        "accusative": {
+        "dopełniacz": "szybkich",
+        "celownik": "szybkim",
+        "biernik": {
           "masculinePersonal": "szybkich",
           "nonMasculinePersonal": "szybkie"
         },
-        "instrumental": "szybkimi",
-        "locative": "szybkich",
-        "vocative": {
+        "narzędnik": "szybkimi",
+        "miejscownik": "szybkich",
+        "wołacz": {
           "masculinePersonal": "szybcy",
           "nonMasculinePersonal": "szybkie"
         }

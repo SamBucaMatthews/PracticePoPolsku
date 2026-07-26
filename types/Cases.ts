@@ -19,31 +19,31 @@ export type MasculineAnimateInanimateSplit = {
 };
 
 export type NounCases = {
-  nominative: string; // Mianownik
-  genitive: string; // Dopełniacz
-  dative: string; // Celownik
-  accusative: string; // Biernik
-  instrumental: string; // Narzędnik
-  locative: string; // Miejscownik
-  vocative: string; // Wołacz
+  mianownik: string;
+  dopełniacz: string;
+  celownik: string;
+  biernik: string;
+  narzędnik: string;
+  miejscownik: string;
+  wołacz: string;
 };
 
 export type AdjectiveSingularCases = {
-  nominative: string; // Mianownik
-  genitive: string; // Dopełniacz
-  dative: string; // Celownik
-  accusative: MasculineAnimateInanimateSplit; // Biernik
-  instrumental: string; // Narzędnik
-  locative: string; // Miejscownik
-  vocative: string; // Wołacz
+  mianownik: string;
+  dopełniacz: string;
+  celownik: string;
+  biernik: MasculineAnimateInanimateSplit;
+  narzędnik: string;
+  miejscownik: string;
+  wołacz: string;
 };
 
 export type AdjectivePluralCases = {
-  nominative: MasculinePersonalSplit; // Mianownik
-  genitive: string; // Dopełniacz
-  dative: string; // Celownik
-  accusative: MasculinePersonalSplit; // Biernik
-  instrumental: string; // Narzędnik
-  locative: string; // Miejscownik
-  vocative: MasculinePersonalSplit; // Wołacz
+  mianownik: MasculinePersonalSplit;
+  dopełniacz: string;
+  celownik: string;
+  biernik: MasculinePersonalSplit;
+  narzędnik: string;
+  miejscownik: string;
+  wołacz: MasculinePersonalSplit;
 };
