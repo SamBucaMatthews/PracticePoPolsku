@@ -238,7 +238,10 @@
       }
     },
     "translations": [
-      { "language": "english", "translation": "cell, mobile phone" }
+      {
+        "language": "english",
+        "translation": "cell, mobile phone"
+      }
     ]
   },
   "komputer": {
