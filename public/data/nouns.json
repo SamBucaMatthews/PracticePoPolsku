@@ -1,7 +1,7 @@
 {
   "biuro": {
     "gender": "neuter",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "biuro",
         "genitive": "biura",
@@ -21,11 +21,11 @@
         "vocative": "biura"
       }
     },
-    "translations": [{ "language": "english", "translation": "office" }]
+    "translations": { "english": ["office"] }
   },
   "chleb": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "chleb",
         "genitive": "chleba",
@@ -45,11 +45,11 @@
         "vocative": "chleby"
       }
     },
-    "translations": [{ "language": "english", "translation": "bread" }]
+    "translations": { "english": ["bread"] }
   },
   "dach": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "dach",
         "genitive": "dachu",
@@ -69,11 +69,11 @@
         "vocative": "dachy"
       }
     },
-    "translations": [{ "language": "english", "translation": "roof" }]
+    "translations": { "english": ["roof"] }
   },
   "dom": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "dom",
         "genitive": "domu",
@@ -93,11 +93,11 @@
         "vocative": "domy"
       }
     },
-    "translations": [{ "language": "english", "translation": "house" }]
+    "translations": { "english": ["house"] }
   },
   "ekran": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "ekran",
         "genitive": "ekranu",
@@ -117,11 +117,11 @@
         "vocative": "ekrany"
       }
     },
-    "translations": [{ "language": "english", "translation": "screen" }]
+    "translations": { "english": ["screen"] }
   },
   "fotel": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "fotel",
         "genitive": "fotela",
@@ -141,11 +141,11 @@
         "vocative": "fotele"
       }
     },
-    "translations": [{ "language": "english", "translation": "armchair" }]
+    "translations": { "english": ["armchair"] }
   },
   "gitara": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "gitara",
         "genitive": "gitary",
@@ -165,11 +165,11 @@
         "vocative": "gitary"
       }
     },
-    "translations": [{ "language": "english", "translation": "guitar" }]
+    "translations": { "english": ["guitar"] }
   },
   "klucz": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "klucz",
         "genitive": "klucza",
@@ -189,11 +189,11 @@
         "vocative": "klucze"
       }
     },
-    "translations": [{ "language": "english", "translation": "key" }]
+    "translations": { "english": ["key"] }
   },
   "kobieta": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "kobieta",
         "genitive": "kobiety",
@@ -213,11 +213,11 @@
         "vocative": "kobiety"
       }
     },
-    "translations": [{ "language": "english", "translation": "woman" }]
+    "translations": { "english": ["woman"] }
   },
   "komórka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "komórka",
         "genitive": "komórki",
@@ -243,7 +243,7 @@
   },
   "komputer": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "komputer",
         "genitive": "komputera",
@@ -263,11 +263,11 @@
         "vocative": "komputery"
       }
     },
-    "translations": [{ "language": "english", "translation": "computer" }]
+    "translations": { "english": ["computer"] }
   },
   "kot": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "kot",
         "genitive": "kota",
@@ -287,11 +287,11 @@
         "vocative": "koty"
       }
     },
-    "translations": [{ "language": "english", "translation": "cat" }]
+    "translations": { "english": ["cat"] }
   },
   "kubek": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "kubek",
         "genitive": "kubeka",
@@ -311,11 +311,11 @@
         "vocative": "kubki"
       }
     },
-    "translations": [{ "language": "english", "translation": "mug" }]
+    "translations": { "english": ["mug"] }
   },
   "kuchnia": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "kuchnia",
         "genitive": "kuchni",
@@ -335,11 +335,11 @@
         "vocative": "kuchnie"
       }
     },
-    "translations": [{ "language": "english", "translation": "kitchen" }]
+    "translations": { "english": ["kitchen"] }
   },
   "krzesło": {
     "gender": "neuter",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "krzesło",
         "genitive": "krzesła",
@@ -359,11 +359,11 @@
         "vocative": "krzesła"
       }
     },
-    "translations": [{ "language": "english", "translation": "chair" }]
+    "translations": { "english": ["chair"] }
   },
   "książka": {
     "gender": "neuter",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "książka",
         "genitive": "książki",
@@ -383,11 +383,11 @@
         "vocative": "książki"
       }
     },
-    "translations": [{ "language": "english", "translation": "book" }]
+    "translations": { "english": ["book"] }
   },
   "łazienka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "łazienka",
         "genitive": "łazienki",
@@ -407,11 +407,11 @@
         "vocative": "łazienki"
       }
     },
-    "translations": [{ "language": "english", "translation": "bathroom" }]
+    "translations": { "english": ["bathroom"] }
   },
   "lodówka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "lodówka",
         "genitive": "lodówki",
@@ -431,11 +431,11 @@
         "vocative": "lodówki"
       }
     },
-    "translations": [{ "language": "english", "translation": "fridge" }]
+    "translations": { "english": ["fridge"] }
   },
   "łóżko": {
     "gender": "neuter",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "łóżko",
         "genitive": "łóżka",
@@ -455,11 +455,11 @@
         "vocative": "łóżka"
       }
     },
-    "translations": [{ "language": "english", "translation": "bed" }]
+    "translations": { "english": ["bed"] }
   },
   "miska": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "miska",
         "genitive": "miski",
@@ -479,11 +479,11 @@
         "vocative": "miski"
       }
     },
-    "translations": [{ "language": "english", "translation": "bowl" }]
+    "translations": { "english": ["bowl"] }
   },
   "obraz": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "obraz",
         "genitive": "obrazu",
@@ -503,11 +503,11 @@
         "vocative": "obrazy"
       }
     },
-    "translations": [{ "language": "english", "translation": "picture" }]
+    "translations": { "english": ["picture"] }
   },
   "okno": {
     "gender": "neuter",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "okno",
         "genitive": "okna",
@@ -527,11 +527,11 @@
         "vocative": "okna"
       }
     },
-    "translations": [{ "language": "english", "translation": "window" }]
+    "translations": { "english": ["window"] }
   },
   "plezak": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "plezak",
         "genitive": "plezaka",
@@ -551,11 +551,11 @@
         "vocative": "plezaki"
       }
     },
-    "translations": [{ "language": "english", "translation": "backpack" }]
+    "translations": { "english": ["backpack"] }
   },
   "podłoga": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "podłoga",
         "genitive": "podłogi",
@@ -575,11 +575,11 @@
         "vocative": "podłogi"
       }
     },
-    "translations": [{ "language": "english", "translation": "floor" }]
+    "translations": { "english": ["floor"] }
   },
   "pokój": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "pokój",
         "genitive": "pokoju",
@@ -599,11 +599,11 @@
         "vocative": "pokoje"
       }
     },
-    "translations": [{ "language": "english", "translation": "room" }]
+    "translations": { "english": ["room"] }
   },
   "piłka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "piłka",
         "genitive": "piłki",
@@ -623,11 +623,11 @@
         "vocative": "piłki"
       }
     },
-    "translations": [{ "language": "english", "translation": "ball" }]
+    "translations": { "english": ["ball"] }
   },
   "półka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "półka",
         "genitive": "półki",
@@ -647,11 +647,11 @@
         "vocative": "półki"
       }
     },
-    "translations": [{ "language": "english", "translation": "shelf" }]
+    "translations": { "english": ["shelf"] }
   },
   "pudełko": {
     "gender": "neuter",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "pudełko",
         "genitive": "pudełka",
@@ -671,11 +671,11 @@
         "vocative": "pudełka"
       }
     },
-    "translations": [{ "language": "english", "translation": "box" }]
+    "translations": { "english": ["box"] }
   },
   "poduszka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "poduszka",
         "genitive": "poduszki",
@@ -695,11 +695,11 @@
         "vocative": "poduszki"
       }
     },
-    "translations": [{ "language": "english", "translation": "pillow/cushion" }]
+    "translations": { "english": ["pillow", "cushion"] }
   },
   "ściana": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "ściana",
         "genitive": "ściany",
@@ -719,11 +719,11 @@
         "vocative": "ściany"
       }
     },
-    "translations": [{ "language": "english", "translation": "wall" }]
+    "translations": { "english": ["wall"] }
   },
   "siłownia": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "siłownia",
         "genitive": "siłowni",
@@ -743,11 +743,11 @@
         "vocative": "siłownie"
       }
     },
-    "translations": [{ "language": "english", "translation": "gym" }]
+    "translations": { "english": ["gym"] }
   },
   "sklep": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "sklep",
         "genitive": "sklepu",
@@ -767,11 +767,11 @@
         "vocative": "sklepy"
       }
     },
-    "translations": [{ "language": "english", "translation": "shop" }]
+    "translations": { "english": ["shop"] }
   },
   "sofa": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "sofa",
         "genitive": "sofy",
@@ -791,11 +791,11 @@
         "vocative": "sofy"
       }
     },
-    "translations": [{ "language": "english", "translation": "sofa" }]
+    "translations": { "english": ["sofa"] }
   },
   "stół": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "stół",
         "genitive": "stołu",
@@ -815,11 +815,11 @@
         "vocative": "stoły"
       }
     },
-    "translations": [{ "language": "english", "translation": "table" }]
+    "translations": { "english": ["table"] }
   },
   "sufit": {
     "gender": "masculine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "sufit",
         "genitive": "sufitu",
@@ -839,11 +839,11 @@
         "vocative": "sufity"
       }
     },
-    "translations": [{ "language": "english", "translation": "ceiling" }]
+    "translations": { "english": ["ceiling"] }
   },
   "szafa": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "szafa",
         "genitive": "szafy",
@@ -863,11 +863,11 @@
         "vocative": "szafy"
       }
     },
-    "translations": [{ "language": "english", "translation": "wardrobe" }]
+    "translations": { "english": ["wardrobe"] }
   },
   "szklanka": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "szklanka",
         "genitive": "szklanki",
@@ -887,11 +887,11 @@
         "vocative": "szklanki"
       }
     },
-    "translations": [{ "language": "english", "translation": "glass" }]
+    "translations": { "english": ["glass"] }
   },
   "winda": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "winda",
         "genitive": "windy",
@@ -911,11 +911,11 @@
         "vocative": "windy"
       }
     },
-    "translations": [{ "language": "english", "translation": "elevator/lift" }]
+    "translations": { "english": ["elevator", "lit"] }
   },
   "woda": {
     "gender": "feminine",
-    "cases": {
+    "declension": {
       "singular": {
         "nominative": "woda",
         "genitive": "wody",
@@ -935,6 +935,6 @@
         "vocative": "wody"
       }
     },
-    "translations": [{ "language": "english", "translation": "water" }]
+    "translations": { "english": ["water"] }
   }
 }

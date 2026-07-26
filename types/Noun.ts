@@ -1,11 +1,11 @@
-import type { SingularAndPluralCases } from "./Cases";
+import type { NounDeclension } from "./Cases";
 import type { Gender } from "./Gender";
-import type { Translation } from "./Translation";
+import type { Translations } from "./Translation";
 
 export interface Noun {
   gender: Gender;
-  cases: SingularAndPluralCases<Noun>;
-  translations?: Translation[];
+  declension: NounDeclension;
+  translations?: Translations;
 }
 
 export type NounsDictionary = Record<string, Noun>;

@@ -1,8 +1,11 @@
-import type { Noun } from "./Noun";
+export type NounDeclension = {
+  singular: NounCases;
+  plural: NounCases;
+};
 
-export type SingularAndPluralCases<T> = {
-  singular: T extends Noun ? NounCases : AdjectiveSingularCases; // liczba pojedyncza
-  plural: T extends Noun ? NounCases : AdjectivePluralCases; // liczba mnoga
+export type AdjectiveDeclension = {
+  singular: AdjectiveSingularCases;
+  plural: AdjectivePluralCases;
 };
 
 export type MasculinePersonalSplit = {

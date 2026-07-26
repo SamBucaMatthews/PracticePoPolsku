@@ -1,5 +1,4 @@
 import type { AdjectiveDictionary as AdjectivesDictionary } from "../../types/Adjective";
-import type { AdjectiveSingularCases } from "../../types/Cases";
 import type { NounsDictionary } from "../../types/Noun";
 
 const CACHE_DURATION = 5 * 60 * 1000;
@@ -37,31 +36,9 @@ export function loadNouns(): Promise<NounsDictionary> {
   return loadAndCache(caches.nouns, "/PracticePoPolsku/data/nouns.json");
 }
 
-export async function loadNounsWithCase(
-  nounCase: AdjectiveSingularCases,
-): Promise<NounsDictionary> {
-  const nouns = await loadAndCache(
-    caches.nouns,
-    "/PracticePoPolsku/data/nouns.json",
-  );
-  return nouns;
-}
-
 export function loadAdjectives(): Promise<AdjectivesDictionary> {
   return loadAndCache(
     caches.adjectives,
     "/PracticePoPolsku/data/adjectives.json",
   );
-}
-
-export async function loadNoun(lemma: string) {
-  return (await loadNouns())[lemma];
-}
-
-export async function loadRandomNoun() {
-  const nouns = await loadNouns();
-  const keys = Object.keys(nouns);
-  const randomIndex = Math.floor(Math.random() * keys.length);
-
-  return nouns[keys[randomIndex]];
 }
