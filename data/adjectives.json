@@ -1,0 +1,57 @@
+{
+  "szybki": {
+    "adverb": "szybko",
+    "cases": {
+      "singular": {
+        "masculine": {
+          "mianownik": "szybki",
+          "dopełniacz": "szybkiego",
+          "celownik": "szybkiemu",
+          "biernik": {
+            "animate": "szybkiego",
+            "inanimate": "szybki"
+          },
+          "narzędnik": "szybkim",
+          "miejscownik": "szybkim",
+          "wołacz": "szybki"
+        },
+        "feminine": {
+          "mianownik": "szybka",
+          "dopełniacz": "szybkiej",
+          "celownik": "szybkiej",
+          "biernik": "szybką",
+          "narzędnik": "szybką",
+          "miejscownik": "szybkiej",
+          "wołacz": "szybka"
+        },
+        "neuter": {
+          "mianownik": "szybkie",
+          "dopełniacz": "szybkiego",
+          "celownik": "szybkiemu",
+          "biernik": "szybkie",
+          "narzędnik": "szybkim",
+          "miejscownik": "szybkim",
+          "wołacz": "szybkie"
+        }
+      },
+      "plural": {
+        "mianownik": {
+          "masculinePersonal": "szybcy",
+          "nonMasculinePersonal": "szybkie"
+        },
+        "dopełniacz": "szybkich",
+        "celownik": "szybkim",
+        "biernik": {
+          "masculinePersonal": "szybkich",
+          "nonMasculinePersonal": "szybkie"
+        },
+        "narzędnik": "szybkimi",
+        "miejscownik": "szybkich",
+        "wołacz": {
+          "masculinePersonal": "szybcy",
+          "nonMasculinePersonal": "szybkie"
+        }
+      }
+    }
+  }
+}
