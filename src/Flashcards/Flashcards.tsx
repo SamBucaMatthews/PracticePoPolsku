@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Flashcard from "./Flashcard";
 import type { FlashcardData } from "./Flashcard";
 import { loadNouns } from "../DataAccess/DataAccess";
-import { createNounCaseCard, createNounTranslationCard } from "./CardFactory";
+import { createMianownikSingularPluralCard, createNounCaseCard, createNounTranslationCard } from "./CardFactory";
 import { useNavigate } from "react-router-dom";
 
 export default function Flashcards() {
@@ -10,20 +10,20 @@ export default function Flashcards() {
     const [card, setCard] = useState<FlashcardData | null>(null);
 
     const nounCardFactories = [
+        createMianownikSingularPluralCard,
         createNounTranslationCard,
         createNounCaseCard,
     ];
 
     async function load() {
         const nouns = await loadNouns();
-
-        const entries = Object.entries(nouns);
+        const entries = Object.entries(nouns).map(n => n[1]);
 
         if (entries.length === 0) {
             return;
         }
 
-        const [lemma, noun] =
+        const noun =
             entries[Math.floor(Math.random() * entries.length)];
 
         const factory =
@@ -31,7 +31,7 @@ export default function Flashcards() {
             Math.floor(Math.random() * nounCardFactories.length)
             ];
 
-        setCard(factory(lemma, noun));
+        setCard(factory(noun));
     }
 
     useEffect(() => {

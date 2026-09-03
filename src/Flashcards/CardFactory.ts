@@ -15,14 +15,15 @@ const nounCases: NounCase[] = [
   "wołacz",
 ];
 
-export function createNounCaseCard(lemma: string, noun: Noun): FlashcardData {
+export function createNounCaseCard(noun: Noun): FlashcardData {
+  const lemma = noun.declension.singular.mianownik;
   const grammaticalCase =
     nounCases[Math.floor(Math.random() * nounCases.length)];
 
   const number: NounNumber = Math.random() > 0.5 ? "singular" : "plural";
 
   if (grammaticalCase == "mianownik" && number == "singular") {
-    return createNounCaseCard(lemma, noun);
+    return createNounCaseCard(noun);
   }
 
   return {
@@ -31,12 +32,19 @@ export function createNounCaseCard(lemma: string, noun: Noun): FlashcardData {
   };
 }
 
-export function createNounTranslationCard(
-  lemma: string,
-  noun: Noun,
-): FlashcardData {
+export function createNounTranslationCard(noun: Noun): FlashcardData {
   return {
-    front: lemma,
+    front: noun.declension.singular.mianownik,
     back: noun.translations?.english?.join(", ") ?? "No translation",
+  };
+}
+
+export function createMianownikSingularPluralCard(noun: Noun): FlashcardData {
+  const back: NounNumber = Math.random() > 0.5 ? "singular" : "plural";
+  const front = back === "plural" ? "singular" : "plural";
+
+  return {
+    front: `What is the ${back} of ${noun.declension[front].mianownik}?`,
+    back: noun.declension[back].mianownik,
   };
 }
