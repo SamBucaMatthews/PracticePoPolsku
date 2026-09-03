@@ -1,4 +1,28 @@
 {
+  "Anglik": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "Anglik",
+        "dopełniacz": "Anglika",
+        "celownik": "Anglikowi",
+        "biernik": "Anglika",
+        "narzędnik": "Anglikiem",
+        "miejscownik": "Angliku",
+        "wołacz": "Angliku"
+      },
+      "plural": {
+        "mianownik": "Anglicy",
+        "dopełniacz": "Anglików",
+        "celownik": "Anglikom",
+        "biernik": "Anglików",
+        "narzędnik": "Anglikami",
+        "miejscownik": "Anglikach",
+        "wołacz": "Anglicy"
+      }
+    },
+    "translations": { "english": ["Englishman"] }
+  },
   "biuro": {
     "gender": "neuter",
     "declension": {
@@ -237,11 +261,9 @@
         "wołacz": "komórki"
       }
     },
-    "translations": [
-      {
-        "english": ["cell", "mobile phone"]
-      }
-    ]
+    "translations": {
+      "english": ["cell", "mobile phone"]
+    }
   },
   "komputer": {
     "gender": "masculine",
@@ -819,6 +841,30 @@
     },
     "translations": { "english": ["table"] }
   },
+  "stolik": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "stolik",
+        "dopełniacz": "stolika",
+        "celownik": "stolikowi",
+        "biernik": "stolik",
+        "narzędnik": "stolikiem",
+        "miejscownik": "stoliku",
+        "wołacz": "stoliku"
+      },
+      "plural": {
+        "mianownik": "stoliki",
+        "dopełniacz": "stolików",
+        "celownik": "stolikom",
+        "biernik": "stoliki",
+        "narzędnik": "stolikami",
+        "miejscownik": "stolikach",
+        "wołacz": "stoliki"
+      }
+    },
+    "translations": { "english": ["small table"] }
+  },
   "sufit": {
     "gender": "masculine",
     "declension": {
@@ -938,5 +984,797 @@
       }
     },
     "translations": { "english": ["water"] }
+  },
+  "Hindus": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "Hindus",
+        "dopełniacz": "Hindusa",
+        "celownik": "Hindusowi",
+        "biernik": "Hindusa",
+        "narzędnik": "Hindusem",
+        "miejscownik": "Hindusie",
+        "wołacz": "Hindusie"
+      },
+      "plural": {
+        "mianownik": "Hindusi",
+        "dopełniacz": "Hindusów",
+        "celownik": "Hindusom",
+        "biernik": "Hindusów",
+        "narzędnik": "Hindusami",
+        "miejscownik": "Hindusach",
+        "wołacz": "Hindusi"
+      }
+    },
+    "translations": { "english": ["Hindu"] }
+  },
+  "chłopiec": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "chłopiec",
+        "dopełniacz": "chłopca",
+        "celownik": "chłopcu",
+        "biernik": "chłopca",
+        "narzędnik": "chłopcem",
+        "miejscownik": "chłopcu",
+        "wołacz": "chłopcze"
+      },
+      "plural": {
+        "mianownik": "chłopcy",
+        "dopełniacz": "chłopców",
+        "celownik": "chłopcom",
+        "biernik": "chłopców",
+        "narzędnik": "chłopcami",
+        "miejscownik": "chłopcach",
+        "wołacz": "chłopcy"
+      }
+    },
+    "translations": { "english": ["boy"] }
+  },
+  "piec": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "piec",
+        "dopełniacz": "pieca",
+        "celownik": "piecowi",
+        "biernik": "piec",
+        "narzędnik": "piecem",
+        "miejscownik": "piecu",
+        "wołacz": "piecu"
+      },
+      "plural": {
+        "mianownik": "piece",
+        "dopełniacz": "pieców",
+        "celownik": "piecom",
+        "biernik": "piece",
+        "narzędnik": "piecami",
+        "miejscownik": "piecach",
+        "wołacz": "piece"
+      }
+    },
+    "translations": { "english": ["oven"] }
+  },
+  "inżynier": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "inżynier",
+        "dopełniacz": "inżyniera",
+        "celownik": "inżynierowi",
+        "biernik": "inżyniera",
+        "narzędnik": "inżynierem",
+        "miejscownik": "inżynierze",
+        "wołacz": "inżynierze"
+      },
+      "plural": {
+        "mianownik": "inżynierowie",
+        "dopełniacz": "inżynierów",
+        "celownik": "inżynierom",
+        "biernik": "inżynierów",
+        "narzędnik": "inżynierami",
+        "miejscownik": "inżynierach",
+        "wołacz": "inżynierowie"
+      }
+    },
+    "translations": { "english": ["engineer"] }
+  },
+  "ser": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "ser",
+        "dopełniacz": "sera",
+        "celownik": "serowi",
+        "biernik": "ser",
+        "narzędnik": "serem",
+        "miejscownik": "serze",
+        "wołacz": "serze"
+      },
+      "plural": {
+        "mianownik": "sery",
+        "dopełniacz": "serów",
+        "celownik": "serom",
+        "biernik": "sery",
+        "narzędnik": "serami",
+        "miejscownik": "serach",
+        "wołacz": "sery"
+      }
+    },
+    "translations": { "english": ["cheese"] }
+  },
+  "mężczyzna": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "mężczyzna",
+        "dopełniacz": "mężczyzny",
+        "celownik": "mężczyźnie",
+        "biernik": "mężczyznę",
+        "narzędnik": "mężczyzną",
+        "miejscownik": "mężczyźnie",
+        "wołacz": "mężczyźnie"
+      },
+      "plural": {
+        "mianownik": "mężczyźni",
+        "dopełniacz": "mężczyzn",
+        "celownik": "mężczyznom",
+        "biernik": "mężczyzń",
+        "narzędnik": "mężczyznami",
+        "miejscownik": "mężczyznach",
+        "wołacz": "mężczyźni"
+      }
+    },
+    "translations": { "english": ["man"] }
+  },
+  "blizna": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "blizna",
+        "dopełniacz": "blizny",
+        "celownik": "bliznie",
+        "biernik": "bliznę",
+        "narzędnik": "blizną",
+        "miejscownik": "bliznie",
+        "wołacz": "blizno"
+      },
+      "plural": {
+        "mianownik": "blizny",
+        "dopełniacz": "blizn",
+        "celownik": "bliznom",
+        "biernik": "blizny",
+        "narzędnik": "bliznami",
+        "miejscownik": "bliznach",
+        "wołacz": "blizny"
+      }
+    },
+    "translations": { "english": ["scar"] }
+  },
+  "gość": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "gość",
+        "dopełniacz": "gościa",
+        "celownik": "gościowi",
+        "biernik": "gościa",
+        "narzędnik": "gościem",
+        "miejscownik": "gościu",
+        "wołacz": "gościu"
+      },
+      "plural": {
+        "mianownik": "goście",
+        "dopełniacz": "gości",
+        "celownik": "gościom",
+        "biernik": "gości",
+        "narzędnik": "gośćmi",
+        "miejscownik": "gościach",
+        "wołacz": "goście"
+      }
+    },
+    "translations": { "english": ["guest"] }
+  },
+  "liść": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "liść",
+        "dopełniacz": "liścia",
+        "celownik": "liściowi",
+        "biernik": "liść",
+        "narzędnik": "liściem",
+        "miejscownik": "liściu",
+        "wołacz": "liściu"
+      },
+      "plural": {
+        "mianownik": "liście",
+        "dopełniacz": "liści",
+        "celownik": "liściom",
+        "biernik": "liście",
+        "narzędnik": "liśćmi",
+        "miejscownik": "liściach",
+        "wołacz": "liście"
+      }
+    },
+    "translations": { "english": ["leaf"] }
+  },
+  "kolega": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "kolega",
+        "dopełniacz": "kolegi",
+        "celownik": "koledze",
+        "biernik": "kolegę",
+        "narzędnik": "kolegą",
+        "miejscownik": "koledze",
+        "wołacz": "kolego"
+      },
+      "plural": {
+        "mianownik": "koledzy",
+        "dopełniacz": "kolegów",
+        "celownik": "kolegom",
+        "biernik": "kolegów",
+        "narzędnik": "kolegami",
+        "miejscownik": "kolegach",
+        "wołacz": "koledzy"
+      }
+    },
+    "translations": { "english": ["friend"] }
+  },
+  "droga": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "droga",
+        "dopełniacz": "drogi",
+        "celownik": "drodze",
+        "biernik": "drogę",
+        "narzędnik": "drogą",
+        "miejscownik": "drodze",
+        "wołacz": "drogo"
+      },
+      "plural": {
+        "mianownik": "drogi",
+        "dopełniacz": "dróg",
+        "celownik": "drogom",
+        "biernik": "drogi",
+        "narzędnik": "drogami",
+        "miejscownik": "drogach",
+        "wołacz": "drogi"
+      }
+    },
+    "translations": { "english": ["road"] }
+  },
+  "aktor": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "aktor",
+        "dopełniacz": "aktora",
+        "celownik": "aktorowi",
+        "biernik": "aktora",
+        "narzędnik": "aktorem",
+        "miejscownik": "aktorze",
+        "wołacz": "aktorze"
+      },
+      "plural": {
+        "mianownik": "aktorzy",
+        "dopełniacz": "aktorów",
+        "celownik": "aktorom",
+        "biernik": "aktorów",
+        "narzędnik": "aktorami",
+        "miejscownik": "aktorach",
+        "wołacz": "aktorzy"
+      }
+    },
+    "translations": { "english": ["actor"] }
+  },
+  "tor": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "tor",
+        "dopełniacz": "toru",
+        "celownik": "torowi",
+        "biernik": "tor",
+        "narzędnik": "torem",
+        "miejscownik": "torze",
+        "wołacz": "torze"
+      },
+      "plural": {
+        "mianownik": "tory",
+        "dopełniacz": "torów",
+        "celownik": "torom",
+        "biernik": "tory",
+        "narzędnik": "torami",
+        "miejscownik": "torach",
+        "wołacz": "tory"
+      }
+    },
+    "translations": { "english": ["track"] }
+  },
+  "lekarz": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "lekarz",
+        "dopełniacz": "lekarza",
+        "celownik": "lekarzowi",
+        "biernik": "lekarza",
+        "narzędnik": "lekarzem",
+        "miejscownik": "lekarzu",
+        "wołacz": "lekarzu"
+      },
+      "plural": {
+        "mianownik": "lekarze",
+        "dopełniacz": "lekarzy",
+        "celownik": "lekarzom",
+        "biernik": "lekarzy",
+        "narzędnik": "lekarzami",
+        "miejscownik": "lekarzach",
+        "wołacz": "lekarze"
+      }
+    },
+    "translations": { "english": ["doctor"] }
+  },
+  "kalendarz": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "kalendarz",
+        "dopełniacz": "kalendarza",
+        "celownik": "kalendarzowi",
+        "biernik": "kalendarz",
+        "narzędnik": "kalendarzem",
+        "miejscownik": "kalendarzu",
+        "wołacz": "kalendarzu"
+      },
+      "plural": {
+        "mianownik": "kalendarze",
+        "dopełniacz": "kalendarzy",
+        "celownik": "kalendarzom",
+        "biernik": "kalendarze",
+        "narzędnik": "kalendarzami",
+        "miejscownik": "kalendarzach",
+        "wołacz": "kalendarze"
+      }
+    },
+    "translations": { "english": ["calendar"] }
+  },
+  "student": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "student",
+        "dopełniacz": "studenta",
+        "celownik": "studentowi",
+        "biernik": "studenta",
+        "narzędnik": "studentem",
+        "miejscownik": "studencie",
+        "wołacz": "studencie"
+      },
+      "plural": {
+        "mianownik": "studenci",
+        "dopełniacz": "studentów",
+        "celownik": "studentom",
+        "biernik": "studentów",
+        "narzędnik": "studentami",
+        "miejscownik": "studentach",
+        "wołacz": "studenci"
+      }
+    },
+    "translations": { "english": ["student"] }
+  },
+  "uniwersytet": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "uniwersytet",
+        "dopełniacz": "uniwersytetu",
+        "celownik": "uniwersytetowi",
+        "biernik": "uniwersytet",
+        "narzędnik": "uniwersytetem",
+        "miejscownik": "uniwersytecie",
+        "wołacz": "uniwersytecie"
+      },
+      "plural": {
+        "mianownik": "uniwersytety",
+        "dopełniacz": "uniwersytetów",
+        "celownik": "uniwersytetom",
+        "biernik": "uniwersytety",
+        "narzędnik": "uniwersytetami",
+        "miejscownik": "uniwersytetach",
+        "wołacz": "uniwersytety"
+      }
+    },
+    "translations": { "english": ["university"] }
+  },
+  "mnich": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "mnich",
+        "dopełniacz": "mnicha",
+        "celownik": "mnichowi",
+        "biernik": "mnicha",
+        "narzędnik": "mnichem",
+        "miejscownik": "mnichu",
+        "wołacz": "mnichu"
+      },
+      "plural": {
+        "mianownik": "mnisi",
+        "dopełniacz": "mnichów",
+        "celownik": "mnichom",
+        "biernik": "mnichów",
+        "narzędnik": "mnichami",
+        "miejscownik": "mnichach",
+        "wołacz": "mnisi"
+      }
+    },
+    "translations": { "english": ["monk"] }
+  },
+  "duch": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "duch",
+        "dopełniacz": "ducha",
+        "celownik": "duchowi",
+        "biernik": "ducha",
+        "narzędnik": "duchem",
+        "miejscownik": "duchu",
+        "wołacz": "duchu"
+      },
+      "plural": {
+        "mianownik": "duchy",
+        "dopełniacz": "duchów",
+        "celownik": "duchom",
+        "biernik": "duchy",
+        "narzędnik": "duchami",
+        "miejscownik": "duchach",
+        "wołacz": "duchy"
+      }
+    },
+    "translations": { "english": ["ghost", "spirit"] }
+  },
+  "Fin": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "Fin",
+        "dopełniacz": "Fina",
+        "celownik": "Finowi",
+        "biernik": "Fina",
+        "narzędnik": "Finem",
+        "miejscownik": "Finie",
+        "wołacz": "Finie"
+      },
+      "plural": {
+        "mianownik": "Finowie",
+        "dopełniacz": "Finów",
+        "celownik": "Finom",
+        "biernik": "Finów",
+        "narzędnik": "Finami",
+        "miejscownik": "Finach",
+        "wołacz": "Finowie"
+      }
+    },
+    "translations": { "english": ["Finn"] }
+  },
+  "płyn": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "płyn",
+        "dopełniacz": "płynu",
+        "celownik": "płynowi",
+        "biernik": "płyn",
+        "narzędnik": "płynem",
+        "miejscownik": "płynie",
+        "wołacz": "płynie"
+      },
+      "plural": {
+        "mianownik": "płyny",
+        "dopełniacz": "płynów",
+        "celownik": "płynom",
+        "biernik": "płyny",
+        "narzędnik": "płynami",
+        "miejscownik": "płynach",
+        "wołacz": "płyny"
+      }
+    },
+    "translations": { "english": ["liquid"] }
+  },
+  "sąsiad": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "sąsiad",
+        "dopełniacz": "sąsiada",
+        "celownik": "sąsiadowi",
+        "biernik": "sąsiada",
+        "narzędnik": "sąsiadem",
+        "miejscownik": "sąsiedzie",
+        "wołacz": "sąsiedzie"
+      },
+      "plural": {
+        "mianownik": "sąsiedzi",
+        "dopełniacz": "sąsiadów",
+        "celownik": "sąsiadom",
+        "biernik": "sąsiadów",
+        "narzędnik": "sąsiadami",
+        "miejscownik": "sąsiadach",
+        "wołacz": "sąsiedzi"
+      }
+    },
+    "translations": { "english": ["neighbor"] }
+  },
+  "ślad": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "ślad",
+        "dopełniacz": "śladu",
+        "celownik": "śladowi",
+        "biernik": "ślad",
+        "narzędnik": "śladem",
+        "miejscownik": "śladzie",
+        "wołacz": "śladzie"
+      },
+      "plural": {
+        "mianownik": "ślady",
+        "dopełniacz": "śladów",
+        "celownik": "śladom",
+        "biernik": "ślady",
+        "narzędnik": "śladami",
+        "miejscownik": "śladach",
+        "wołacz": "ślady"
+      }
+    },
+    "translations": { "english": ["trace", "track"] }
+  },
+  "okulista": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "okulista",
+        "dopełniacz": "okulisty",
+        "celownik": "okuliście",
+        "biernik": "okulistę",
+        "narzędnik": "okulistą",
+        "miejscownik": "okuliście",
+        "wołacz": "okulisto"
+      },
+      "plural": {
+        "mianownik": "okuli0ści",
+        "dopełniacz": "okulistów",
+        "celownik": "okulistom",
+        "biernik": "okulistów",
+        "narzędnik": "okulistami",
+        "miejscownik": "okulistach",
+        "wołacz": "okuliści"
+      }
+    },
+    "translations": { "english": ["ophthalmologist", "eye doctor"] }
+  },
+  "lista": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "lista",
+        "dopełniacz": "listy",
+        "celownik": "liście",
+        "biernik": "listę",
+        "narzędnik": "listą",
+        "miejscownik": "liście",
+        "wołacz": "listo"
+      },
+      "plural": {
+        "mianownik": "listy",
+        "dopełniacz": "list",
+        "celownik": "listom",
+        "biernik": "listy",
+        "narzędnik": "listami",
+        "miejscownik": "listach",
+        "wołacz": "listy"
+      }
+    },
+    "translations": { "english": ["list"] }
+  },
+  "chirurg": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "chirurg",
+        "dopełniacz": "chirurga",
+        "celownik": "chirurgowi",
+        "biernik": "chirurga",
+        "narzędnik": "chirurgiem",
+        "miejscownik": "chirurgu",
+        "wołacz": "chirurgu"
+      },
+      "plural": {
+        "mianownik": "chirurdzy/chirurgowie",
+        "dopełniacz": "chirurgów",
+        "celownik": "chirurgom",
+        "biernik": "chirurgów",
+        "narzędnik": "chirurgami",
+        "miejscownik": "chirurgach",
+        "wołacz": "chirurdzy/chirurgowie"
+      }
+    },
+    "translations": { "english": ["surgeon"] }
+  },
+  "róg": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "róg",
+        "dopełniacz": "rogu",
+        "celownik": "rogowi",
+        "biernik": "róg",
+        "narzędnik": "rogiem",
+        "miejscownik": "rogu",
+        "wołacz": "rogu"
+      },
+      "plural": {
+        "mianownik": "rogi",
+        "dopełniacz": "rogów",
+        "celownik": "rogom",
+        "biernik": "rogi",
+        "narzędnik": "rogami",
+        "miejscownik": "rogach",
+        "wołacz": "rogi"
+      }
+    },
+    "translations": { "english": ["horn", "corner"] }
+  },
+  "kierowca": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "kierowca",
+        "dopełniacz": "kierowcy",
+        "celownik": "kierowcy",
+        "biernik": "kierowcę",
+        "narzędnik": "kierowcą",
+        "miejscownik": "kierowcy",
+        "wołacz": "kierowco"
+      },
+      "plural": {
+        "mianownik": "kierowcy",
+        "dopełniacz": "kierowców",
+        "celownik": "kierowcom",
+        "biernik": "kierowców",
+        "narzędnik": "kierowcami",
+        "miejscownik": "kierowcach",
+        "wołacz": "kierowcy"
+      }
+    },
+    "translations": { "english": ["driver"] }
+  },
+  "owca": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "owca",
+        "dopełniacz": "owcy",
+        "celownik": "owcy",
+        "biernik": "owcę",
+        "narzędnik": "owcą",
+        "miejscownik": "owcy",
+        "wołacz": "owco"
+      },
+      "plural": {
+        "mianownik": "owce",
+        "dopełniacz": "owiec",
+        "celownik": "owcom",
+        "biernik": "owce",
+        "narzędnik": "owcami",
+        "miejscownik": "owcach",
+        "wołacz": "owce"
+      }
+    },
+    "translations": { "english": ["sheep"] }
+  },
+  "wegetarianin": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "wegetarianin",
+        "dopełniacz": "wegetarianina",
+        "celownik": "wegetarianinowi",
+        "biernik": "wegetarianina",
+        "narzędnik": "wegetarianinem",
+        "miejscownik": "wegetarianinie",
+        "wołacz": "wegetarianinie"
+      },
+      "plural": {
+        "mianownik": "wegetarianie",
+        "dopełniacz": "wegetarian/wegetarianów",
+        "celownik": "wegetarianom",
+        "biernik": "wegetarian/wegetarianów",
+        "narzędnik": "wegetarianami",
+        "miejscownik": "wegetarianach",
+        "wołacz": "wegetarianie"
+      }
+    },
+    "translations": { "english": ["vegetarian"] }
+  },
+  "egzamin": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "egzamin",
+        "dopełniacz": "egzaminu",
+        "celownik": "egzaminowi",
+        "biernik": "egzamin",
+        "narzędnik": "egzaminem",
+        "miejscownik": "egzaminie",
+        "wołacz": "egzaminie"
+      },
+      "plural": {
+        "mianownik": "egzaminy",
+        "dopełniacz": "egzaminów",
+        "celownik": "egzaminom",
+        "biernik": "egzaminy",
+        "narzędnik": "egzaminami",
+        "miejscownik": "egzaminach",
+        "wołacz": "egzaminy"
+      }
+    },
+    "translations": { "english": ["exam"] }
+  },
+  "pan": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "pan",
+        "dopełniacz": "pana",
+        "celownik": "panu",
+        "biernik": "pana",
+        "narzędnik": "panem",
+        "miejscownik": "panu",
+        "wołacz": "panie"
+      },
+      "plural": {
+        "mianownik": "panowie",
+        "dopełniacz": "panów",
+        "celownik": "panom",
+        "biernik": "panów",
+        "narzędnik": "panami",
+        "miejscownik": "panach",
+        "wołacz": "panowie"
+      }
+    },
+    "translations": { "english": ["gentleman"] }
+  },
+  "plan": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "plan",
+        "dopełniacz": "planu",
+        "celownik": "planowi",
+        "biernik": "plan",
+        "narzędnik": "planem",
+        "miejscownik": "planie",
+        "wołacz": "planie"
+      },
+      "plural": {
+        "mianownik": "plany",
+        "dopełniacz": "planów",
+        "celownik": "planom",
+        "biernik": "plany",
+        "narzędnik": "planami",
+        "miejscownik": "planach",
+        "wołacz": "plany"
+      }
+    },
+    "translations": { "english": ["plan"] }
   }
 }
