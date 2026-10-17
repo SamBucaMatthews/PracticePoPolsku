@@ -21,7 +21,11 @@
         "wołacz": "Anglicy"
       }
     },
-    "translations": { "english": ["Englishman"] }
+    "translations": {
+      "english": [
+        "Englishman"
+      ]
+    }
   },
   "biuro": {
     "gender": "neuter",
@@ -45,7 +49,11 @@
         "wołacz": "biura"
       }
     },
-    "translations": { "english": ["office"] }
+    "translations": {
+      "english": [
+        "office"
+      ]
+    }
   },
   "chleb": {
     "gender": "masculine",
@@ -69,7 +77,11 @@
         "wołacz": "chleby"
       }
     },
-    "translations": { "english": ["bread"] }
+    "translations": {
+      "english": [
+        "bread"
+      ]
+    }
   },
   "dach": {
     "gender": "masculine",
@@ -93,7 +105,11 @@
         "wołacz": "dachy"
       }
     },
-    "translations": { "english": ["roof"] }
+    "translations": {
+      "english": [
+        "roof"
+      ]
+    }
   },
   "dom": {
     "gender": "masculine",
@@ -117,7 +133,11 @@
         "wołacz": "domy"
       }
     },
-    "translations": { "english": ["house"] }
+    "translations": {
+      "english": [
+        "house"
+      ]
+    }
   },
   "ekran": {
     "gender": "masculine",
@@ -141,7 +161,11 @@
         "wołacz": "ekrany"
       }
     },
-    "translations": { "english": ["screen"] }
+    "translations": {
+      "english": [
+        "screen"
+      ]
+    }
   },
   "fotel": {
     "gender": "masculine",
@@ -165,7 +189,11 @@
         "wołacz": "fotele"
       }
     },
-    "translations": { "english": ["armchair"] }
+    "translations": {
+      "english": [
+        "armchair"
+      ]
+    }
   },
   "gitara": {
     "gender": "feminine",
@@ -189,7 +217,11 @@
         "wołacz": "gitary"
       }
     },
-    "translations": { "english": ["guitar"] }
+    "translations": {
+      "english": [
+        "guitar"
+      ]
+    }
   },
   "klucz": {
     "gender": "masculine",
@@ -213,7 +245,11 @@
         "wołacz": "klucze"
       }
     },
-    "translations": { "english": ["key"] }
+    "translations": {
+      "english": [
+        "key"
+      ]
+    }
   },
   "kobieta": {
     "gender": "feminine",
@@ -237,7 +273,11 @@
         "wołacz": "kobiety"
       }
     },
-    "translations": { "english": ["woman"] }
+    "translations": {
+      "english": [
+        "woman"
+      ]
+    }
   },
   "komórka": {
     "gender": "feminine",
@@ -262,7 +302,10 @@
       }
     },
     "translations": {
-      "english": ["cell", "mobile phone"]
+      "english": [
+        "cell",
+        "mobile phone"
+      ]
     }
   },
   "komputer": {
@@ -287,7 +330,11 @@
         "wołacz": "komputery"
       }
     },
-    "translations": { "english": ["computer"] }
+    "translations": {
+      "english": [
+        "computer"
+      ]
+    }
   },
   "kot": {
     "gender": "masculine",
@@ -311,7 +358,11 @@
         "wołacz": "koty"
       }
     },
-    "translations": { "english": ["cat"] }
+    "translations": {
+      "english": [
+        "cat"
+      ]
+    }
   },
   "kubek": {
     "gender": "masculine",
@@ -335,7 +386,11 @@
         "wołacz": "kubki"
       }
     },
-    "translations": { "english": ["mug"] }
+    "translations": {
+      "english": [
+        "mug"
+      ]
+    }
   },
   "kuchnia": {
     "gender": "feminine",
@@ -359,7 +414,11 @@
         "wołacz": "kuchnie"
       }
     },
-    "translations": { "english": ["kitchen"] }
+    "translations": {
+      "english": [
+        "kitchen"
+      ]
+    }
   },
   "krzesło": {
     "gender": "neuter",
@@ -383,7 +442,11 @@
         "wołacz": "krzesła"
       }
     },
-    "translations": { "english": ["chair"] }
+    "translations": {
+      "english": [
+        "chair"
+      ]
+    }
   },
   "książka": {
     "gender": "neuter",
@@ -407,7 +470,11 @@
         "wołacz": "książki"
       }
     },
-    "translations": { "english": ["book"] }
+    "translations": {
+      "english": [
+        "book"
+      ]
+    }
   },
   "łazienka": {
     "gender": "feminine",
@@ -431,7 +498,11 @@
         "wołacz": "łazienki"
       }
     },
-    "translations": { "english": ["bathroom"] }
+    "translations": {
+      "english": [
+        "bathroom"
+      ]
+    }
   },
   "lodówka": {
     "gender": "feminine",
@@ -455,7 +526,11 @@
         "wołacz": "lodówki"
       }
     },
-    "translations": { "english": ["fridge"] }
+    "translations": {
+      "english": [
+        "fridge"
+      ]
+    }
   },
   "łóżko": {
     "gender": "neuter",
@@ -479,7 +554,11 @@
         "wołacz": "łóżka"
       }
     },
-    "translations": { "english": ["bed"] }
+    "translations": {
+      "english": [
+        "bed"
+      ]
+    }
   },
   "miska": {
     "gender": "feminine",
@@ -503,7 +582,11 @@
         "wołacz": "miski"
       }
     },
-    "translations": { "english": ["bowl"] }
+    "translations": {
+      "english": [
+        "bowl"
+      ]
+    }
   },
   "obraz": {
     "gender": "masculine",
@@ -527,7 +610,11 @@
         "wołacz": "obrazy"
       }
     },
-    "translations": { "english": ["picture"] }
+    "translations": {
+      "english": [
+        "picture"
+      ]
+    }
   },
   "okno": {
     "gender": "neuter",
@@ -551,7 +638,11 @@
         "wołacz": "okna"
       }
     },
-    "translations": { "english": ["window"] }
+    "translations": {
+      "english": [
+        "window"
+      ]
+    }
   },
   "plecak": {
     "gender": "masculine",
@@ -575,7 +666,11 @@
         "wołacz": "plecaki"
       }
     },
-    "translations": { "english": ["backpack"] }
+    "translations": {
+      "english": [
+        "backpack"
+      ]
+    }
   },
   "podłoga": {
     "gender": "feminine",
@@ -599,7 +694,11 @@
         "wołacz": "podłogi"
       }
     },
-    "translations": { "english": ["floor"] }
+    "translations": {
+      "english": [
+        "floor"
+      ]
+    }
   },
   "pokój": {
     "gender": "masculine",
@@ -623,7 +722,11 @@
         "wołacz": "pokoje"
       }
     },
-    "translations": { "english": ["room"] }
+    "translations": {
+      "english": [
+        "room"
+      ]
+    }
   },
   "piłka": {
     "gender": "feminine",
@@ -647,7 +750,11 @@
         "wołacz": "piłki"
       }
     },
-    "translations": { "english": ["ball"] }
+    "translations": {
+      "english": [
+        "ball"
+      ]
+    }
   },
   "półka": {
     "gender": "feminine",
@@ -671,7 +778,11 @@
         "wołacz": "półki"
       }
     },
-    "translations": { "english": ["shelf"] }
+    "translations": {
+      "english": [
+        "shelf"
+      ]
+    }
   },
   "pudełko": {
     "gender": "neuter",
@@ -695,7 +806,11 @@
         "wołacz": "pudełka"
       }
     },
-    "translations": { "english": ["box"] }
+    "translations": {
+      "english": [
+        "box"
+      ]
+    }
   },
   "poduszka": {
     "gender": "feminine",
@@ -719,7 +834,12 @@
         "wołacz": "poduszki"
       }
     },
-    "translations": { "english": ["pillow", "cushion"] }
+    "translations": {
+      "english": [
+        "pillow",
+        "cushion"
+      ]
+    }
   },
   "ściana": {
     "gender": "feminine",
@@ -743,7 +863,11 @@
         "wołacz": "ściany"
       }
     },
-    "translations": { "english": ["wall"] }
+    "translations": {
+      "english": [
+        "wall"
+      ]
+    }
   },
   "siłownia": {
     "gender": "feminine",
@@ -767,7 +891,11 @@
         "wołacz": "siłownie"
       }
     },
-    "translations": { "english": ["gym"] }
+    "translations": {
+      "english": [
+        "gym"
+      ]
+    }
   },
   "sklep": {
     "gender": "masculine",
@@ -791,7 +919,11 @@
         "wołacz": "sklepy"
       }
     },
-    "translations": { "english": ["shop"] }
+    "translations": {
+      "english": [
+        "shop"
+      ]
+    }
   },
   "sofa": {
     "gender": "feminine",
@@ -815,7 +947,11 @@
         "wołacz": "sofy"
       }
     },
-    "translations": { "english": ["sofa"] }
+    "translations": {
+      "english": [
+        "sofa"
+      ]
+    }
   },
   "stół": {
     "gender": "masculine",
@@ -839,7 +975,11 @@
         "wołacz": "stoły"
       }
     },
-    "translations": { "english": ["table"] }
+    "translations": {
+      "english": [
+        "table"
+      ]
+    }
   },
   "stolik": {
     "gender": "masculine",
@@ -863,7 +1003,11 @@
         "wołacz": "stoliki"
       }
     },
-    "translations": { "english": ["small table"] }
+    "translations": {
+      "english": [
+        "small table"
+      ]
+    }
   },
   "sufit": {
     "gender": "masculine",
@@ -887,7 +1031,11 @@
         "wołacz": "sufity"
       }
     },
-    "translations": { "english": ["ceiling"] }
+    "translations": {
+      "english": [
+        "ceiling"
+      ]
+    }
   },
   "szafa": {
     "gender": "feminine",
@@ -911,7 +1059,11 @@
         "wołacz": "szafy"
       }
     },
-    "translations": { "english": ["wardrobe"] }
+    "translations": {
+      "english": [
+        "wardrobe"
+      ]
+    }
   },
   "szklanka": {
     "gender": "feminine",
@@ -935,7 +1087,11 @@
         "wołacz": "szklanki"
       }
     },
-    "translations": { "english": ["glass"] }
+    "translations": {
+      "english": [
+        "glass"
+      ]
+    }
   },
   "winda": {
     "gender": "feminine",
@@ -959,7 +1115,12 @@
         "wołacz": "windy"
       }
     },
-    "translations": { "english": ["elevator", "lit"] }
+    "translations": {
+      "english": [
+        "elevator",
+        "lit"
+      ]
+    }
   },
   "woda": {
     "gender": "feminine",
@@ -983,7 +1144,11 @@
         "wołacz": "wody"
       }
     },
-    "translations": { "english": ["water"] }
+    "translations": {
+      "english": [
+        "water"
+      ]
+    }
   },
   "Hindus": {
     "gender": "masculine",
@@ -1007,7 +1172,11 @@
         "wołacz": "Hindusi"
       }
     },
-    "translations": { "english": ["Hindu"] }
+    "translations": {
+      "english": [
+        "Hindu"
+      ]
+    }
   },
   "chłopiec": {
     "gender": "masculine",
@@ -1031,7 +1200,11 @@
         "wołacz": "chłopcy"
       }
     },
-    "translations": { "english": ["boy"] }
+    "translations": {
+      "english": [
+        "boy"
+      ]
+    }
   },
   "piec": {
     "gender": "masculine",
@@ -1055,7 +1228,11 @@
         "wołacz": "piece"
       }
     },
-    "translations": { "english": ["oven"] }
+    "translations": {
+      "english": [
+        "oven"
+      ]
+    }
   },
   "inżynier": {
     "gender": "masculine",
@@ -1079,7 +1256,11 @@
         "wołacz": "inżynierowie"
       }
     },
-    "translations": { "english": ["engineer"] }
+    "translations": {
+      "english": [
+        "engineer"
+      ]
+    }
   },
   "ser": {
     "gender": "masculine",
@@ -1103,7 +1284,11 @@
         "wołacz": "sery"
       }
     },
-    "translations": { "english": ["cheese"] }
+    "translations": {
+      "english": [
+        "cheese"
+      ]
+    }
   },
   "mężczyzna": {
     "gender": "masculine",
@@ -1127,7 +1312,11 @@
         "wołacz": "mężczyźni"
       }
     },
-    "translations": { "english": ["man"] }
+    "translations": {
+      "english": [
+        "man"
+      ]
+    }
   },
   "blizna": {
     "gender": "feminine",
@@ -1151,7 +1340,11 @@
         "wołacz": "blizny"
       }
     },
-    "translations": { "english": ["scar"] }
+    "translations": {
+      "english": [
+        "scar"
+      ]
+    }
   },
   "gość": {
     "gender": "masculine",
@@ -1175,7 +1368,11 @@
         "wołacz": "goście"
       }
     },
-    "translations": { "english": ["guest"] }
+    "translations": {
+      "english": [
+        "guest"
+      ]
+    }
   },
   "liść": {
     "gender": "masculine",
@@ -1199,7 +1396,11 @@
         "wołacz": "liście"
       }
     },
-    "translations": { "english": ["leaf"] }
+    "translations": {
+      "english": [
+        "leaf"
+      ]
+    }
   },
   "kolega": {
     "gender": "masculine",
@@ -1223,7 +1424,11 @@
         "wołacz": "koledzy"
       }
     },
-    "translations": { "english": ["friend"] }
+    "translations": {
+      "english": [
+        "friend"
+      ]
+    }
   },
   "droga": {
     "gender": "feminine",
@@ -1247,7 +1452,11 @@
         "wołacz": "drogi"
       }
     },
-    "translations": { "english": ["road"] }
+    "translations": {
+      "english": [
+        "road"
+      ]
+    }
   },
   "aktor": {
     "gender": "masculine",
@@ -1271,7 +1480,11 @@
         "wołacz": "aktorzy"
       }
     },
-    "translations": { "english": ["actor"] }
+    "translations": {
+      "english": [
+        "actor"
+      ]
+    }
   },
   "tor": {
     "gender": "masculine",
@@ -1295,7 +1508,11 @@
         "wołacz": "tory"
       }
     },
-    "translations": { "english": ["track"] }
+    "translations": {
+      "english": [
+        "track"
+      ]
+    }
   },
   "lekarz": {
     "gender": "masculine",
@@ -1319,7 +1536,11 @@
         "wołacz": "lekarze"
       }
     },
-    "translations": { "english": ["doctor"] }
+    "translations": {
+      "english": [
+        "doctor"
+      ]
+    }
   },
   "kalendarz": {
     "gender": "masculine",
@@ -1343,7 +1564,11 @@
         "wołacz": "kalendarze"
       }
     },
-    "translations": { "english": ["calendar"] }
+    "translations": {
+      "english": [
+        "calendar"
+      ]
+    }
   },
   "student": {
     "gender": "masculine",
@@ -1367,7 +1592,11 @@
         "wołacz": "studenci"
       }
     },
-    "translations": { "english": ["student"] }
+    "translations": {
+      "english": [
+        "student"
+      ]
+    }
   },
   "uniwersytet": {
     "gender": "masculine",
@@ -1391,7 +1620,11 @@
         "wołacz": "uniwersytety"
       }
     },
-    "translations": { "english": ["university"] }
+    "translations": {
+      "english": [
+        "university"
+      ]
+    }
   },
   "mnich": {
     "gender": "masculine",
@@ -1415,7 +1648,11 @@
         "wołacz": "mnisi"
       }
     },
-    "translations": { "english": ["monk"] }
+    "translations": {
+      "english": [
+        "monk"
+      ]
+    }
   },
   "duch": {
     "gender": "masculine",
@@ -1439,7 +1676,12 @@
         "wołacz": "duchy"
       }
     },
-    "translations": { "english": ["ghost", "spirit"] }
+    "translations": {
+      "english": [
+        "ghost",
+        "spirit"
+      ]
+    }
   },
   "Fin": {
     "gender": "masculine",
@@ -1463,7 +1705,11 @@
         "wołacz": "Finowie"
       }
     },
-    "translations": { "english": ["Finn"] }
+    "translations": {
+      "english": [
+        "Finn"
+      ]
+    }
   },
   "płyn": {
     "gender": "masculine",
@@ -1487,7 +1733,11 @@
         "wołacz": "płyny"
       }
     },
-    "translations": { "english": ["liquid"] }
+    "translations": {
+      "english": [
+        "liquid"
+      ]
+    }
   },
   "sąsiad": {
     "gender": "masculine",
@@ -1511,7 +1761,11 @@
         "wołacz": "sąsiedzi"
       }
     },
-    "translations": { "english": ["neighbor"] }
+    "translations": {
+      "english": [
+        "neighbor"
+      ]
+    }
   },
   "ślad": {
     "gender": "masculine",
@@ -1535,7 +1789,12 @@
         "wołacz": "ślady"
       }
     },
-    "translations": { "english": ["trace", "track"] }
+    "translations": {
+      "english": [
+        "trace",
+        "track"
+      ]
+    }
   },
   "okulista": {
     "gender": "masculine",
@@ -1559,7 +1818,12 @@
         "wołacz": "okuliści"
       }
     },
-    "translations": { "english": ["ophthalmologist", "eye doctor"] }
+    "translations": {
+      "english": [
+        "ophthalmologist",
+        "eye doctor"
+      ]
+    }
   },
   "lista": {
     "gender": "feminine",
@@ -1583,7 +1847,11 @@
         "wołacz": "listy"
       }
     },
-    "translations": { "english": ["list"] }
+    "translations": {
+      "english": [
+        "list"
+      ]
+    }
   },
   "chirurg": {
     "gender": "masculine",
@@ -1607,7 +1875,11 @@
         "wołacz": "chirurdzy/chirurgowie"
       }
     },
-    "translations": { "english": ["surgeon"] }
+    "translations": {
+      "english": [
+        "surgeon"
+      ]
+    }
   },
   "róg": {
     "gender": "masculine",
@@ -1631,7 +1903,12 @@
         "wołacz": "rogi"
       }
     },
-    "translations": { "english": ["horn", "corner"] }
+    "translations": {
+      "english": [
+        "horn",
+        "corner"
+      ]
+    }
   },
   "kierowca": {
     "gender": "masculine",
@@ -1655,7 +1932,11 @@
         "wołacz": "kierowcy"
       }
     },
-    "translations": { "english": ["driver"] }
+    "translations": {
+      "english": [
+        "driver"
+      ]
+    }
   },
   "owca": {
     "gender": "feminine",
@@ -1679,7 +1960,11 @@
         "wołacz": "owce"
       }
     },
-    "translations": { "english": ["sheep"] }
+    "translations": {
+      "english": [
+        "sheep"
+      ]
+    }
   },
   "wegetarianin": {
     "gender": "masculine",
@@ -1703,7 +1988,11 @@
         "wołacz": "wegetarianie"
       }
     },
-    "translations": { "english": ["vegetarian"] }
+    "translations": {
+      "english": [
+        "vegetarian"
+      ]
+    }
   },
   "egzamin": {
     "gender": "masculine",
@@ -1727,7 +2016,11 @@
         "wołacz": "egzaminy"
       }
     },
-    "translations": { "english": ["exam"] }
+    "translations": {
+      "english": [
+        "exam"
+      ]
+    }
   },
   "pan": {
     "gender": "masculine",
@@ -1751,7 +2044,11 @@
         "wołacz": "panowie"
       }
     },
-    "translations": { "english": ["gentleman"] }
+    "translations": {
+      "english": [
+        "gentleman"
+      ]
+    }
   },
   "plan": {
     "gender": "masculine",
@@ -1775,6 +2072,2147 @@
         "wołacz": "plany"
       }
     },
-    "translations": { "english": ["plan"] }
+    "translations": {
+      "english": [
+        "plan"
+      ]
+    }
+  },
+  "reklama": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "reklama",
+        "dopełniacz": "reklamy",
+        "celownik": "reklamie",
+        "biernik": "reklamę",
+        "narzędnik": "reklamą",
+        "miejscownik": "reklamie",
+        "wołacz": "reklamo"
+      },
+      "plural": {
+        "mianownik": "reklamy",
+        "dopełniacz": "reklam",
+        "celownik": "reklamom",
+        "biernik": "reklamy",
+        "narzędnik": "reklamami",
+        "miejscownik": "reklamach",
+        "wołacz": "reklamy"
+      }
+    },
+    "translations": {
+      "english": [
+        "advertisement"
+      ]
+    }
+  },
+  "hałas": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "hałas",
+        "dopełniacz": "hałasu",
+        "celownik": "hałasowi",
+        "biernik": "hałas",
+        "narzędnik": "hałasem",
+        "miejscownik": "hałasie",
+        "wołacz": "hałasie"
+      },
+      "plural": {
+        "mianownik": "hałasy",
+        "dopełniacz": "hałasów",
+        "celownik": "hałasom",
+        "biernik": "hałasy",
+        "narzędnik": "hałasami",
+        "miejscownik": "hałasach",
+        "wołacz": "hałasy"
+      }
+    },
+    "translations": {
+      "english": [
+        "noise"
+      ]
+    }
+  },
+  "powietrze": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "powietrze",
+        "dopełniacz": "powietrza",
+        "celownik": "powietrzu",
+        "biernik": "powietrze",
+        "narzędnik": "powietrzem",
+        "miejscownik": "powietrzu",
+        "wołacz": "powietrze"
+      },
+      "plural": {
+        "mianownik": "powietrza",
+        "dopełniacz": "powietrzy",
+        "celownik": "powietrzom",
+        "biernik": "powietrza",
+        "narzędnik": "powietrzami",
+        "miejscownik": "powietrzach",
+        "wołacz": "powietrza"
+      }
+    },
+    "translations": {
+      "english": [
+        "air"
+      ]
+    }
+  },
+  "choroba": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "choroba",
+        "dopełniacz": "choroby",
+        "celownik": "chorobie",
+        "biernik": "chorobę",
+        "narzędnik": "chorobą",
+        "miejscownik": "chorobie",
+        "wołacz": "chorobo"
+      },
+      "plural": {
+        "mianownik": "choroby",
+        "dopełniacz": "chorób",
+        "celownik": "chorobom",
+        "biernik": "choroby",
+        "narzędnik": "chorobami",
+        "miejscownik": "chorobach",
+        "wołacz": "choroby"
+      }
+    },
+    "translations": {
+      "english": [
+        "disease"
+      ]
+    }
+  },
+  "astma": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "astma",
+        "dopełniacz": "astmy",
+        "celownik": "astmie",
+        "biernik": "astmę",
+        "narzędnik": "astmą",
+        "miejscownik": "astmie",
+        "wołacz": "astmo"
+      },
+      "plural": {
+        "mianownik": "astmy",
+        "dopełniacz": "astm",
+        "celownik": "astmom",
+        "biernik": "astmy",
+        "narzędnik": "astmami",
+        "miejscownik": "astmach",
+        "wołacz": "astmy"
+      }
+    },
+    "translations": {
+      "english": [
+        "asthma"
+      ]
+    }
+  },
+  "nasilenie": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "nasilenie",
+        "dopełniacz": "nasilenia",
+        "celownik": "nasileniu",
+        "biernik": "nasilenie",
+        "narzędnik": "nasileniem",
+        "miejscownik": "nasileniu",
+        "wołacz": "nasilenie"
+      },
+      "plural": {
+        "mianownik": "nasilenia",
+        "dopełniacz": "nasileń",
+        "celownik": "nasileniom",
+        "biernik": "nasilenia",
+        "narzędnik": "nasileniami",
+        "miejscownik": "nasileniach",
+        "wołacz": "nasilenia"
+      }
+    },
+    "translations": {
+      "english": [
+        "intensification"
+      ]
+    }
+  },
+  "objaw": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "objaw",
+        "dopełniacz": "objawu",
+        "celownik": "objawowi",
+        "biernik": "objaw",
+        "narzędnik": "objawem",
+        "miejscownik": "objawie",
+        "wołacz": "objawie"
+      },
+      "plural": {
+        "mianownik": "objawy",
+        "dopełniacz": "objawów",
+        "celownik": "objawom",
+        "biernik": "objawy",
+        "narzędnik": "objawami",
+        "miejscownik": "objawach",
+        "wołacz": "objawy"
+      }
+    },
+    "translations": {
+      "english": [
+        "symptom"
+      ]
+    }
+  },
+  "powód": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "powód",
+        "dopełniacz": "powoda",
+        "celownik": "powodowi",
+        "biernik": "powód",
+        "narzędnik": "powodem",
+        "miejscownik": "powodzie",
+        "wołacz": "powodzie"
+      },
+      "plural": {
+        "mianownik": "powodowie",
+        "dopełniacz": "powodów",
+        "celownik": "powodom",
+        "biernik": "powody",
+        "narzędnik": "powodami",
+        "miejscownik": "powodach",
+        "wołacz": "powodowie"
+      }
+    },
+    "translations": {
+      "english": [
+        "reason"
+      ]
+    }
+  },
+  "odległość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "odległość",
+        "dopełniacz": "odległości",
+        "celownik": "odległości",
+        "biernik": "odległość",
+        "narzędnik": "odległością",
+        "miejscownik": "odległości",
+        "wołacz": "odległości"
+      },
+      "plural": {
+        "mianownik": "odległości",
+        "dopełniacz": "odległości",
+        "celownik": "odległościom",
+        "biernik": "odległości",
+        "narzędnik": "odległościami",
+        "miejscownik": "odległościach",
+        "wołacz": "odległości"
+      }
+    },
+    "translations": {
+      "english": [
+        "distance"
+      ]
+    }
+  },
+  "dostęp": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "dostęp",
+        "dopełniacz": "dostępu",
+        "celownik": "dostępowi",
+        "biernik": "dostęp",
+        "narzędnik": "dostępem",
+        "miejscownik": "dostępie",
+        "wołacz": "dostępie"
+      },
+      "plural": {
+        "mianownik": "dostępy",
+        "dopełniacz": "dostępów",
+        "celownik": "dostępom",
+        "biernik": "dostępy",
+        "narzędnik": "dostępami",
+        "miejscownik": "dostępach",
+        "wołacz": "dostępy"
+      }
+    },
+    "translations": {
+      "english": [
+        "access"
+      ]
+    }
+  },
+  "dziedzina": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "dziedzina",
+        "dopełniacz": "dziedziny",
+        "celownik": "dziedzinie",
+        "biernik": "dziedzinę",
+        "narzędnik": "dziedziną",
+        "miejscownik": "dziedzinie",
+        "wołacz": "dziedzino"
+      },
+      "plural": {
+        "mianownik": "dziedziny",
+        "dopełniacz": "dziedzin",
+        "celownik": "dziedzinom",
+        "biernik": "dziedziny",
+        "narzędnik": "dziedzinami",
+        "miejscownik": "dziedzinach",
+        "wołacz": "dziedziny"
+      }
+    },
+    "translations": {
+      "english": [
+        "field",
+        "area",
+        "domain"
+      ]
+    }
+  },
+  "koszmar": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "koszmar",
+        "dopełniacz": "koszmaru",
+        "celownik": "koszmarowi",
+        "biernik": "koszmar",
+        "narzędnik": "koszmarem",
+        "miejscownik": "koszmarze",
+        "wołacz": "koszmarze"
+      },
+      "plural": {
+        "mianownik": "koszmary",
+        "dopełniacz": "koszmarów",
+        "celownik": "koszmarom",
+        "biernik": "koszmary",
+        "narzędnik": "koszmarami",
+        "miejscownik": "koszmarach",
+        "wołacz": "koszmary"
+      }
+    },
+    "translations": {
+      "english": [
+        "nightmare"
+      ]
+    }
+  },
+  "dachowiec": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "dachowiec",
+        "dopełniacz": "dachowca",
+        "celownik": "dachowcowi",
+        "biernik": "dachowca",
+        "narzędnik": "dachowcem",
+        "miejscownik": "dachowcu",
+        "wołacz": "dachowcu"
+      },
+      "plural": {
+        "mianownik": "dachowce",
+        "dopełniacz": "dachowców",
+        "celownik": "dachowcom",
+        "biernik": "dachowce",
+        "narzędnik": "dachowcami",
+        "miejscownik": "dachowcach",
+        "wołacz": "dachowce"
+      }
+    },
+    "translations": {
+      "english": [
+        "moggie",
+        "non-pedigree cat"
+      ]
+    }
+  },
+  "zwolennik": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "zwolennik",
+        "dopełniacz": "zwolennika",
+        "celownik": "zwolennikowi",
+        "biernik": "zwolennika",
+        "narzędnik": "zwolennikiem",
+        "miejscownik": "zwolenniku",
+        "wołacz": "zwolenniku"
+      },
+      "plural": {
+        "mianownik": "zwolennicy",
+        "dopełniacz": "zwolenników",
+        "celownik": "zwolennikom",
+        "biernik": "zwolenników",
+        "narzędnik": "zwolennikami",
+        "miejscownik": "zwolennikach",
+        "wołacz": "zwolennicy"
+      }
+    },
+    "translations": {
+      "english": [
+        "follower",
+        "supporter",
+        "fan"
+      ]
+    }
+  },
+  "możliwość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "możliwość",
+        "dopełniacz": "możliwości",
+        "celownik": "możliwości",
+        "biernik": "możliwość",
+        "narzędnik": "możliwością",
+        "miejscownik": "możliwości",
+        "wołacz": "możliwości"
+      },
+      "plural": {
+        "mianownik": "możliwości",
+        "dopełniacz": "możliwości",
+        "celownik": "możliwościom",
+        "biernik": "możliwości",
+        "narzędnik": "możliwościami",
+        "miejscownik": "możliwościach",
+        "wołacz": "możliwości"
+      }
+    },
+    "translations": {
+      "english": [
+        "possibility"
+      ]
+    }
+  },
+  "większość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "większość",
+        "dopełniacz": "większości",
+        "celownik": "większości",
+        "biernik": "większość",
+        "narzędnik": "większością",
+        "miejscownik": "większości",
+        "wołacz": "większości"
+      },
+      "plural": {
+        "mianownik": "większości",
+        "dopełniacz": "większości",
+        "celownik": "większościom",
+        "biernik": "większości",
+        "narzędnik": "większościami",
+        "miejscownik": "większościach",
+        "wołacz": "większości"
+      }
+    },
+    "translations": {
+      "english": [
+        "majority"
+      ]
+    }
+  },
+  "przeciwnik": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "przeciwnik",
+        "dopełniacz": "przeciwnika",
+        "celownik": "przeciwnikowi",
+        "biernik": "przeciwnika",
+        "narzędnik": "przeciwnikiem",
+        "miejscownik": "przeciwniku",
+        "wołacz": "przeciwniku"
+      },
+      "plural": {
+        "mianownik": "przeciwnicy",
+        "dopełniacz": "przeciwników",
+        "celownik": "przeciwnikom",
+        "biernik": "przeciwników",
+        "narzędnik": "przeciwnikami",
+        "miejscownik": "przeciwnikach",
+        "wołacz": "przeciwnicy"
+      }
+    },
+    "translations": {
+      "english": [
+        "opponent",
+        "adversary",
+        "enemy"
+      ]
+    }
+  },
+  "miłość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "miłość",
+        "dopełniacz": "miłości",
+        "celownik": "miłości",
+        "biernik": "miłość",
+        "narzędnik": "miłością",
+        "miejscownik": "miłości",
+        "wołacz": "miłości"
+      },
+      "plural": {
+        "mianownik": "miłości",
+        "dopełniacz": "miłości",
+        "celownik": "miłościom",
+        "biernik": "miłości",
+        "narzędnik": "miłościami",
+        "miejscownik": "miłościach",
+        "wołacz": "miłości"
+      }
+    },
+    "translations": {
+      "english": [
+        "love"
+      ]
+    }
+  },
+  "wierność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "wierność",
+        "dopełniacz": "wierności",
+        "celownik": "wierności",
+        "biernik": "wierność",
+        "narzędnik": "wiernością",
+        "miejscownik": "wierności",
+        "wołacz": "wierności"
+      },
+      "plural": {
+        "mianownik": "wierności",
+        "dopełniacz": "wierności",
+        "celownik": "wiernościom",
+        "biernik": "wierności",
+        "narzędnik": "wiernościami",
+        "miejscownik": "wiernościach",
+        "wołacz": "wierności"
+      }
+    },
+    "translations": {
+      "english": [
+        "faithfulness",
+        "loyalty"
+      ]
+    }
+  },
+  "wrażliwość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "wrażliwość",
+        "dopełniacz": "wrażliwości",
+        "celownik": "wrażliwości",
+        "biernik": "wrażliwość",
+        "narzędnik": "wrażliwością",
+        "miejscownik": "wrażliwości",
+        "wołacz": "wrażliwości"
+      },
+      "plural": {
+        "mianownik": "wrażliwości",
+        "dopełniacz": "wrażliwości",
+        "celownik": "wrażliwościom",
+        "biernik": "wrażliwości",
+        "narzędnik": "wrażliwościami",
+        "miejscownik": "wrażliwościach",
+        "wołacz": "wrażliwości"
+      }
+    },
+    "translations": {
+      "english": [
+        "sensitivity"
+      ]
+    }
+  },
+  "gotowość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "gotowość",
+        "dopełniacz": "gotowości",
+        "celownik": "gotowości",
+        "biernik": "gotowość",
+        "narzędnik": "gotowością",
+        "miejscownik": "gotowości",
+        "wołacz": "gotowości"
+      },
+      "plural": {
+        "mianownik": "gotowości",
+        "dopełniacz": "gotowości",
+        "celownik": "gotowościom",
+        "biernik": "gotowości",
+        "narzędnik": "gotowościami",
+        "miejscownik": "gotowościach",
+        "wołacz": "gotowości"
+      }
+    },
+    "translations": {
+      "english": [
+        "readiness"
+      ]
+    }
+  },
+  "zaufanie": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "zaufanie",
+        "dopełniacz": "zaufania",
+        "celownik": "zaufaniu",
+        "biernik": "zaufanie",
+        "narzędnik": "zaufaniem",
+        "miejscownik": "zaufaniu",
+        "wołacz": "zaufanie"
+      },
+      "plural": {
+        "mianownik": "zaufania",
+        "dopełniacz": "zaufań",
+        "celownik": "zaufaniom",
+        "biernik": "zaufania",
+        "narzędnik": "zaufaniami",
+        "miejscownik": "zaufaniach",
+        "wołacz": "zaufania"
+      }
+    },
+    "translations": {
+      "english": [
+        "trust"
+      ]
+    }
+  },
+  "nadwrażliwość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "nadwrażliwość",
+        "dopełniacz": "nadwrażliwości",
+        "celownik": "nadwrażliwości",
+        "biernik": "nadwrażliwość",
+        "narzędnik": "nadwrażliwością",
+        "miejscownik": "nadwrażliwości",
+        "wołacz": "nadwrażliwości"
+      },
+      "plural": {
+        "mianownik": "nadwrażliwości",
+        "dopełniacz": "nadwrażliwości",
+        "celownik": "nadwrażliwościom",
+        "biernik": "nadwrażliwości",
+        "narzędnik": "nadwrażliwościami",
+        "miejscownik": "nadwrażliwościach",
+        "wołacz": "nadwrażliwości"
+      }
+    },
+    "translations": {
+      "english": [
+        "hypersensitivity"
+      ]
+    }
+  },
+  "zazdrość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "zazdrość",
+        "dopełniacz": "zazdrości",
+        "celownik": "zazdrości",
+        "biernik": "zazdrość",
+        "narzędnik": "zazdrością",
+        "miejscownik": "zazdrości",
+        "wołacz": "zazdrości"
+      },
+      "plural": {
+        "mianownik": "zazdrości",
+        "dopełniacz": "zazdrości",
+        "celownik": "zazdrościom",
+        "biernik": "zazdrości",
+        "narzędnik": "zazdrościami",
+        "miejscownik": "zazdrościach",
+        "wołacz": "zazdrości"
+      }
+    },
+    "translations": {
+      "english": [
+        "jealousy"
+      ]
+    }
+  },
+  "rozwód": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "rozwód",
+        "dopełniacz": "rozwodu",
+        "celownik": "rozwodowi",
+        "biernik": "rozwód",
+        "narzędnik": "rozwodem",
+        "miejscownik": "rozwodzie",
+        "wołacz": "rozwodzie"
+      },
+      "plural": {
+        "mianownik": "rozwody",
+        "dopełniacz": "rozwodów",
+        "celownik": "rozwodom",
+        "biernik": "rozwody",
+        "narzędnik": "rozwodami",
+        "miejscownik": "rozwodach",
+        "wołacz": "rozwody"
+      }
+    },
+    "translations": {
+      "english": [
+        "divorce"
+      ]
+    }
+  },
+  "niewierność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "niewierność",
+        "dopełniacz": "niewierności",
+        "celownik": "niewierności",
+        "biernik": "niewierność",
+        "narzędnik": "niewiernością",
+        "miejscownik": "niewierności",
+        "wołacz": "niewierności"
+      },
+      "plural": {
+        "mianownik": "niewierności",
+        "dopełniacz": "niewierności",
+        "celownik": "niewiernościom",
+        "biernik": "niewierności",
+        "narzędnik": "niewiernościami",
+        "miejscownik": "niewiernościach",
+        "wołacz": "niewierności"
+      }
+    },
+    "translations": {
+      "english": [
+        "infidelity"
+      ]
+    }
+  },
+  "samotność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "samotność",
+        "dopełniacz": "samotności",
+        "celownik": "samotności",
+        "biernik": "samotność",
+        "narzędnik": "samotnością",
+        "miejscownik": "samotności",
+        "wołacz": "samotności"
+      },
+      "plural": {
+        "mianownik": "samotności",
+        "dopełniacz": "samotności",
+        "celownik": "samotnościom",
+        "biernik": "samotności",
+        "narzędnik": "samotnościami",
+        "miejscownik": "samotnościach",
+        "wołacz": "samotności"
+      }
+    },
+    "translations": {
+      "english": [
+        "loneliness"
+      ]
+    }
+  },
+  "starość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "starość",
+        "dopełniacz": "starości",
+        "celownik": "starości",
+        "biernik": "starość",
+        "narzędnik": "starością",
+        "miejscownik": "starości",
+        "wołacz": "starości"
+      },
+      "plural": {
+        "mianownik": "starości",
+        "dopełniacz": "starości",
+        "celownik": "starościom",
+        "biernik": "starości",
+        "narzędnik": "starościami",
+        "miejscownik": "starościach",
+        "wołacz": "starości"
+      }
+    },
+    "translations": {
+      "english": [
+        "old age"
+      ]
+    }
+  },
+  "młodość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "młodość",
+        "dopełniacz": "młodości",
+        "celownik": "młodości",
+        "biernik": "młodość",
+        "narzędnik": "młodością",
+        "miejscownik": "młodości",
+        "wołacz": "młodości"
+      },
+      "plural": {
+        "mianownik": "młodości",
+        "dopełniacz": "młodości",
+        "celownik": "młodościom",
+        "biernik": "młodości",
+        "narzędnik": "młodościami",
+        "miejscownik": "młodościach",
+        "wołacz": "młodości"
+      }
+    },
+    "translations": {
+      "english": [
+        "youth"
+      ]
+    }
+  },
+  "głębokość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "głębokość",
+        "dopełniacz": "głębokości",
+        "celownik": "głębokości",
+        "biernik": "głębokość",
+        "narzędnik": "głębokością",
+        "miejscownik": "głębokości",
+        "wołacz": "głębokości"
+      },
+      "plural": {
+        "mianownik": "głębokości",
+        "dopełniacz": "głębokości",
+        "celownik": "głębokościom",
+        "biernik": "głębokości",
+        "narzędnik": "głębokościami",
+        "miejscownik": "głębokościach",
+        "wołacz": "głębokości"
+      }
+    },
+    "translations": {
+      "english": [
+        "depth"
+      ]
+    }
+  },
+  "ciekawość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "ciekawość",
+        "dopełniacz": "ciekawości",
+        "celownik": "ciekawości",
+        "biernik": "ciekawość",
+        "narzędnik": "ciekawością",
+        "miejscownik": "ciekawości",
+        "wołacz": "ciekawości"
+      },
+      "plural": {
+        "mianownik": "ciekawości",
+        "dopełniacz": "ciekawości",
+        "celownik": "ciekawościom",
+        "biernik": "ciekawości",
+        "narzędnik": "ciekawościami",
+        "miejscownik": "ciekawościach",
+        "wołacz": "ciekawości"
+      }
+    },
+    "translations": {
+      "english": [
+        "curiousity"
+      ]
+    }
+  },
+  "pewność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "pewność",
+        "dopełniacz": "pewności",
+        "celownik": "pewności",
+        "biernik": "pewność",
+        "narzędnik": "pewnością",
+        "miejscownik": "pewności",
+        "wołacz": "pewności"
+      },
+      "plural": {
+        "mianownik": "pewności",
+        "dopełniacz": "pewności",
+        "celownik": "pewnościom",
+        "biernik": "pewności",
+        "narzędnik": "pewnościami",
+        "miejscownik": "pewnościach",
+        "wołacz": "pewności"
+      }
+    },
+    "translations": {
+      "english": [
+        "confidence"
+      ]
+    }
+  },
+  "spontaniczność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "spontaniczność",
+        "dopełniacz": "spontaniczności",
+        "celownik": "spontaniczności",
+        "biernik": "spontaniczność",
+        "narzędnik": "spontanicznością",
+        "miejscownik": "spontaniczności",
+        "wołacz": "spontaniczności"
+      },
+      "plural": {
+        "mianownik": "spontaniczności",
+        "dopełniacz": "spontaniczności",
+        "celownik": "spontanicznościom",
+        "biernik": "spontaniczności",
+        "narzędnik": "spontanicznościami",
+        "miejscownik": "spontanicznościach",
+        "wołacz": "spontaniczności"
+      }
+    },
+    "translations": {
+      "english": [
+        "spontaneity"
+      ]
+    }
+  },
+  "niezależność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "niezależność",
+        "dopełniacz": "niezależności",
+        "celownik": "niezależności",
+        "biernik": "niezależność",
+        "narzędnik": "niezależnością",
+        "miejscownik": "niezależności",
+        "wołacz": "niezależności"
+      },
+      "plural": {
+        "mianownik": "niezależności",
+        "dopełniacz": "niezależności",
+        "celownik": "niezależnościom",
+        "biernik": "niezależności",
+        "narzędnik": "niezależnościami",
+        "miejscownik": "niezależnościach",
+        "wołacz": "niezależności"
+      }
+    },
+    "translations": {
+      "english": [
+        "independence"
+      ]
+    }
+  },
+  "wesołość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "wesołość",
+        "dopełniacz": "wesołości",
+        "celownik": "wesołości",
+        "biernik": "wesołość",
+        "narzędnik": "wesołością",
+        "miejscownik": "wesołości",
+        "wołacz": "wesołości"
+      },
+      "plural": {
+        "mianownik": "wesołości",
+        "dopełniacz": "wesołości",
+        "celownik": "wesołościom",
+        "biernik": "wesołości",
+        "narzędnik": "wesołościami",
+        "miejscownik": "wesołościach",
+        "wołacz": "wesołości"
+      }
+    },
+    "translations": {
+      "english": [
+        "cheerfulness"
+      ]
+    }
+  },
+  "radość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "radość",
+        "dopełniacz": "radości",
+        "celownik": "radości",
+        "biernik": "radość",
+        "narzędnik": "radością",
+        "miejscownik": "radości",
+        "wołacz": "radości"
+      },
+      "plural": {
+        "mianownik": "radości",
+        "dopełniacz": "radości",
+        "celownik": "radościom",
+        "biernik": "radości",
+        "narzędnik": "radościami",
+        "miejscownik": "radościach",
+        "wołacz": "radości"
+      }
+    },
+    "translations": {
+      "english": [
+        "joy"
+      ]
+    }
+  },
+  "niezgodność": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "niezgodność",
+        "dopełniacz": "niezgodności",
+        "celownik": "niezgodności",
+        "biernik": "niezgodność",
+        "narzędnik": "niezgodnością",
+        "miejscownik": "niezgodności",
+        "wołacz": "niezgodności"
+      },
+      "plural": {
+        "mianownik": "niezgodności",
+        "dopełniacz": "niezgodności",
+        "celownik": "niezgodnościom",
+        "biernik": "niezgodności",
+        "narzędnik": "niezgodnościami",
+        "miejscownik": "niezgodnościach",
+        "wołacz": "niezgodności"
+      }
+    },
+    "translations": {
+      "english": [
+        "incompatibility"
+      ]
+    }
+  },
+  "złość": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "złość",
+        "dopełniacz": "złości",
+        "celownik": "złości",
+        "biernik": "złość",
+        "narzędnik": "złością",
+        "miejscownik": "złości",
+        "wołacz": "złości"
+      },
+      "plural": {
+        "mianownik": "złości",
+        "dopełniacz": "złości",
+        "celownik": "złościom",
+        "biernik": "złości",
+        "narzędnik": "złościami",
+        "miejscownik": "złościach",
+        "wołacz": "złości"
+      }
+    },
+    "translations": {
+      "english": [
+        "anger"
+      ]
+    }
+  },
+  "nienawiść": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "nienawiść",
+        "dopełniacz": "nienawiści",
+        "celownik": "nienawiści",
+        "biernik": "nienawiść",
+        "narzędnik": "nienawiścią",
+        "miejscownik": "nienawiści",
+        "wołacz": "nienawiści"
+      },
+      "plural": {
+        "mianownik": "nienawiści",
+        "dopełniacz": "nienawiści",
+        "celownik": "nienawiściom",
+        "biernik": "nienawiści",
+        "narzędnik": "nienawiściami",
+        "miejscownik": "nienawiściach",
+        "wołacz": "nienawiści"
+      }
+    },
+    "translations": {
+      "english": [
+        "hatred"
+      ]
+    }
+  },
+  "rozpacz": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "rozpacz",
+        "dopełniacz": "rozpaczy",
+        "celownik": "rozpaczy",
+        "biernik": "rozpacz",
+        "narzędnik": "rozpaczą",
+        "miejscownik": "rozpaczy",
+        "wołacz": "rozpaczy"
+      },
+      "plural": {
+        "mianownik": "rozpacze",
+        "dopełniacz": "rozpaczy",
+        "celownik": "rozpaczom",
+        "biernik": "rozpacze",
+        "narzędnik": "rozpaczami",
+        "miejscownik": "rozpaczach",
+        "wołacz": "rozpacze"
+      }
+    },
+    "translations": {
+      "english": [
+        "despair"
+      ]
+    }
+  },
+  "narzeczona": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "narzeczona",
+        "dopełniacz": "narzeczonej",
+        "celownik": "narzeczonej",
+        "biernik": "narzeczoną",
+        "narzędnik": "narzeczoną",
+        "miejscownik": "narzeczonej",
+        "wołacz": "narzeczono"
+      },
+      "plural": {
+        "mianownik": "narzeczone",
+        "dopełniacz": "narzeczonych",
+        "celownik": "narzeczonym",
+        "biernik": "narzeczone",
+        "narzędnik": "narzeczonymi",
+        "miejscownik": "narzeczonych",
+        "wołacz": "narzeczone"
+      }
+    },
+    "translations": {
+      "english": [
+        "fiancée"
+      ]
+    }
+  },
+  "namiot": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "namiot",
+        "dopełniacz": "namiotu",
+        "celownik": "namiotowi",
+        "biernik": "namiot",
+        "narzędnik": "namiotem",
+        "miejscownik": "namiocie",
+        "wołacz": "namiocie"
+      },
+      "plural": {
+        "mianownik": "namioty",
+        "dopełniacz": "namiotów",
+        "celownik": "namiotom",
+        "biernik": "namioty",
+        "narzędnik": "namiotami",
+        "miejscownik": "namiotach",
+        "wołacz": "namioty"
+      }
+    },
+    "translations": {
+      "english": [
+        "tent"
+      ]
+    }
+  },
+  "rak": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "rak",
+        "dopełniacz": "raka",
+        "celownik": "rakowi",
+        "biernik": "raka",
+        "narzędnik": "rakiem",
+        "miejscownik": "raku",
+        "wołacz": "raku"
+      },
+      "plural": {
+        "mianownik": "raki",
+        "dopełniacz": "raków",
+        "celownik": "rakom",
+        "biernik": "raki",
+        "narzędnik": "rakami",
+        "miejscownik": "rakach",
+        "wołacz": "raki"
+      }
+    },
+    "translations": {
+      "english": [
+        "cancer"
+      ]
+    }
+  },
+  "gospodarstwo": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "gospodarstwo",
+        "dopełniacz": "gospodarstwa",
+        "celownik": "gospodarstwu",
+        "biernik": "gospodarstwo",
+        "narzędnik": "gospodarstwem",
+        "miejscownik": "gospodarstwie",
+        "wołacz": "gospodarstwo"
+      },
+      "plural": {
+        "mianownik": "gospodarstwa",
+        "dopełniacz": "gospodarstw",
+        "celownik": "gospodarstwom",
+        "biernik": "gospodarstwa",
+        "narzędnik": "gospodarstwami",
+        "miejscownik": "gospodarstwach",
+        "wołacz": "gospodarstwa"
+      }
+    },
+    "translations": {
+      "english": [
+        "farm"
+      ]
+    }
+  },
+  "gospodyni": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "gospodyni",
+        "dopełniacz": "gospodyni",
+        "celownik": "gospodyni",
+        "biernik": "gospodynię",
+        "narzędnik": "gospodynią",
+        "miejscownik": "gospodyni",
+        "wołacz": "gospodyni"
+      },
+      "plural": {
+        "mianownik": "gospodynie",
+        "dopełniacz": "gospodyń",
+        "celownik": "gospodyniom",
+        "biernik": "gospodynie",
+        "narzędnik": "gospodyniami",
+        "miejscownik": "gospodyniach",
+        "wołacz": "gospodynie"
+      }
+    },
+    "translations": {
+      "english": [
+        "hostess"
+      ]
+    }
+  },
+  "koń": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "koń",
+        "dopełniacz": "konia",
+        "celownik": "koniowi",
+        "biernik": "konia",
+        "narzędnik": "koniem",
+        "miejscownik": "koniu",
+        "wołacz": "koniu"
+      },
+      "plural": {
+        "mianownik": "konie",
+        "dopełniacz": "koni",
+        "celownik": "koniom",
+        "biernik": "konie",
+        "narzędnik": "końmi",
+        "miejscownik": "koniach",
+        "wołacz": "konie"
+      }
+    },
+    "translations": {
+      "english": [
+        "horse"
+      ]
+    }
+  },
+  "krowa": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "krowa",
+        "dopełniacz": "krowy",
+        "celownik": "krowie",
+        "biernik": "krowę",
+        "narzędnik": "krową",
+        "miejscownik": "krowie",
+        "wołacz": "krowo"
+      },
+      "plural": {
+        "mianownik": "krowy",
+        "dopełniacz": "krów",
+        "celownik": "krowom",
+        "biernik": "krowy",
+        "narzędnik": "krowami",
+        "miejscownik": "krowach",
+        "wołacz": "krowy"
+      }
+    },
+    "translations": {
+      "english": [
+        "cow"
+      ]
+    }
+  },
+  "kura": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "kura",
+        "dopełniacz": "kury",
+        "celownik": "kurze",
+        "biernik": "kurę",
+        "narzędnik": "kurą",
+        "miejscownik": "kurze",
+        "wołacz": "kuro"
+      },
+      "plural": {
+        "mianownik": "kury",
+        "dopełniacz": "kur",
+        "celownik": "kurom",
+        "biernik": "kury",
+        "narzędnik": "kurami",
+        "miejscownik": "kurach",
+        "wołacz": "kury"
+      }
+    },
+    "translations": {
+      "english": [
+        "hen"
+      ]
+    }
+  },
+  "lato": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "lato",
+        "dopełniacz": "lata",
+        "celownik": "latu",
+        "biernik": "lato",
+        "narzędnik": "latem",
+        "miejscownik": "lecie",
+        "wołacz": "lato"
+      },
+      "plural": {
+        "mianownik": "lata",
+        "dopełniacz": "lat",
+        "celownik": "latom",
+        "biernik": "lata",
+        "narzędnik": "latami",
+        "miejscownik": "latach",
+        "wołacz": "lata"
+      }
+    },
+    "translations": {
+      "english": [
+        "summer"
+      ]
+    }
+  },
+  "łąka": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "łąka",
+        "dopełniacz": "łąki",
+        "celownik": "łące",
+        "biernik": "łąkę",
+        "narzędnik": "łąką",
+        "miejscownik": "łące",
+        "wołacz": "łąko"
+      },
+      "plural": {
+        "mianownik": "łąki",
+        "dopełniacz": "łąk",
+        "celownik": "łąkom",
+        "biernik": "łąki",
+        "narzędnik": "łąkami",
+        "miejscownik": "łąkach",
+        "wołacz": "łąki"
+      }
+    },
+    "translations": {
+      "english": [
+        "meadow"
+      ]
+    }
+  },
+  "ogród": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "ogród",
+        "dopełniacz": "ogrodu",
+        "celownik": "ogrodowi",
+        "biernik": "ogród",
+        "narzędnik": "ogrodem",
+        "miejscownik": "ogrodzie",
+        "wołacz": "ogrodzie"
+      },
+      "plural": {
+        "mianownik": "ogrody",
+        "dopełniacz": "ogrodów",
+        "celownik": "ogrodom",
+        "biernik": "ogrody",
+        "narzędnik": "ogrodami",
+        "miejscownik": "ogrodach",
+        "wołacz": "ogrody"
+      }
+    },
+    "translations": {
+      "english": [
+        "garden"
+      ]
+    }
+  },
+  "pole": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "pole",
+        "dopełniacz": "pola",
+        "celownik": "polu",
+        "biernik": "pole",
+        "narzędnik": "polem",
+        "miejscownik": "polu",
+        "wołacz": "pole"
+      },
+      "plural": {
+        "mianownik": "pola",
+        "dopełniacz": "pól",
+        "celownik": "polom",
+        "biernik": "pola",
+        "narzędnik": "polami",
+        "miejscownik": "polach",
+        "wołacz": "pola"
+      }
+    },
+    "translations": {
+      "english": [
+        "field"
+      ]
+    }
+  },
+  "rolnik": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "rolnik",
+        "dopełniacz": "rolnika",
+        "celownik": "rolnikowi",
+        "biernik": "rolnika",
+        "narzędnik": "rolnikiem",
+        "miejscownik": "rolniku",
+        "wołacz": "rolniku"
+      },
+      "plural": {
+        "mianownik": "rolnicy",
+        "dopełniacz": "rolników",
+        "celownik": "rolnikom",
+        "biernik": "rolników",
+        "narzędnik": "rolnikami",
+        "miejscownik": "rolnikach",
+        "wołacz": "rolnicy"
+      }
+    },
+    "translations": {
+      "english": [
+        "farmer"
+      ]
+    }
+  },
+  "sad": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "sad",
+        "dopełniacz": "sadu",
+        "celownik": "sadowi",
+        "biernik": "sad",
+        "narzędnik": "sadem",
+        "miejscownik": "sadzie",
+        "wołacz": "sadzie"
+      },
+      "plural": {
+        "mianownik": "sady",
+        "dopełniacz": "sadów",
+        "celownik": "sadom",
+        "biernik": "sady",
+        "narzędnik": "sadami",
+        "miejscownik": "sadach",
+        "wołacz": "sady"
+      }
+    },
+    "translations": {
+      "english": [
+        "orchard"
+      ]
+    }
+  },
+  "świnia": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "świnia",
+        "dopełniacz": "świni",
+        "celownik": "świni",
+        "biernik": "świnię",
+        "narzędnik": "świnią",
+        "miejscownik": "świni",
+        "wołacz": "świnio"
+      },
+      "plural": {
+        "mianownik": "świnie",
+        "dopełniacz": "świń",
+        "celownik": "świniom",
+        "biernik": "świnie",
+        "narzędnik": "świniami",
+        "miejscownik": "świniach",
+        "wołacz": "świnie"
+      }
+    },
+    "translations": {
+      "english": [
+        "pig"
+      ]
+    }
+  },
+  "ul": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "ul",
+        "dopełniacz": "ula",
+        "celownik": "ulowi",
+        "biernik": "ul",
+        "narzędnik": "ulem",
+        "miejscownik": "ulu",
+        "wołacz": "ulu"
+      },
+      "plural": {
+        "mianownik": "ule",
+        "dopełniacz": "uli",
+        "celownik": "ulom",
+        "biernik": "ule",
+        "narzędnik": "ulami",
+        "miejscownik": "ulach",
+        "wołacz": "ule"
+      }
+    },
+    "translations": {
+      "english": [
+        "beehive"
+      ]
+    }
+  },
+  "warzywo": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "warzywo",
+        "dopełniacz": "warzywa",
+        "celownik": "warzywu",
+        "biernik": "warzywo",
+        "narzędnik": "warzywem",
+        "miejscownik": "warzywie",
+        "wołacz": "warzywo"
+      },
+      "plural": {
+        "mianownik": "warzywa",
+        "dopełniacz": "warzyw",
+        "celownik": "warzywom",
+        "biernik": "warzywa",
+        "narzędnik": "warzywami",
+        "miejscownik": "warzywach",
+        "wołacz": "warzywa"
+      }
+    },
+    "translations": {
+      "english": [
+        "vegetable"
+      ]
+    }
+  },
+  "wieś": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "wieś",
+        "dopełniacz": "wsi",
+        "celownik": "wsi",
+        "biernik": "wieś",
+        "narzędnik": "wsią",
+        "miejscownik": "wsi",
+        "wołacz": "wsi"
+      },
+      "plural": {
+        "mianownik": "wsi",
+        "dopełniacz": "wsi",
+        "celownik": "wsiom",
+        "biernik": "wsi",
+        "narzędnik": "wsiami",
+        "miejscownik": "wsiach",
+        "wołacz": "wsi"
+      }
+    },
+    "translations": {
+      "english": [
+        "village"
+      ]
+    }
+  },
+  "zboże": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "zboże",
+        "dopełniacz": "zboża",
+        "celownik": "zbożu",
+        "biernik": "zboże",
+        "narzędnik": "zbożem",
+        "miejscownik": "zbożu",
+        "wołacz": "zboże"
+      },
+      "plural": {
+        "mianownik": "zboża",
+        "dopełniacz": "zbóż",
+        "celownik": "zbożom",
+        "biernik": "zboża",
+        "narzędnik": "zbożami",
+        "miejscownik": "zbożach",
+        "wołacz": "zboża"
+      }
+    },
+    "translations": {
+      "english": [
+        "cereal",
+        "grain"
+      ]
+    }
+  },
+  "motyl": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "motyl",
+        "dopełniacz": "motyla",
+        "celownik": "motylowi",
+        "biernik": "motyla",
+        "narzędnik": "motylem",
+        "miejscownik": "motylu",
+        "wołacz": "motylu"
+      },
+      "plural": {
+        "mianownik": "motyle",
+        "dopełniacz": "motyli",
+        "celownik": "motylom",
+        "biernik": "motyle",
+        "narzędnik": "motylami",
+        "miejscownik": "motylach",
+        "wołacz": "motyle"
+      }
+    },
+    "translations": {
+      "english": [
+        "butterfly"
+      ]
+    }
+  },
+  "jeleń": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "jeleń",
+        "dopełniacz": "jelenia",
+        "celownik": "jeleniowi",
+        "biernik": "jelenia",
+        "narzędnik": "jeleniem",
+        "miejscownik": "jeleniu",
+        "wołacz": "jeleniu"
+      },
+      "plural": {
+        "mianownik": "jelenie",
+        "dopełniacz": "jeleni",
+        "celownik": "jeleniom",
+        "biernik": "jeleni",
+        "narzędnik": "jeleniami",
+        "miejscownik": "jeleniach",
+        "wołacz": "jelenie"
+      }
+    },
+    "translations": {
+      "english": [
+        "deer"
+      ]
+    }
+  },
+  "pszczoła": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "pszczoła",
+        "dopełniacz": "pszczoły",
+        "celownik": "pszczole",
+        "biernik": "pszczołę",
+        "narzędnik": "pszczołą",
+        "miejscownik": "pszczole",
+        "wołacz": "pszczoło"
+      },
+      "plural": {
+        "mianownik": "pszczoły",
+        "dopełniacz": "pszczół",
+        "celownik": "pszczołom",
+        "biernik": "pszczoły",
+        "narzędnik": "pszczołami",
+        "miejscownik": "pszczołach",
+        "wołacz": "pszczoły"
+      }
+    },
+    "translations": {
+      "english": [
+        "bee"
+      ]
+    }
+  },
+  "mrówka": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "mrówka",
+        "dopełniacz": "mrówki",
+        "celownik": "mrówce",
+        "biernik": "mrówkę",
+        "narzędnik": "mrówką",
+        "miejscownik": "mrówce",
+        "wołacz": "mrówko"
+      },
+      "plural": {
+        "mianownik": "mrówki",
+        "dopełniacz": "mrówek",
+        "celownik": "mrówkom",
+        "biernik": "mrówki",
+        "narzędnik": "mrówkami",
+        "miejscownik": "mrówkach",
+        "wołacz": "mrówki"
+      }
+    },
+    "translations": {
+      "english": [
+        "ant"
+      ]
+    }
+  },
+  "ryba": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "ryba",
+        "dopełniacz": "ryby",
+        "celownik": "rybie",
+        "biernik": "rybę",
+        "narzędnik": "rybą",
+        "miejscownik": "rybie",
+        "wołacz": "rybo"
+      },
+      "plural": {
+        "mianownik": "ryby",
+        "dopełniacz": "ryb",
+        "celownik": "rybom",
+        "biernik": "ryby",
+        "narzędnik": "rybami",
+        "miejscownik": "rybach",
+        "wołacz": "ryby"
+      }
+    },
+    "translations": {
+      "english": [
+        "fish"
+      ]
+    }
+  },
+  "żaba": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "żaba",
+        "dopełniacz": "żaby",
+        "celownik": "żabie",
+        "biernik": "żabę",
+        "narzędnik": "żabą",
+        "miejscownik": "żabie",
+        "wołacz": "żabo"
+      },
+      "plural": {
+        "mianownik": "żaby",
+        "dopełniacz": "żab",
+        "celownik": "żabom",
+        "biernik": "żaby",
+        "narzędnik": "żabami",
+        "miejscownik": "żabach",
+        "wołacz": "żaby"
+      }
+    },
+    "translations": {
+      "english": [
+        "frog"
+      ]
+    }
+  },
+  "królik": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "królik",
+        "dopełniacz": "królika",
+        "celownik": "królikowi",
+        "biernik": "królika",
+        "narzędnik": "królikiem",
+        "miejscownik": "króliku",
+        "wołacz": "króliku"
+      },
+      "plural": {
+        "mianownik": "króliki",
+        "dopełniacz": "królików",
+        "celownik": "królikom",
+        "biernik": "króliki",
+        "narzędnik": "królikami",
+        "miejscownik": "królikach",
+        "wołacz": "króliki"
+      }
+    },
+    "translations": {
+      "english": [
+        "rabbit"
+      ]
+    }
+  },
+  "mysz": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "mysz",
+        "dopełniacz": "myszy",
+        "celownik": "myszy",
+        "biernik": "mysz",
+        "narzędnik": "myszą",
+        "miejscownik": "myszy",
+        "wołacz": "myszy"
+      },
+      "plural": {
+        "mianownik": "myszy",
+        "dopełniacz": "myszy",
+        "celownik": "myszom",
+        "biernik": "myszy",
+        "narzędnik": "myszami",
+        "miejscownik": "myszach",
+        "wołacz": "myszy"
+      }
+    },
+    "translations": {
+      "english": [
+        "mouse"
+      ]
+    }
+  },
+  "nietoperz": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "nietoperz",
+        "dopełniacz": "nietoperza",
+        "celownik": "nietoperzowi",
+        "biernik": "nietoperza",
+        "narzędnik": "nietoperzem",
+        "miejscownik": "nietoperzu",
+        "wołacz": "nietoperzu"
+      },
+      "plural": {
+        "mianownik": "nietoperze",
+        "dopełniacz": "nietoperzy",
+        "celownik": "nietoperzom",
+        "biernik": "nietoperze",
+        "narzędnik": "nietoperzami",
+        "miejscownik": "nietoperzach",
+        "wołacz": "nietoperze"
+      }
+    },
+    "translations": {
+      "english": [
+        "bat"
+      ]
+    }
+  },
+  "ptak": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "ptak",
+        "dopełniacz": "ptaka",
+        "celownik": "ptakowi",
+        "biernik": "ptaka",
+        "narzędnik": "ptakiem",
+        "miejscownik": "ptaku",
+        "wołacz": "ptaku"
+      },
+      "plural": {
+        "mianownik": "ptaki",
+        "dopełniacz": "ptaków",
+        "celownik": "ptakom",
+        "biernik": "ptaki",
+        "narzędnik": "ptakami",
+        "miejscownik": "ptakach",
+        "wołacz": "ptaki"
+      }
+    },
+    "translations": {
+      "english": [
+        "bird"
+      ]
+    }
+  },
+  "pies": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "pies",
+        "dopełniacz": "psa",
+        "celownik": "psu",
+        "biernik": "psa",
+        "narzędnik": "psem",
+        "miejscownik": "psie",
+        "wołacz": "psie"
+      },
+      "plural": {
+        "mianownik": "psowie",
+        "dopełniacz": "psów",
+        "celownik": "psom",
+        "biernik": "psy",
+        "narzędnik": "psami",
+        "miejscownik": "psach",
+        "wołacz": "psowie"
+      }
+    },
+    "translations": {
+      "english": [
+        "dog"
+      ]
+    }
+  },
+  "kurz": {
+    "gender": "masculine",
+    "declension": {
+      "singular": {
+        "mianownik": "kurz",
+        "dopełniacz": "kurzu",
+        "celownik": "kurzowi",
+        "biernik": "kurz",
+        "narzędnik": "kurzem",
+        "miejscownik": "kurzu",
+        "wołacz": "kurzu"
+      },
+      "plural": {
+        "mianownik": "kurze",
+        "dopełniacz": "kurzy",
+        "celownik": "kurzom",
+        "biernik": "kurze",
+        "narzędnik": "kurzami",
+        "miejscownik": "kurzach",
+        "wołacz": "kurze"
+      }
+    },
+    "translations": {
+      "english": [
+        "dust"
+      ]
+    }
+  },
+  "żelazo": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "żelazo",
+        "dopełniacz": "żelaza",
+        "celownik": "żelazu",
+        "biernik": "żelazo",
+        "narzędnik": "żelazem",
+        "miejscownik": "żelazie",
+        "wołacz": "żelazo"
+      },
+      "plural": {
+        "mianownik": "żelaza",
+        "dopełniacz": "żelaz",
+        "celownik": "żelazom",
+        "biernik": "żelaza",
+        "narzędnik": "żelazami",
+        "miejscownik": "żelazach",
+        "wołacz": "żelaza"
+      }
+    },
+    "translations": {
+      "english": [
+        "iron"
+      ]
+    }
+  },
+  "kuweta": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "kuweta",
+        "dopełniacz": "kuwety",
+        "celownik": "kuwecie",
+        "biernik": "kuwetę",
+        "narzędnik": "kuwetą",
+        "miejscownik": "kuwecie",
+        "wołacz": "kuweto"
+      },
+      "plural": {
+        "mianownik": "kuwety",
+        "dopełniacz": "kuwet",
+        "celownik": "kuwetom",
+        "biernik": "kuwety",
+        "narzędnik": "kuwetami",
+        "miejscownik": "kuwetach",
+        "wołacz": "kuwety"
+      }
+    },
+    "translations": {
+      "english": [
+        "litter box"
+      ]
+    }
+  },
+  "rocznica": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "rocznica",
+        "dopełniacz": "rocznicy",
+        "celownik": "rocznicy",
+        "biernik": "rocznicę",
+        "narzędnik": "rocznicą",
+        "miejscownik": "rocznicy",
+        "wołacz": "rocznico"
+      },
+      "plural": {
+        "mianownik": "rocznice",
+        "dopełniacz": "rocznic",
+        "celownik": "rocznicom",
+        "biernik": "rocznice",
+        "narzędnik": "rocznicami",
+        "miejscownik": "rocznicach",
+        "wołacz": "rocznice"
+      }
+    },
+    "translations": {
+      "english": [
+        "anniversary"
+      ]
+    }
+  },
+  "reklamacja": {
+    "gender": "feminine",
+    "declension": {
+      "singular": {
+        "mianownik": "reklamacja",
+        "dopełniacz": "reklamacji",
+        "celownik": "reklamacji",
+        "biernik": "reklamację",
+        "narzędnik": "reklamacją",
+        "miejscownik": "reklamacji",
+        "wołacz": "reklamacjo"
+      },
+      "plural": {
+        "mianownik": "reklamacje",
+        "dopełniacz": "reklamacji",
+        "celownik": "reklamacjom",
+        "biernik": "reklamacje",
+        "narzędnik": "reklamacjami",
+        "miejscownik": "reklamacjach",
+        "wołacz": "reklamacje"
+      }
+    },
+    "translations": {
+      "english": [
+        "complaint"
+      ]
+    }
+  },
+  "bogactwo": {
+    "gender": "neuter",
+    "declension": {
+      "singular": {
+        "mianownik": "bogactwo",
+        "dopełniacz": "bogactwa",
+        "celownik": "bogactwu",
+        "biernik": "bogactwo",
+        "narzędnik": "bogactwem",
+        "miejscownik": "bogactwie",
+        "wołacz": "bogactwo"
+      },
+      "plural": {
+        "mianownik": "bogactwa",
+        "dopełniacz": "bogactw",
+        "celownik": "bogactwom",
+        "biernik": "bogactwa",
+        "narzędnik": "bogactwami",
+        "miejscownik": "bogactwach",
+        "wołacz": "bogactwa"
+      }
+    },
+    "translations": {
+      "english": [
+        "wealth"
+      ]
+    }
   }
 }
